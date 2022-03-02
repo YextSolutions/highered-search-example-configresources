@@ -1,4 +1,4 @@
-# highered-search-example-configresources
+# Professor & Class Search Example for Higher Education
 
 ![uni experience image](https://a.mktgcdn.com/p/v63zTHHjxgjSDcFB3uZAT3HhUsV5CkrcapPcaqxGsN8/1560x878.jpg)
 
