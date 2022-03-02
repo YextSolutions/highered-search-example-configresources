@@ -1,0 +1,1 @@
+# highered-search-example-configresources
