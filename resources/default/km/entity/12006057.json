@@ -1,0 +1,18 @@
+{
+  "$id": "12006057",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GER 372",
+      "ART 342",
+      "ECS 384"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This seminar explores the significance of works of art, and of practices of writing about art, for three great writers of the early 20th century: poet Rainer Maria Rilke, psychoanalyst Sigmund Freud, and critic and philosopher Walter Benjamin. Readings include: lyric poetry, experimental prose, psychoanalytic theory, cultural analysis, and aesthetic theory. Topics include: the situation of the work of art in modernity; art and the unconscious; the work of art and the historical transmission of culture in modern Europe. Course taught in English. Readings also available in German for those who wish to work with texts in the original language.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016240",
+    "name": "Writing About Art (Rilke, Freud, Benjamin)"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

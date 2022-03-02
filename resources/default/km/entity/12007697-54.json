@@ -1,0 +1,53 @@
+{
+  "$id": "12007697-54",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Harvard University, 1990",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "153 Princeton Neuroscience Institute",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~sseung",
+      "linkType": "OTHER"
+    },
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/sseung",
+      "linkType": "OTHER"
+    },
+    "description": "Ho-Am Prize in Engineering, 2008; McKnight Scholar Award, 2000.",
+    "emails": [
+      "sseung@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092587713",
+    "name": "Sebastian Seung (on leave)",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d2086\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/ZrHmn60xeB8OQGI5KUgIAJE5Fpq2-Xoz09Gw61Lv6iE/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/ZrHmn60xeB8OQGI5KUgIAJE5Fpq2-Xoz09Gw61Lv6iE/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/ZrHmn60xeB8OQGI5KUgIAJE5Fpq2-Xoz09Gw61Lv6iE/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Evnin Professor in Neuroscience, Professor of Computer Science and Princeton Neurosciences Institute"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

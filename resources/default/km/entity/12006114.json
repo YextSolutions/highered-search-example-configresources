@@ -1,0 +1,16 @@
+{
+  "$id": "12006114",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ECO 500"
+    ],
+    "c_term": "2021 Summer",
+    "description": "n exposition of those parts of mathematics necessary to equip the graduate student in economics with modern techniques of analysis and empirical investigation. Service course",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d001512",
+    "name": "Mathematics for Economists"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

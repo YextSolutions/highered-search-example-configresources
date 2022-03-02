@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "40eee73a-af24-4eee-a68c-02c5dbf21468",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what courses cover settler colonialism and environmental racism",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 23,
+      "offset": 201
+    },
+    "resultText": "historical overview followed by an investigation of key legislative actions and economic factors inhibiting racial equality. Subsequent topics include migration and immigration; urban development; and residential segregation. The end of the course reviews resistance movements and policies aimed at addressing systemic racism, including restorative justice and reparations"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "12006084",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPA 218",
+      "ECS 357",
+      "COM 253"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Since 2018 the feminist movement has massively and transnationally re-emerged. Particularly in the Spanish-speaking world, the enormous momentum of its struggle has generated profound political, social, and cultural transformations. In this course we will study the so-called 4th Feminist Wave from a varied number of media (literature, film, social media, archives, etc.) created by artists, intellectuals, and activists from the Spanish-speaking world. The aim of the course is to promote a rigorous knowledge of the recent history of feminism in The Americas and Europe and to encourage reflection on the relevance of its claims and achievements",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016340",
+    "name": "Culture and Feminist Struggle in Latin America and Spain"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

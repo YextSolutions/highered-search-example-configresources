@@ -1,0 +1,16 @@
+{
+  "$id": "12006167",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "MAT 202"
+    ],
+    "c_term": "2021 Summer",
+    "description": "Companion course to MAT201. Matrices, linear transformations, linear independence and dimension, bases and coordinates, determinants, orthogonal projection, least squares, eigenvectors and their applications to quadratic forms and dynamical systems.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d004150",
+    "name": "Linear Algebra with Applications"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

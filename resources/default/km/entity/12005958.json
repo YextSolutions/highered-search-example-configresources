@@ -1,0 +1,18 @@
+{
+  "$id": "12005958",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "LAS 318",
+      "HIS 319",
+      "AAS 343"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course grapples with changing understandings of race in Latin America from the early 19th century to the present, and explores the persistent tension between nation-building projects and the region\u0027s remarkable human diversity. Latin America\u0027s history, like that of the US, has been profoundly shaped by the violent legacies of conquest and slavery. Yet the categories through which Latin Americans imagine racial difference have tended to shift over time and with them, the forms taken by racism and discrimination. We will set these evolving concepts in their historical context, the better to understand their concrete and enduring effects.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016322",
+    "name": "Race and Nation in Modern Latin America"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

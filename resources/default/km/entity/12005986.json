@@ -1,0 +1,17 @@
+{
+  "$id": "12005986",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "THR 419",
+      "MTD 419"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course is designed to encourage the development of directors for theater and musical theater, covering techniques and practices from both areas. The course will look at the practices of a small list of key figures in world theatre and how their work has influenced how directors approach the rehearsal room today. The course will incorporate a strong practical element, giving student directors the opportunity to explore and hone their own practices, developing useful and appropriate style and language as they move forward in their work as young directors.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016305",
+    "name": "Directing for Theater and Music Theater"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "12006076",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CWR 319"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "A reading-intensive advanced fiction workshop dedicated to a close reading of Primo Levi\u0027s The Periodic Table, an indefinable masterpiece of Italian literature which combines autobiographical and fictional elements, calling into question the equivocal relationship between truth and invention. Careful analysis of this text will serve as an ongoing frame of reference for class discussion and creative inspiration.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016235",
+    "name": "For Man is a Centaur: Reading Primo Levi"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

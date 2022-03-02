@@ -1,0 +1,16 @@
+{
+  "$id": "12006078",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ARC 322"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Why do certain architectures figure prominently in historiography and criticism while others fall into obscurity? This seminar examines new ways of narrating the history of modern architecture from the perspective of protagonists, works and tendencies that have been subject to shifting receptions due to diverse ideological constructions, the dialectics of center and periphery and the politics of gender and sexuality. The reception of contemporary architecture in built projects, film, and installation art, opens our analysis to an intermedium dimension alongside more traditional historiographical conditions of narration.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d014601",
+    "name": "History of Comparative Architecture: Rediscovered Modernisms: Shifting Receptions and Emerging Narratives"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

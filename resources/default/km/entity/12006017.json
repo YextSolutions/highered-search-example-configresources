@@ -1,0 +1,17 @@
+{
+  "$id": "12006017",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPA 350",
+      "LAS 349"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Global capitalism has often imagined Latin America as a collection of \"\"raw\"\" commodities ready to be extracted. In this class, we explore this way of conceiving the region through its cultural production. Throughout the semester, we will engage with various \"\"exemplary\"\" commodities, including bananas, rubber, and sugar. We will look at their representations in literature, art, movies, and economic texts, but also at how commodities themselves -as material objects with a history- have shaped aesthetical forms. This approach will serve as an entry point for understanding inequality, neocolonialism, patriarchy, and climate change in the region",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d009617",
+    "name": "Topics in Latin American Cultural Studies: Latin American Imaginaries of Extraction: Rubber, Bananas, and Other"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "12005983",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPI 335"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course focuses on contextual factors, health actors and processes that are typical of policy development and implementation in low- and middle-income countries (LMICs). We review health issues/outcomes across the lifespan and implications for health systems strategies, financing, organizational changes, and policy. We analyze political, bureaucratic and other influences on health policymaking, including by government, civil society, private sector, and global health institutions. The course will involve class discussion and lectures, in-class exercises, and review of academic literature and international and governmental reports.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016303",
+    "name": "Health Policy in Low and Middle Income Countries"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

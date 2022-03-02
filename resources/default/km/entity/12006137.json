@@ -1,0 +1,16 @@
+{
+  "$id": "12006137",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPI 593B"
+    ],
+    "c_term": "2021 Summer",
+    "description": "In the second half of 2011, the crisis in the Eurozone threatened to run out of control. This course discusses four themes: 1) the critiques of the concept of the Eurozone prior to January 1999; 2) why the Eurozone appeared a major success at its 10th anniversary, which coincided with the beginning of the global economic crisis; 3) the interconnected nature of the crisis, weak sovereigns, weak banks, and weak growth prospects; and 4) the domestic and multilateral measures to deal with the crisis. The course also considers the future of the Eurozone.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d006988",
+    "name": "Topics in Policy Analysis (Half-Term): Eurozone Crisis and Beyond"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "12006097",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "LAS 420",
+      "GSS 458",
+      "SPA 420",
+      "ANT 423"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The seminar will draw on Anibal Quijano\u0027s work to explore three major themes: the intertwined notions of race and gender in Latin America; the understanding of gender and patriarchy in the work of contemporary decolonial feminist theory; and the oppressive intersectional inequalities introduced by the Conquest and colonization that continue to shape our world. Although Quijano\u0027s scholarship tends to be read in a disjointed and disconnected way, this course will take a more unified approach. This seminar will be taught by PLAS fellow Rita Segato, an internationally acclaimed anthropologist and feminist thinker.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016347",
+    "name": "Coloniality of Power: A Gender Perspective"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

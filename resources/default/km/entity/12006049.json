@@ -1,0 +1,17 @@
+{
+  "$id": "12006049",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HIS 409",
+      "GSS 455"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course explores the ways that law structured women\u0027s lives and how women shaped the law in U.S. history, from the colonial period to the present. While tracing changes in women\u0027s legal status over time, this course is also concerned with those issues, it also considers law as a lived aspect of people\u0027s lives: how it structured identities, relationships, and material circumstances. It also deals with diversity among women, in terms of race, class, and sexuality. You will leave with a greater understanding of women\u0027s relationship to law and current legal issues facing all Americans, not just women.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016259",
+    "name": "Women and Law in U.S. History"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

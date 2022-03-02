@@ -1,0 +1,18 @@
+{
+  "$id": "12005945",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GSS 211",
+      "GHP 311",
+      "SOC 219"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Human reproduction is often taken for granted as a merely biological phenomenon, yet reproduction is laden with cultural meaning and import for individuals and for society as a whole. Despite its significance, reproduction is rarely addressed in the Princeton curriculum. This new lecture course explores human reproduction from a sociological perspective. It also seeks to introduce students to some of the basic modes of thinking in both sociology and gender and sexuality studies.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016335",
+    "name": "The Sociology of Human Reproduction"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

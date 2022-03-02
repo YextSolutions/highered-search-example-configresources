@@ -1,0 +1,16 @@
+{
+  "$id": "12006141",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CHI 304C"
+    ],
+    "c_term": "2021 Summer",
+    "description": "A four-week summer intensive language which is a continuation of CHI 303C. This course is designed to further improve students\u0027 facility in written and oral expression through a close study of essays written by influential Chinese intellectuals on issues of women\u0027s emancipation, family systems, and modernization. Prerequisites: CHI 303C or equivalent. The course consists of five two-hour classes and five two-hour drill sessions weekly, plus individual tutorial sessions.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d009069",
+    "name": "Third-Year Modern Chinese II"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

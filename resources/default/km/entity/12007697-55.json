@@ -1,0 +1,59 @@
+{
+  "$id": "12007697-55",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Stanford University, 1993",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "324 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~jps",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Parallel Computing Systems And Applications",
+      "System Software And Programming Environments For Multiprocessors",
+      "Computational Biology",
+      "Protein Structure Determination"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/jps",
+      "linkType": "OTHER"
+    },
+    "description": "Parallel computing systems and applications: parallel applications and their implications for software and architectural design; system software and programming environments for multiprocessors. Special interest in applications of computing in computational biology, especially protein structure determination and simulating the immune system. Presidental Early Career Award (PECASE), 1997.",
+    "emails": [
+      "jps@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092585329",
+    "name": "Jaswinder Singh",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d29\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/onrei-i0Dn8OjBjj7J4GFWO6uvd7oM9pJ2Rn1ycMS8Q/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/onrei-i0Dn8OjBjj7J4GFWO6uvd7oM9pJ2Rn1ycMS8Q/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/onrei-i0Dn8OjBjj7J4GFWO6uvd7oM9pJ2Rn1ycMS8Q/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

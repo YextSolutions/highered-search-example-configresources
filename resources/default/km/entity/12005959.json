@@ -1,0 +1,17 @@
+{
+  "$id": "12005959",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "AST 206",
+      "PHY 206"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Black holes are amazing: so much mass is contained in such a small region of space that nothing, not even light, can escape. In this class, we will learn to understand what black holes are, and (equally importantly) what they are not (sorry, science fiction!). We will grapple with the seeming simplicity of black holes and their weirdness. We will also study how black holes are discovered and how they give rise to some of the most astonishing phenomena in the Universe. We will cover concepts at the forefront of modern astronomy and physics and highlight the power of quantitative thinking (algebra only) and the scientific method.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016202",
+    "name": "Black Holes"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "12005972",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "THR 224",
+      "CWR 225"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The Writers\u0027 Room will replicate the fast-paced environment of a Hollywood writers room. Students will be assigned to a writing team and will pen two complete scripts with their fellow writers. They will also be required to submit an original work for their final project that they have written solo. It can be a play, a short film, or a series pilot.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016310",
+    "name": "The Writers\u0027 Room"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

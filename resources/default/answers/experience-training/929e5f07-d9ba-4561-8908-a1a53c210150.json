@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "929e5f07-d9ba-4561-8908-a1a53c210150",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what is the course code for global political thought",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 154,
+      "offset": 191
+    },
+    "resultText": "inequality in political thought. Readings will be drawn from both canonical and contemporary authors, including Sophocles, Douglass, Machiavelli, Locke, Rousseau, and Tocqueville. This is an introductory course, which emphasizes both thematic and historical approaches to political theory, and its role in informing contemporary civic engagement"
+  }
+}

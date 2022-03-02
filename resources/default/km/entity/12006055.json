@@ -1,0 +1,16 @@
+{
+  "$id": "12006055",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPI 338"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course will explore the context, content, and significance of reparations. States deploy reparations to acknowledge and sometimes make restitution for institutionalized violence. Typically, reparations are won by activist-led movements. Conflicts may arise over who can speak for harmed groups and what constitutes justice. For their part, state actors may approach reparations strategically, e.g., to reframe a historical narrative. After studying various precedents, we will turn to recent developments in the long struggle for restorative justice for African Americans and other African diasporic communities worldwide.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016360",
+    "name": "Reparations in Global Perspective"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

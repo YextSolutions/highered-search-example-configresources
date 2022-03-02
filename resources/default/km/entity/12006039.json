@@ -1,0 +1,18 @@
+{
+  "$id": "12006039",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "COM 370",
+      "ECS 386",
+      "HUM 371"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This seminar will explore the perennial fascination with forms of narrative that purport to tell true stories about actual individual lives: biography and autobiography, memoir, diary, hagiography, and more. What is at stake, what can be gained by writers and readers from life writing in its various genres? Readings will be primarily though not exclusively European. We will read and discuss some theoretical works alongside the life writings themselves.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d004057",
+    "name": "Topics in Comparative Literature: Writing Lives"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

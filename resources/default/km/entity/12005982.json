@@ -1,0 +1,16 @@
+{
+  "$id": "12005982",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPI 313"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Twenty years after the September 11th terrorist attacks, America\u0027s national security regime continues to be shaped by an indefinite \"\"War on Terror,\"\" notwithstanding the death of Osama Bin Laden, the U.S. military\u0027s withdrawal from Afghanistan and Iraq, and the effective defeat of the Islamic State in Iraq and Syria (ISIS). The laws and policies passed over the past two decades have generated heated debates on how to balance individual rights with national security priorities. This course examines in depth these debates through a survey of select post-9/11 national security laws and policies and their impact on civil liberties.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016302",
+    "name": "National Security and Civil Liberties"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

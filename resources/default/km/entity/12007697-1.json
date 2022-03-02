@@ -1,0 +1,59 @@
+{
+  "$id": "12007697-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Carnegie-Mellon University, 1985",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "209 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~appel",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Software Verification",
+      "Computer Security",
+      "Programming Languages",
+      "Compilers"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/appel",
+      "linkType": "OTHER"
+    },
+    "description": "Software verification, computer security, programming languages, compilers. ACM Fellow, 1998. SIGPLAN Distinguished Service Award, 2002.",
+    "emails": [
+      "appel@university.edu"
+    ],
+    "mainPhone": "+16092124627",
+    "name": "Andrew Appel (on leave)",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d3\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/-KaRwKkJlLadiAmvFNyXFDgJdMeJ1S49N0NkaIu_iCU/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/-KaRwKkJlLadiAmvFNyXFDgJdMeJ1S49N0NkaIu_iCU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/-KaRwKkJlLadiAmvFNyXFDgJdMeJ1S49N0NkaIu_iCU/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Eugene Higgins Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

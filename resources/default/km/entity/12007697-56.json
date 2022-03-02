@@ -1,0 +1,56 @@
+{
+  "$id": "12007697-56",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Massachusetts Institute of Technology, 1995",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "420 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~mona",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Computational Molecular Biology"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/mona",
+      "linkType": "OTHER"
+    },
+    "description": "Computational molecular biology, as well as its interface with machine learning and algorithms. Presidental Early Career Award (PECASE), 2001. ACM Fellow, 2019. ISCB Fellow, 2018.",
+    "emails": [
+      "mona@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092582087",
+    "name": "Mona Singh",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d30\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/n48lpxytdWfRfPl5oDfS02DFHlBe_Jd-vyT2OlPsdMo/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/n48lpxytdWfRfPl5oDfS02DFHlBe_Jd-vyT2OlPsdMo/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/n48lpxytdWfRfPl5oDfS02DFHlBe_Jd-vyT2OlPsdMo/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

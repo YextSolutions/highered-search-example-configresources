@@ -1,0 +1,60 @@
+{
+  "$id": "12007697-0",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., University of Cambridge, 2009",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "411 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~rpa",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Computational Statistics",
+      "Probabalistic Methods",
+      "Approximate Bayesian Inference"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/rpa",
+      "linkType": "OTHER"
+    },
+    "description": "I am interested in machine learning, artificial intelligence, and computational statistics, with applications across science and engineering. I have broad interests but often work on probabilistic methods and approximate Bayesian inference.",
+    "emails": [
+      "rpa@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092588682",
+    "name": "Ryan Adams (on leave)",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d4111\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/f9exyJozsNRjLq6gTFijfNiK43WLAQlkeU9sE-NiJ0s/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/f9exyJozsNRjLq6gTFijfNiK43WLAQlkeU9sE-NiJ0s/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/f9exyJozsNRjLq6gTFijfNiK43WLAQlkeU9sE-NiJ0s/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

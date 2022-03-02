@@ -1,0 +1,19 @@
+{
+  "$id": "12005975",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ANT 322",
+      "ENV 342",
+      "HUM 323",
+      "AMS 422"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Students will be introduced to anthropological and cross-disciplinary studies of multiple, divergent ways in which the Circumpolar populations experience, perceive and respond to environmental, political and socio-economic changes from within distinct horizons of knowledge \u0026 modes of sociality. By focusing on social and historical processes as well as current/emerging practices, worlds/cosmologies, the course will analytically evaluate such notions as Anthropocene, the Fourth World, indigeneity and decolonisation as well as examine attempts of various scholars to better understand complex interconnections of climate, environment and society.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016313",
+    "name": "Pluriversal Arctic"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

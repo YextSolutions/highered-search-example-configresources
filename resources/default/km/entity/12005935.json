@@ -1,0 +1,18 @@
+{
+  "$id": "12005935",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HIS 459",
+      "GSS 459",
+      "AMS 459"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The prison is a growth industry in the U.S.; it is also a central institution in U.S. political and social life, shaping our experience of race, class, gender, sexuality, citizenship, and political possibility. This course explores the history of incarceration over the course of more than two centuries. It tracks the emergence of the penitentiary in the early national period and investigates mass incarceration of the late 20th century. Topics include the relationship between the penitentiary and slavery; the prisoners\u0027 rights movement; Japanese internment; immigration detention; and the privatization and globalization of prisons.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d013008",
+    "name": "The History of Incarceration in the U.S."
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

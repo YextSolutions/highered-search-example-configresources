@@ -1,0 +1,16 @@
+{
+  "$id": "12006018",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "MPP 251"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This 12-week performance course is designed to give you the musical tools you will need to build a foundation in jazz improvisation. You will gain an understanding of jazz harmony, jazz scales and modes, blues forms, deep listening/ear training, sight reading, memorize jazz repertoire, identify common jazz forms, identify important jazz artists, and build practice strategies.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016271",
+    "name": "Jazz Fundamentals"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

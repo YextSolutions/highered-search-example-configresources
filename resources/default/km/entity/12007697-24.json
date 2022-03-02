@@ -1,0 +1,57 @@
+{
+  "$id": "12007697-24",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Princeton University, 2006",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "409 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~ehazan",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Theoretical Foundations Of Machine Learning",
+      "Design And Analysis Of Efficient Algorithms For Machine Learning And Mathematical Optimization"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/ehazan",
+      "linkType": "OTHER"
+    },
+    "description": "Theoretical foundations of machine learning, design and analysis of efficient algorithms for machine learning and mathematical optimization.",
+    "emails": [
+      "ehazan@university.edu"
+    ],
+    "mainPhone": "+16092126031",
+    "name": "Elad Hazan",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d2425\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/KAGlY72wOoW1l72XmEpChuwWDQQ6QNL_4G4dBWonOeE/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/KAGlY72wOoW1l72XmEpChuwWDQQ6QNL_4G4dBWonOeE/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/KAGlY72wOoW1l72XmEpChuwWDQQ6QNL_4G4dBWonOeE/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

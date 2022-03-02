@@ -1,0 +1,18 @@
+{
+  "$id": "12006088",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "EAS 241",
+      "COM 250",
+      "GSS 242"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This class expands the conceptual boundaries of fashion beyond designer labels and celebrity trends toward an address of the socio-technological function of fashion in East Asia. The central aim of the course is to engage thinking about fashion as a multilayered site where East Asia\u0027s media infrastructure, gender politics, labor systems, and non-human entities intersect. Scrutinizing the role of the state as well as the industry\u0027s racialized grammars, we will examine how fashion articulates with presumed binaries of class, ideology, gender, age and race in understanding East Asian national and diasporic formations.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016343",
+    "name": "Fashion and East Asia"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

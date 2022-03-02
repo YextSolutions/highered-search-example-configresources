@@ -1,0 +1,16 @@
+{
+  "$id": "12006170",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ECO 585"
+    ],
+    "c_term": "2021 Summer",
+    "description": "Summer research project designed in conjunction with a faculty advisor and an industrial, NGO, or governmental sponsor that will provide relevant research experience. A final paper is required.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d009253",
+    "name": "Extramural Summer Research Project"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

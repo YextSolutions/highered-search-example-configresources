@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "8f7b2a25-6128-43cb-8e66-abb054584b29",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what are matthew weinberg\u0027s interests",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 290,
+      "offset": 172
+    },
+    "resultText": "described as the \"\"Second Gilded Age\"\", and some question whether high levels of economic inequality threaten political equality in the United States. This course examines social class and economic inequality in American Politics. Topics include attitudes about social class and inequality; how economic inequality is linked to race, ethnicity, and gender; the social safety net in the U.S.; numerical and substantive representation; and interest group influence"
+  }
+}

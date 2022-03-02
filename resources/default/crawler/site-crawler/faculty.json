@@ -1,0 +1,15 @@
+{
+  "$id": "faculty",
+  "$schema": "https://schema.yext.com/config/crawler/site-crawler/v1",
+  "name": "Faculty",
+  "enabled": true,
+  "crawlSchedule": "once",
+  "crawlStrategy": "subPages",
+  "domains": [
+    "https://admission.princeton.edu/"
+  ],
+  "ignoreQueryParameterOption": "none",
+  "subPagesUrlStructures": [
+    "https://admission.princeton.edu/academics/faculty-profiles/*"
+  ]
+}

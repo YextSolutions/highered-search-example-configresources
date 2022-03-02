@@ -1,0 +1,17 @@
+{
+  "$id": "12006083",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GER 306",
+      "ECS 387"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Why is it that we know something but don\u0027t act accordingly? This question becomes urgent in the face of issues that require immediate action, like global-warming, meat-production, exploitative working conditions, sexual violence, racism. \"\"Death is a master from Germany,\"\" the poet Paul Celan wrote - given the long denial of the death-camps, we could also say: \"\"Denial is a master from Germany.\"\" This class traces a series of catastrophic (quasi-)events in German history and discusses global analogues. We will also turn our attention to conspiracy-theories, i.e. large-scale communities of denial that affirm alternative realities.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d003158",
+    "name": "German Intellectual History: Denial, Disavowal, Conspiracy"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

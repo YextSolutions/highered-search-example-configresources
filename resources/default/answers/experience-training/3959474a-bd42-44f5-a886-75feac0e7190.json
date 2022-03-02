@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "3959474a-bd42-44f5-a886-75feac0e7190",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what courses cover urban development and residential segregation",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "enforcedPrediction": {
+      "length": 100,
+      "offset": 210
+    },
+    "predictionType": "SPAN_EXTRACTION",
+    "resultText": "of sociologists, some of whom will participate as invited guests. The course gives a historical overview followed by an investigation of key legislative actions and economic factors inhibiting racial equality. Subsequent topics include migration and immigration; urban development; and residential segregation. The end of the course reviews resistance movements and policies aimed at addressing systemic racism, including restorative justice and reparations."
+  }
+}

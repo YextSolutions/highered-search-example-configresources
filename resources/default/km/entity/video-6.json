@@ -1,0 +1,24 @@
+{
+  "$id": "video-6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "Faculty Interviews"
+    ],
+    "c_numberViews": "3647",
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003du1z9MOcxXgY",
+    "datePosted": "2013-08-06",
+    "landingPageUrl": "https://www.youtube.com/watch?v\u003du1z9MOcxXgY",
+    "name": "\u0027Introduction to Computer Science\u0027 course at Princeton",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003du1z9MOcxXgY"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "320dd695-340b-4ce2-8c83-4c1f959965f7",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what course teaches combinatorics",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "enforcedPrediction": {
+      "length": 108,
+      "offset": 69
+    },
+    "predictionType": "SPAN_EXTRACTION",
+    "resultText": "An introduction to mathematical topics relevant to computer science. Combinatorics, probability and graph theory will be covered in the context of computer science applications. The course will present a computer science approach to thinking and modeling. Students will be introduced to fundamental concepts in theoretical computer science, such as NP-completeness and cryptography that arise from the world view of efficient computation."
+  }
+}

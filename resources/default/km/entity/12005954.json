@@ -1,0 +1,16 @@
+{
+  "$id": "12005954",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 160"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Have you ever paused to consider the material that forms your ceramic coffee mug or dinner plate? They are modern iterations of a method of ceramic production first developed in China around 19,000 years ago. Using objects in the Princeton University Art Museum\u0027s collection, this seminar will investigate how and why artists from the dawn of civilization to the present day in China created objects made of ceramic, lacquer, bronze, jade, silk, wood, and other natural materials. Through discussions on technology, artistry, and function we will consider how objects made in China embody cultural beliefs and capture the eye with their beauty.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016219",
+    "name": "China\u0027s Objects: Opulence and Innovation"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

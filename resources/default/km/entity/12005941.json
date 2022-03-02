@@ -1,0 +1,16 @@
+{
+  "$id": "12005941",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 136"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "It is a commonplace that the humanities teach \"\"critical thinking,\"\" but what, exactly, does it mean to think \"\"critically\"\" or practice \"\"critique\"\"? This seminar explores the rich history of reflection on critique in the German intellectual tradition, from Kant\u0027s critical turn in philosophy to the Critical Theory of the Frankfurt School and contemporary debates about whether critique has outlived its usefulness. We will explore the historical origins of the critical habitus, probe connections between literary criticism and cultural critique, and examine the uses and limits of critical demystification in times of post-truth politics.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016211",
+    "name": "What Is Critique?"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

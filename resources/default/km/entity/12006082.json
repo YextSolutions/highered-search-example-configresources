@@ -1,0 +1,17 @@
+{
+  "$id": "12006082",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GER 307",
+      "TRA 311"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Is translation possible without losing something of the original? Can cultures be translated or appropriated? Is a universal language possible, or even desirable? Can a computer be trained to translate more effectively than a human? This course will explore the limits, uses, and abuses of translation and multilingual difference through readings and discussions of myths, case studies, and theories of translation, with a focus on the German context. We will acquaint ourselves with many different perspectives on translation and untranslatability, as well as developing our own understandings of these problems.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d003159",
+    "name": "Topics in German Culture and Society: Lost in Translation: From the Tower of Babel to Machine Translation"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

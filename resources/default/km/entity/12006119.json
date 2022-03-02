@@ -1,0 +1,16 @@
+{
+  "$id": "12006119",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "QCB 501"
+    ],
+    "c_term": "2021 Summer",
+    "description": "Discussion and evaluation of the role professional researchers play in dealing with the reporting of research, responsible authorship, human and animal studies, misconduct and fraud in science, intellectual property, and professional conduct in scientific relationships. Participants are expected to read the materials and cases prior to each meeting. Successful completion is based on regular attendance and active participation in discussion. This half-term course is designed to satisfy federal funding agencies\u0027 requirements for training in the ethical practice of scientists. Required for graduate students and post-docs.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d011791",
+    "name": "Topics in Ethics in Science (Half-Term)"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

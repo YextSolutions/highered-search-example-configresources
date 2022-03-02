@@ -1,0 +1,17 @@
+{
+  "$id": "12005906",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "LIN 214",
+      "TRA 214"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course offers intensive practice in American Sign Langauge (ASL) through learning specialized vocabulary, analyzing grammar, developing ASL-English translation skills, and discussing ASL literary works and Deaf culture.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d015526",
+    "name": "Advanced American Sign Language"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

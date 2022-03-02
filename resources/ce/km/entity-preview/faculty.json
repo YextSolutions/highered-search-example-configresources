@@ -1,0 +1,89 @@
+{
+  "$id": "ce_faculty",
+  "$schema": "https://schema.yext.com/config/km/entity-preview/v1",
+  "displayName": {
+    "default": "Faculty",
+    "translations": []
+  },
+  "entityType": "ce_faculty",
+  "previewType": "ROW",
+  "previewSettings": {
+    "showEntityTypeName": true,
+    "showEntityTypeSymbol": true,
+    "fieldSettingsList": [
+      {
+        "fieldIdentifier": {
+          "fieldId": "name",
+          "propertyNames": []
+        },
+        "fieldKind": "STRING",
+        "stringConfiguration": {
+          "isEmphasizedField": true,
+          "showFieldName": false,
+          "lineHeight": 1
+        }
+      },
+      {
+        "fieldIdentifier": {
+          "fieldId": "photoGallery",
+          "propertyNames": []
+        },
+        "fieldKind": "IMAGE",
+        "imageConfiguration": {
+          "showFieldName": false,
+          "fitImage": false
+        }
+      },
+      {
+        "fieldIdentifier": {
+          "fieldId": "c_degree",
+          "propertyNames": []
+        },
+        "fieldKind": "STRING",
+        "stringConfiguration": {
+          "isEmphasizedField": false,
+          "showFieldName": true,
+          "lineHeight": 1
+        }
+      },
+      {
+        "fieldIdentifier": {
+          "fieldId": "title",
+          "propertyNames": []
+        },
+        "fieldKind": "STRING",
+        "stringConfiguration": {
+          "isEmphasizedField": false,
+          "showFieldName": true,
+          "lineHeight": 1
+        }
+      },
+      {
+        "fieldIdentifier": {
+          "fieldId": "emails",
+          "propertyNames": []
+        },
+        "fieldKind": "LIST",
+        "listConfiguration": {
+          "isEmphasizedField": false,
+          "showFieldName": true,
+          "lineHeight": 1,
+          "showListValue": true,
+          "showListCount": true
+        }
+      },
+      {
+        "fieldIdentifier": {
+          "fieldId": "mainPhone",
+          "propertyNames": []
+        },
+        "fieldKind": "STRING",
+        "stringConfiguration": {
+          "isEmphasizedField": false,
+          "showFieldName": true,
+          "lineHeight": 1
+        }
+      }
+    ]
+  }
+}

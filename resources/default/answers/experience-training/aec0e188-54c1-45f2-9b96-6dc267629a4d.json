@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "aec0e188-54c1-45f2-9b96-6dc267629a4d",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what is the subject associations for calculus ii",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 202,
+      "offset": 43
+    },
+    "resultText": "First semester of calculus. Topics include limits, continuity, the derivative, basic differentiation formulas and applications (curve-sketching, optimization, related rates), definite and indefinite integrals, the fundamental theorem of calculus"
+  }
+}

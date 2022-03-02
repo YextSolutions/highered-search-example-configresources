@@ -1,0 +1,16 @@
+{
+  "$id": "12006002",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPA 215"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "How do we represent meaning to ourselves and to others in contexts of difference? What social and historical conceptions of language are operational in our scriptural practices and cultures of scholarship? Because texts are embedded in, and shaped by, communities with shared histories and social practices, by experiencing different ways of reading and writing, we can explore not only new words, but new worlds. This course offers substantial practice to help students write creatively and credibly in Spanish, using the writing process recursively to present their ideas in an articulate, sophisticated manner.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016299",
+    "name": "A Spanish Writing Workshop"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

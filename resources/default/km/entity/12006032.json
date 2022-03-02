@@ -1,0 +1,19 @@
+{
+  "$id": "12006032",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HUM 321",
+      "THR 362",
+      "AMS 331",
+      "AAS 324"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Excavate/Illuminate will guide students\u0027 archival research and collaborative exploration of US history, journalism, and performance, focusing on the pivotal Tulsa Race Massacre (1921) as a case study. We will read several examples of documentary theater to see how artists create theater from the raw materials of history. For the first half of the semester, students will work in small groups, exploring online resources in order to develop and perform original scripts in the style of Federal Theatre Project Living Newspapers. During weeks 7-12, students will select collaborators and historical topics of interest to devise final performances.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016263",
+    "name": "Excavate/Illuminate: Creating Theater from the Raw Material of History"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

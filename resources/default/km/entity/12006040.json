@@ -1,0 +1,16 @@
+{
+  "$id": "12006040",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "JRN 447"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This seminar will critically examine coverage of the tumultuous 2020 election and look ahead to the pivotal 2022 midterms, while exploring how journalists try to hold the powerful to account across government, business and entertainment. The course will also examine Americans\u0027 media diets and the crises presently confronting news organizations. Students will conduct original reporting and analysis that address the challenges newsrooms face when reporting on Covid-19, race, gender, climate change and other topics, with an aim to better understand the journalist\u0027s role in a time of public distrust, disinformation and threats to democracy.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d003858",
+    "name": "Politics and the Media: Power and the Press"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

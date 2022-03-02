@@ -1,0 +1,16 @@
+{
+  "$id": "12005969",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "EAS 107"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course will expand your structures and knowledge of the Vietnamese language and multifaceted culture through idioms, proverbs, dialogues, and stories. Classroom activities and practices will help you communicate effectively and absorb meaning through speaking, listening, reading, and writing.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016329",
+    "name": "Intermediate Vietnamese II"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "3763c985-bdeb-4893-8796-84bb480fe3fc",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "where is robert dondero\u0027s office",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 33,
+      "offset": 137
+    },
+    "resultText": "twelve months were a tipping point after which the nation took a deep dive into the tumult of this fractious decade. The year began with Lyndon Johnson in the Oval Office after he had taken over the office following the tragic assassination of John F. Kennedy. The year would end with Johnson\u0027s resounding reelection victory against"
+  }
+}

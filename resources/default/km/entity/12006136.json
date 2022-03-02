@@ -1,0 +1,16 @@
+{
+  "$id": "12006136",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPA 107S"
+    ],
+    "c_term": "2021 Summer",
+    "description": "An intermediate/advanced online language course that consolidates and expands the skills acquired in beginner\u0027s Spanish. Students will continue to develop their ability to comprehend and communicate in Spanish while using the four basic skills: listening, speaking, reading, and writing. The course\u0027s linguistic goals are achieved in the context of examining the history, cultural production, practices, language, and reality of the U.S. Latino community. Materials include oral, written and audiovisual texts. By the end of the course, students will be able to express more complex ideas, orally and in writing, with greater grammatical accuracy.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d012357",
+    "name": "Intermediate/Advanced Spanish"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

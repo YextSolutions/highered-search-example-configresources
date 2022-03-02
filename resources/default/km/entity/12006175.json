@@ -1,0 +1,16 @@
+{
+  "$id": "12006175",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "MAT 103"
+    ],
+    "c_term": "2021 Summer",
+    "description": "First semester of calculus. Topics include limits, continuity, the derivative, basic differentiation formulas and applications (curve-sketching, optimization, related rates), definite and indefinite integrals, the fundamental theorem of calculus.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d004139",
+    "name": "Calculus I"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

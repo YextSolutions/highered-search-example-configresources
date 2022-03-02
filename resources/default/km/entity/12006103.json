@@ -1,0 +1,16 @@
+{
+  "$id": "12006103",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "JRN 449"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The single biggest news event of the turn of this century -- 9/11 -- caused a paradigm shift in global affairs that we all still live with two decades on. Its ramifications changed the world and altered the shape of journalism. This seminar will examine how various perspectives, prejudices and pitfalls in international reporting continue to inform and challenge the fourth estate and how it operates. Students will learn about reporting in the field, being responsible to sources, acquiring new sensibilities, scrutinizing citizen journalism, and accounting for many different views from many different grounds.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d009382",
+    "name": "International News: Perspectives, Prejudices and Pitfalls"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

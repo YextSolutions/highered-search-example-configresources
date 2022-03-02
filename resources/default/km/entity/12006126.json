@@ -1,0 +1,16 @@
+{
+  "$id": "12006126",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GER 107G"
+    ],
+    "c_term": "2021 Summer",
+    "description": "A special online offering of fourth-semester German taught during the summer. Students take part in a six-week intensive language course and will cover the same range of vocabulary, grammar, and literary/textual materials as they would during the semester. Five one-hour classes weekly.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d003144",
+    "name": "Advanced German"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

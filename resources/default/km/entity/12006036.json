@@ -1,0 +1,17 @@
+{
+  "$id": "12006036",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GSS 223",
+      "ENG 254"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Why does sex work raise some of the most fascinating, controversial and often taboo questions of our time? The course explores the intricate lives and intimate narratives of sex workers from the perspective of sex workers themselves, as they engage in myriad varieties of global sex work: pornography, prostitution, erotic dance, escorting, street work, camming, commercial fetishism, and sex tourism. Themes include: the \u0027whore stigma,\u0027 race, class and queer dynamics; law, labor and money; technologies of desire and spectacle; dirt, marriage and monogamy; carceral modernity; violence, agency and, above all, strategies for social transformation.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016267",
+    "name": "Power, Profit and Pleasure: Sex Workers and Sex Work"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

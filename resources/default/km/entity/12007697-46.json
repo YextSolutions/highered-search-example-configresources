@@ -1,0 +1,57 @@
+{
+  "$id": "12007697-46",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Columbia University, 2013",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "033 Corwin Hall",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~ipetras",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Quantum Computation",
+      "Information-Based Complexity"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/ipetras",
+      "linkType": "OTHER"
+    },
+    "description": "Quantum computation, Information-Based Complexity",
+    "emails": [
+      "ipetras@university.edu"
+    ],
+    "mainPhone": "+16092121794",
+    "name": "Iasonas Petras",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d1868\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/S0Dnyzas1_GW48qYnfTIAz6WJluv00FspBH9ck3T_k0/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/S0Dnyzas1_GW48qYnfTIAz6WJluv00FspBH9ck3T_k0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/S0Dnyzas1_GW48qYnfTIAz6WJluv00FspBH9ck3T_k0/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Lecturer"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

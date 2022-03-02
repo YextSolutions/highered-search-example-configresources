@@ -1,0 +1,17 @@
+{
+  "$id": "12005996",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "LAO 305",
+      "POL 429"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "In this seminar, you will read, discuss, and write about published and unpublished research from political science, psychology, and media studies to examine Latino/a/x identity in the U.S., and the ways in which electoral politics affects and is affected by this social identity. The class will situate Latino/a/x identity and its political targeting and mobilization in U.S. elections in comparison to that of other ethno-racial and religious identity groups. Similarities and differences between groups and their effects on politics will be considered to better understand the broader landscape of identity politics in U.S. elections and campaigns.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016292",
+    "name": "Latino/a/x Identity in Politics"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

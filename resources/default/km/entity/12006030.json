@@ -1,0 +1,16 @@
+{
+  "$id": "12006030",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HIS 492"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "We live in a therapeutic society. This upper-level seminar aims to understand and complicate the reach of therapeutic culture by looking into crucial moments of its history. We will explore a range of formulations of the therapeutic, including psychoanalysis, humanistic psychology, and psychiatric drug treatment, but also move beyond the psychologist\u0027s office to explore therapeutic culture in social work, pastoral counseling, self-help groups, education, and TV.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016261",
+    "name": "The Therapeutic Persuasion: Psychotherapy and American Life"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

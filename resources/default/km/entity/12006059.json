@@ -1,0 +1,19 @@
+{
+  "$id": "12006059",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "COM 381",
+      "REL 385",
+      "ASA 381",
+      "EAS 382"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course explores the role of American Christianity in canonical and popular Korean and Korean-American novels and films. While the references to Christianity in these novels and films serve to indicate the active presence of American Christian missionaries in 20th century Korea, we will pay attention to the ways in which the figures of American Christianity function in these narratives.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016362",
+    "name": "Literature and Religion: Christianity in Korean and Korean-American Novels and Films"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,59 @@
+{
+  "$id": "12007697-18",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., University of Oxford, 2020",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "032 Corwin Hall",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~ruthfong",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Computer Vision",
+      "Machine Learning",
+      "Deep Learning",
+      "Explainable Ai"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/ruthfong",
+      "linkType": "OTHER"
+    },
+    "description": "computer vision, machine learning, deep learning, explainable AI",
+    "emails": [
+      "ruthfong@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092589248",
+    "name": "Ruth Fong",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d6081\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/TGAo6sX8eDnq7r1dVyIXdkzaUxSGwD8KTMD4SqT9mQk/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/TGAo6sX8eDnq7r1dVyIXdkzaUxSGwD8KTMD4SqT9mQk/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/TGAo6sX8eDnq7r1dVyIXdkzaUxSGwD8KTMD4SqT9mQk/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Lecturer"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "12006073",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ASA 336",
+      "GSS 353",
+      "SAS 338",
+      "AMS 301"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Since the recent election of Indian Prime Minister Narendra Modi, the question of who belongs has become central to South Asian politics. These questions of power and belonging reverberate in the diaspora. Because the US is a settler-colonial state, many South Asians find themselves at the interstices of American and South Asian systems of power and flows of capital. In order to examine these processes, this class will use interdisciplinary thematic units across South Asian and Asian American Studies to examine caste, race/racialization, gender/gendering processes and colonialism in the Indian American diaspora.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016231",
+    "name": "Critical Intersections in South Asian American Studies"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

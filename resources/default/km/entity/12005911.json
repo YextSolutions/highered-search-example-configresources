@@ -1,0 +1,17 @@
+{
+  "$id": "12005911",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "AMS 419",
+      "ENV 419"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "For agrarians, farms and fields are prized over boardrooms and shopping malls. Agrarianism values hard work, self-sufficiency, simplicity and connection with nature. For some today, it is a compelling antidote to globalization and consumerism. This course examines American agrarianism past and present and its central role in our national imaginary, tracing the complex and contradictory contours of a social and political philosophy that seeks freedom and yet gave way to enslaving, excluding, and ignoring many based on race, immigration status, and gender. A focus will be on new agrarianism and movements for food, land, and social justice.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d015030",
+    "name": "American Agrarians: Ideas of Land, Labor, and Food"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

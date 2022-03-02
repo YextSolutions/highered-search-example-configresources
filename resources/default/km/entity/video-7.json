@@ -1,0 +1,24 @@
+{
+  "$id": "video-7",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "Faculty Interviews"
+    ],
+    "c_numberViews": "1777",
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dX9rKkdq1XuM",
+    "datePosted": "2013-08-06",
+    "landingPageUrl": "https://www.youtube.com/watch?v\u003dX9rKkdq1XuM",
+    "name": "Princeton CS Professor: My Advice to Young People",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dX9rKkdq1XuM"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

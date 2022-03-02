@@ -1,0 +1,19 @@
+{
+  "$id": "12005931",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "MAE 328",
+      "EGR 328",
+      "ENV 328",
+      "ENE 328"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course provides an overview of fundamental physical mechanisms behind sustainable energy technologies, including solar thermal, solar photovoltaic, wind, nuclear, and hydroelectricity. Physics of the greenhouse effect, projected Earth\u0027s climate changes, as well as socio-economic impacts on energy uses and greenhouse-gas emissions are reviewed. Variability, dispatchability, and areal power density of energy resources are discussed. Energy efficiency, energy storage, as well as transmission and distribution of electric power are touched upon.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d002358",
+    "name": "Energy for a Greenhouse-Constrained World"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

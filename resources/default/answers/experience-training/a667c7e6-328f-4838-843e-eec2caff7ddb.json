@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "a667c7e6-328f-4838-843e-eec2caff7ddb",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what course can i learn about colonialism in south asia",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "enforcedPrediction": {
+      "length": 212,
+      "offset": 313
+    },
+    "predictionType": "SPAN_EXTRACTION",
+    "resultText": "has become central to South Asian politics. These questions of power and belonging reverberate in the diaspora. Because the US is a settler-colonial state, many South Asians find themselves at the interstices of American and South Asian systems of power and flows of capital. In order to examine these processes, this class will use interdisciplinary thematic units across South Asian and Asian American Studies to examine caste, race/racialization, gender/gendering processes and colonialism in the Indian American diaspora."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "12005964",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "THR 223",
+      "AMS 346",
+      "ENG 253",
+      "GSS 444"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course offers an intensive survey of ongoing efforts to revisit and revise the American theatrical canon and repertoire. Students will examine the economic, institutional and cultural forces shaping the landscape of new play production in the United States as they also read a broad selection of plays from the contemporary American theater. Working in partnership with McCarter Theatre\u0027s \"\"Bard at the Gate\"\" initiative, students will develop dramaturgical and other resources in response to this uniquely curated virtual platform for noteworthy but overlooked plays by BIPOC, female, LGBTQIA+, and disabled artists.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016325",
+    "name": "Reimagining the American Theatrical Canon"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

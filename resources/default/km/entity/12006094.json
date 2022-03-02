@@ -1,0 +1,19 @@
+{
+  "$id": "12006094",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CEE 392",
+      "HUM 392",
+      "ENV 393",
+      "ANT 396"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course is an opportunity to reimagine engineering as a liberatory and collective practice that challenges systems of domination, inequality and environmental exploitation in cities. Interdisciplinary readings and films on topics ranging from urban water systems to algorithmic policing will examine how social and environmental injustices in cities have been produced or reinforced through engineering designs while also exploring new frameworks for designing just cities. Students will put these frameworks into practice by participating in a conceptual design studio, focused on the radical redesign of urban infrastructures and technologies.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016225",
+    "name": "Engineering Justice and the City: Technologies, Environments, and Power"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

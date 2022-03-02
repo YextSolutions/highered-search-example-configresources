@@ -1,0 +1,16 @@
+{
+  "$id": "12006041",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ENG 295"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Love is a many splendored thing. Love is dangerous. Love is a drug. Love is carnal ecstasy. Love is supernatural sympathy. Love is a subject of art; loving well is an art in itself. Many experiences, emotions, actions, and ideals travel under the name of romantic love. This course will contrast the wild and wide depictions of romance in drama, fiction, letters, poetry, and other mediums: from medieval courtiers to modern blues musicians, from yearning love letters to ecstatic sonnets. Why do we worship and worry about this singular feeling? What do the different forms and phases of love\u0027s passions have to tell us about being human?",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016251",
+    "name": "The Art of Loving"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

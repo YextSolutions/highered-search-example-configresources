@@ -1,0 +1,16 @@
+{
+  "$id": "12005965",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 110"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Have you ever wanted to \"\"pay someone back\"\" because you felt injured? After all, each of us has likely been wronged--and has pondered how that wrong is to be recompensed. We\u0027ll sample that dish \"\"best served cold\"\" by reading texts with revenge at the center of the story, depicting the heart-stopping dilemmas that accompany vengeance. These narratives write revenge\u0027s idiom, showing how it relates to \"\"evenness\"\" in justice, to theories of punishment, and to philosophies of honor and forgiveness. We will also engage with art depicting revenge and with the discourses of law and ethics to deepen our conversation.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016205",
+    "name": "Getting Even: the Plots and Principles of Revenge"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

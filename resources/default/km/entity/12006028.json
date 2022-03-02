@@ -1,0 +1,16 @@
+{
+  "$id": "12006028",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "POL 434"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "ow did China grow from a very poor country 40 years ago to a major player in the world economy since the economic reform in 1978? This course will answer this question by drawing literature from both Political Science and Economics. We will survey the classic topics as well as the most recent advancements in the study of political economy of China. Four main questions will be addressed: How did China implement economic reforms? What were the consequences of the reforms? How does China advance its economy and polity in the digital age? How was Chinese political-economic development shaped by and in turn influencing the global system",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d009973",
+    "name": "Seminar in Comparative Politics: The Political Economy of China, Past and Present"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

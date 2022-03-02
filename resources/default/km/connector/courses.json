@@ -1,0 +1,152 @@
+{
+  "$id": "courses",
+  "$schema": "https://schema.yext.com/config/km/connector/v3",
+  "displayName": "Courses",
+  "entityType": "ce_course",
+  "source": {
+    "sourceConfig": {
+      "crawlerConfig": {
+        "crawler": "courses",
+        "urlPatterns": [
+          "https://registrar.princeton.edu/course-offerings/course-*"
+        ]
+      }
+    },
+    "selectors": [
+      {
+        "type": "PAGE_ID",
+        "header": "Page ID"
+      },
+      {
+        "type": "PAGE_URL",
+        "header": "Page URL"
+      },
+      {
+        "type": "CSS",
+        "header": "Name",
+        "path": "h2.course-title",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Description",
+        "path": "div.description",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Term",
+        "path": "div.term",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Subject Associations",
+        "path": "div.subject-associations",
+        "mode": "INNER_HTML"
+      },
+      {
+        "type": "CSS",
+        "header": "Instructors",
+        "path": "div.instructors",
+        "mode": "INNER_HTML"
+      }
+    ]
+  },
+  "transforms": [
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Name"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": "\"",
+            "ignoreCase": false
+          }
+        },
+        "replacement": ""
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Description",
+        "newColumnHeader": "Description 2",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "OFFSET_FROM_END",
+        "offsetLength": 1
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Description 2",
+        "newColumnHeader": "Clean Description",
+        "extractOperation": "ALL_TEXT_AFTER",
+        "extractFrom": "OFFSET_FROM_BEGINNING",
+        "offsetLength": 13
+      }
+    },
+    {
+      "removeUnwantedChars": {
+        "inputHeaders": {
+          "headers": [
+            "Subject Associations"
+          ]
+        },
+        "cleanOptions": [
+          "REMOVE_PUNCTUATION"
+        ]
+      }
+    },
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Subject Associations"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": "br",
+            "ignoreCase": false
+          }
+        },
+        "replacement": ","
+      }
+    }
+  ],
+  "mappings": [
+    {
+      "field": "entityId",
+      "header": "Page ID",
+      "subfieldPath": []
+    },
+    {
+      "field": "landingPageUrl",
+      "header": "Page URL",
+      "subfieldPath": []
+    },
+    {
+      "field": "name",
+      "header": "Name",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_term",
+      "header": "Term",
+      "subfieldPath": []
+    },
+    {
+      "field": "description",
+      "header": "Clean Description",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_subjectAssociations",
+      "header": "Subject Associations",
+      "subfieldPath": []
+    }
+  ]
+}

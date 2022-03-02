@@ -1,0 +1,16 @@
+{
+  "$id": "12006027",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "POL 421"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The gap between the most affluent and less well-off Americans is striking, and economic inequality in the United States has been rising steadily for decades. The current era has been described as the \"\"Second Gilded Age\"\", and some question whether high levels of economic inequality threaten political equality in the United States. This course examines social class and economic inequality in American Politics. Topics include attitudes about social class and inequality; how economic inequality is linked to race, ethnicity, and gender; the social safety net in the U.S.; numerical and substantive representation; and interest group influence.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d005370",
+    "name": "Seminar in American Politics: Social Class and Inequality in U.S. Politics"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

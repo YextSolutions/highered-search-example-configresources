@@ -1,0 +1,17 @@
+{
+  "$id": "12006135",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SOC 245",
+      "POL 245"
+    ],
+    "c_term": "2021 Summer",
+    "description": "Equal parts art, programming, and statistical reasoning, data visualization is critical for anyone who seeks to analyze data. Data analysis skills have become essential for those pursuing careers in policy evaluation, business consulting, and research in fields like public health, social science, or education. This course introduces students to the powerful R programming language and the basics of creating data-analysis graphics in R. We use real datasets to explore topics ranging from networks (like trade between countries) to geographical data (like the spatial distribution of insurgent attacks in Afghanistan).",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d012511",
+    "name": "Visualizing Data"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

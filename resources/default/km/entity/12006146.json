@@ -1,0 +1,16 @@
+{
+  "$id": "12006146",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CHI 451C"
+    ],
+    "c_term": "2021 Summer",
+    "description": "A four-week summer intensive language course. Materials are drawn from modern Chinese literature, film, and intellectual history, and include readings on contemporary issues as well. Admission by application. Prerequisites: CHI 403-404, CHI405-406, or equivalent. The course consists of five two-hour classes and five two-hour drill sessions weekly, plus individual tutorial sessions.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d008815",
+    "name": "Fifth-Year Modern Chinese I"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

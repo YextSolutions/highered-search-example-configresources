@@ -1,0 +1,16 @@
+{
+  "$id": "12005967",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 120"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Fiction and nonfiction seem like different things: novelists make things up, but scholars document the truth. Yet on closer inspection they have a lot in common. The dividing line between truth and imagination gets blurred. What does \u0027truth\u0027 mean, anyway? Can something be true but not factual? This seminar is co-taught by a literary critic and novelist, and a historian and journalist. We explore great works of fiction, journalism, film, memoir, and history. We will learn from writers and journalists how stories are made. We will work on our own creative stories that engage with the issues most important to us today.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016206",
+    "name": "Truth and Imagination: Writing Fiction, Writing History"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

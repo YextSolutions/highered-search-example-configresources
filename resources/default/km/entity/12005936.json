@@ -1,0 +1,16 @@
+{
+  "$id": "12005936",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPA 205"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "n advanced Spanish-language course that focuses on medical and health topics in the Hispanic/Latino world. Students will learn and practice specific vocabulary and structures useful for conducting a medical interview in Spanish. Aspects of Latin American and Hispanic/Latino cultures in the health and medical fields are explored by means of examining authentic texts and through the contribution of guest speakers. The course includes a telecollaboration project with students from a Colombian medical school",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d012677",
+    "name": "Medical Spanish"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

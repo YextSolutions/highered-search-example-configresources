@@ -1,0 +1,59 @@
+{
+  "$id": "12007697-25",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., University of British Columbia, 2017",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "410 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~fheide",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Computational Imaging",
+      "Computer Vision",
+      "Computer Graphics",
+      "Optics"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/fheide",
+      "linkType": "OTHER"
+    },
+    "description": "Computational Imaging, Computer Vision, Computer Graphics, Optics",
+    "emails": [
+      "fheide@university.edu"
+    ],
+    "mainPhone": "+16092120419",
+    "name": "Felix Heide",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d4669\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/6LgllhO_tLdpinJp6osV1zVPg10LtvOYg4VDgVXMMRk/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/6LgllhO_tLdpinJp6osV1zVPg10LtvOYg4VDgVXMMRk/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/6LgllhO_tLdpinJp6osV1zVPg10LtvOYg4VDgVXMMRk/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Assistant Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

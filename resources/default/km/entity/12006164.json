@@ -1,0 +1,18 @@
+{
+  "$id": "12006164",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GLS 335",
+      "MTD 326",
+      "THR 325"
+    ],
+    "c_term": "2021 Summer",
+    "description": "Students will use Giovanni Boccaccio\u0027s 14thC. classic, The Decameron as a starting point from which to explore the fundamentals of storytelling and the ways in which storytelling helps us navigate traumatic experiences. Students will study Italian language and culture, collaborate virtually with Italian theater artists to develop language skills, and their own short musical theater stories. The creation of a collection of short musical theater pieces, on a variety of contemporary (or reinvented classic) themes, responding to today\u0027s pandemic and exploring the fundamental human need to tell stories will be the centerpiece of the course",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d016009",
+    "name": "The Decameron Project: Musical Theater Storytelling in Times of Trauma"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

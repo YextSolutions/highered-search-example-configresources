@@ -1,0 +1,16 @@
+{
+  "$id": "12005991",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CEE 474"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The class explores the roles of structural engineers in the design of structures for coastal resilience in the context of climate change adaptation. In the process the following subjects are explored in depth: wave theory and random waves, hydrostatic and hydrodynamic forces on structures, structural design for wave and wind, analysis and design of floating structures including hydrostatic stability.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d007966",
+    "name": "Special Topics in Civil and Environmental Engineering: Structural Engineering for Climate Change Adaptation"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

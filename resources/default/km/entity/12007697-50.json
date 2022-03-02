@@ -1,0 +1,60 @@
+{
+  "$id": "12007697-50",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., University of Michigan, 1996",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "207 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~jrex",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Networking",
+      "Network Virtualization",
+      "Internet Measurement",
+      "Network Management",
+      "Network Troubleshooting"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/jrex",
+      "linkType": "OTHER"
+    },
+    "description": "Networking, network virtualization, Internet measurement, network management, network troubleshooting. SIGCOMM Award for Lifetime Contribution, 2018; ACM-W Athena Lecturer Award, 2016; National Academy of Engineering, 2014; Member, American Academy of Arts and Sciences, 2013; Member, ACM Fellow, 2008.",
+    "emails": [
+      "jrex@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092585182",
+    "name": "Jennifer Rexford",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d25\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/Sm4f3Sg5ajFAAnE_rCs-Thy_NijnbHxEwrFgcXWpwE0/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/Sm4f3Sg5ajFAAnE_rCs-Thy_NijnbHxEwrFgcXWpwE0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/Sm4f3Sg5ajFAAnE_rCs-Thy_NijnbHxEwrFgcXWpwE0/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Gordon Y.S. Wu Professor of Engineering, Department Chair"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

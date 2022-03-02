@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "f3cd5700-190d-4911-88b7-3dc3a4a49c14",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what are the subject associations for multivariable calculus",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 217,
+      "offset": 35
+    },
+    "resultText": "Vectors in the plane and in space, vector functions and motion, surfaces, coordinate systems, functions of two or three variables and their derivatives, maxima and minima and applications, double and triple integrals, vector fields and Stokes\u0027s theorem"
+  }
+}

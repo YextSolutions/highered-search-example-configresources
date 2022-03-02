@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "71082454-4d7f-48db-b36b-d9119414ee64",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what are matthew weinberg\u0027s interests",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 64,
+      "offset": 211
+    },
+    "resultText": "and their implications for software and architectural design; system software and programming environments for multiprocessors. Special interest in applications of computing in computational biology, especially protein structure determination and simulating the immune system. Presidental Early Career Award (PECASE), 1997"
+  }
+}

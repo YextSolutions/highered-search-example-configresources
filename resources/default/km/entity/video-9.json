@@ -1,0 +1,24 @@
+{
+  "$id": "video-9",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "Lessons"
+    ],
+    "c_numberViews": "80650",
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003d9nuAjYRbITQ",
+    "datePosted": "2021-01-16",
+    "landingPageUrl": "https://www.youtube.com/watch?v\u003d9nuAjYRbITQ",
+    "name": "Computer Architecture Complete course Part 1 | By Princeton University |",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003d9nuAjYRbITQ"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

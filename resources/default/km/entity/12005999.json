@@ -1,0 +1,16 @@
+{
+  "$id": "12005999",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SOC 375"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course will examine our individual and collective identities -- especially as they relate to sexuality, race, gender, and class. We will specifically focus on the social processes that produce these identities, how identities change over time, and the individual and collective anxieties that occur when identities become destabilized. This course will also focus on how power, privilege, and oppression intersect with our identities.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016295",
+    "name": "Identities: Race, Class, Gender, \u0026 Sexuality"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

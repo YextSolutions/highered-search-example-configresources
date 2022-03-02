@@ -1,0 +1,18 @@
+{
+  "$id": "12005905",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ARC 303",
+      "URB 303",
+      "EGR 303"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course examines two places that play an outsized role in the American economy: Wall Street and Silicon Valley. They are distinct and similarly enduring locations. They embody a divide between urban and suburban, East Coast and West Coast, skyscrapers and office parks, tradition and innovation, conservative and liberal. What makes these places endure? How do their histories, architecture, economic dynamics, and distinct cultures shape them as places? Particular attention will be paid to the changes to white collar work and the challenges to the importance of place caused by the COVID-19 pandemic.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d014587",
+    "name": "Wall Street and Silicon Valley: Place in the American Economy"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,108 @@
+{
+  "$id": "ce_course",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_course",
+  "displayName": "Course",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "landingPageUrl"
+        },
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "description"
+        },
+        {
+          "id": "c_sampleReadingList"
+        },
+        {
+          "id": "c_assignments"
+        },
+        {
+          "id": "c_requirementsGrading"
+        },
+        {
+          "id": "c_prerequisites"
+        },
+        {
+          "id": "c_otherInformation"
+        },
+        {
+          "id": "c_classNumber"
+        },
+        {
+          "id": "c_section"
+        },
+        {
+          "id": "c_meetings"
+        },
+        {
+          "id": "c_enrollment"
+        },
+        {
+          "id": "c_term"
+        },
+        {
+          "id": "c_subjectAssociations"
+        },
+        {
+          "id": "c_permissionRequired"
+        },
+        {
+          "id": "c_distributionArea"
+        },
+        {
+          "id": "c_gradingBasis"
+        },
+        {
+          "id": "c_instructors"
+        },
+        {
+          "id": "c_links"
+        },
+        {
+          "id": "c_department"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "c_reservedSeats"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

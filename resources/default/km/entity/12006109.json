@@ -1,0 +1,16 @@
+{
+  "$id": "12006109",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HUM 295"
+    ],
+    "c_term": "2021 Summer",
+    "description": "This course introduces students to critical approaches to media and data with the goal of helping students better assess media and data\u0027s permeating role in society, culture, and politics today. Through modules covering visual culture, science and technology studies, and digital humanities, student will learn to analyze mass-circulated images and text; examine the historical and social context of technoscientific innovation; and experiment with data sets and visualization. As we explore these approaches to the study of media, culture, and technology, we will consider the stakes of such inquiry from the standpoint of justice and equity.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d016057",
+    "name": "Humanistic Approaches to Media and Data"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

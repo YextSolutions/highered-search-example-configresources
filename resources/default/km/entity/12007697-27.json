@@ -1,0 +1,58 @@
+{
+  "$id": "12007697-27",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., University of Massachusetts, 1996",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "106 221 Nassau Street",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~ak18",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Mobile Software",
+      "Middleware And Protocols; Communication And Networking For Consumer Applications And Services",
+      "Software Engineering"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/ak18",
+      "linkType": "OTHER"
+    },
+    "description": "Mobile software, middleware and protocols; communication and networking for consumer applications and services, software engineering.",
+    "emails": [
+      "ak18@university.edu"
+    ],
+    "mainPhone": "+16092121745",
+    "name": "Alan Kaplan",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d2666\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/r90jIu2kyRfCd1A5Wh-Xbziua59iBBNJpMfELafWLYk/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/r90jIu2kyRfCd1A5Wh-Xbziua59iBBNJpMfELafWLYk/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/r90jIu2kyRfCd1A5Wh-Xbziua59iBBNJpMfELafWLYk/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Lecturer"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "ce_video.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Video-default",
+  "entityType": "ce_video",
+  "fields": [
+    "c_category",
+    "c_embedURL",
+    "c_numberViews",
+    "c_youTubeURL",
+    "datePosted",
+    "description",
+    "landingPageUrl",
+    "videos"
+  ],
+  "required": []
+}

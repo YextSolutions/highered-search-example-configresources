@@ -1,0 +1,16 @@
+{
+  "$id": "12005948",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 150"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Our way of speaking is an essential part of our identity. Our particular language variety gives information to the listeners about where we were born, how old we are, our social class and even our race or ethnicity. However, since not all dialects are equally accepted, some speakers might feel judged because of their way of talking. In this seminar, we will analyze the reasons behind the belief that some language varieties are better than the rest, and debunk that myth. We will look at several examples of dialects around the globe and especially here in the US and we will study linguistic situations like multilingualism in our society.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016216",
+    "name": "The Way We Talk: Identity through Our Own Dialect"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

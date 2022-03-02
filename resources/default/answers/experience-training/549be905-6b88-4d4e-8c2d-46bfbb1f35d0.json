@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "549be905-6b88-4d4e-8c2d-46bfbb1f35d0",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what is jennifer rexford\u0027s description",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 12,
+      "offset": 25
+    },
+    "resultText": "The young Irish novelist Sally Rooney is widely seen as the writer who best expresses the anxieties and hopes of her generation in the western world. Her three novels - Conversations with Friends (2017); Normal People (2018); and Beautiful World, Where Are You (2021) - have sold millions of copies and explored sexuality"
+  }
+}

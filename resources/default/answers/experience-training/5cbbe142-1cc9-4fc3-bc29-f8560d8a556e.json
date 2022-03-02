@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "5cbbe142-1cc9-4fc3-bc29-f8560d8a556e",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what is the subject associations for where are we maps travel and wonder",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 194,
+      "offset": 188
+    },
+    "resultText": "medieval maps and travel narratives. These strange artifacts also index familiar categories like difference, identity, and control. We\u0027ll query what these epistemes make happen, including cultural diffusion and definitionally transgressive tales of travel. Along with critical and cognate works, these texts will expose worlds in which space wavers and dislocates where we\u0027re mapped"
+  }
+}

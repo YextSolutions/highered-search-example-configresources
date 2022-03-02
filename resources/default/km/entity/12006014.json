@@ -1,0 +1,16 @@
+{
+  "$id": "12006014",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ASL 102"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course is the second course in the introductory American Sign Language (ASL) course sequence. This course aims to improve conversation skills in ASL, review and refine knowledge of basic grammar, broaden vocabulary, develop ASL-English translation skills, and increase awareness of Deaf culture. Students will develop their ASL skills through in-class interactive activities, and out-of-class readings and exercises.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016289",
+    "name": "Beginner\u0027s American Sign Language II"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

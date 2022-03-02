@@ -1,0 +1,16 @@
+{
+  "$id": "12005955",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CLG 214"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course will introduce students to the political speeches of Demosthenes in a bid to appreciate both Athenian oratory and its enduring influence on subsequent political rhetoric down to our own time. We will pay special attention to style, syntax, and the subtler arts of Greek sentence structure and the ways these were marshalled for the purposes of political persuasion.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d003253",
+    "name": "Greek Prose Authors: Demosthenes, Political Speeches"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

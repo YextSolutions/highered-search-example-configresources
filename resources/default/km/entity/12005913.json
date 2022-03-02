@@ -1,0 +1,19 @@
+{
+  "$id": "12005913",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "MAE 228",
+      "EGR 228",
+      "CBE 228",
+      "ENE 228"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course will deal with issues of regional and global energy demands, sources, carriers, storage, current and future technologies and costs for energy conversion, and their impact on climate and the environment. Students will learn to perform objective cost-efficiency and environmental impact analyses from source to end-user on both fossil fuels (oil, coal, and natural gas), and alternative energy sources (bio-fuels, solar energy, wind, batteries, and nuclear). We will also pay particular attention to energy sources, technologies, emissions, and regulations for transportation. The course will also include tours to energy research labs.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d010478",
+    "name": "Energy Technologies in the 21st Century"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

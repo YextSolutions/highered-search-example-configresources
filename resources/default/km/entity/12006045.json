@@ -1,0 +1,16 @@
+{
+  "$id": "12006045",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ENG 269"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The young Irish novelist Sally Rooney is widely seen as the writer who best expresses the anxieties and hopes of her generation in the western world. Her three novels - Conversations with Friends (2017); Normal People (2018); and Beautiful World, Where Are You (2021) - have sold millions of copies and explored sexuality, friendship, communication, social class and inequality. In this seminar course, we explore Rooney\u0027s work in the context of the recent and remarkable flowering of fiction by Irish women.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016255",
+    "name": "Sally Rooney and her Contemporaries"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

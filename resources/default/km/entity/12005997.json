@@ -1,0 +1,17 @@
+{
+  "$id": "12005997",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "JDS 313",
+      "REL 306"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course considers the social and cultural encounters between religious/ethnic groups in the ancient Mediterranean world. It aims to challenge the idea that these groups (for example, Greeks, Jews, Romans, Christians) had stable boundaries or that they spoke with a unified and authoritative voice. The dynamic and even fluid relationships among these groups had a deep impact on the nature of religious life during the formative period of Late Antiquity and beyond. The course will thus explore religious contact and conflict, proximity and separation, dialogue and prejudice-both ancient and modern.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016293",
+    "name": "Pagans, Jews, and Christians in the Ancient World"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

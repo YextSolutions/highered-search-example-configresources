@@ -1,0 +1,16 @@
+{
+  "$id": "12005917",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "EGR 250"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "In Community Project Studios (formerly \u0027EPICS\u0027), students earn academic credit for participation in multidisciplinary teams that work on projects over one or more years. The course mission is to provide a hands-on, experiential environment, in which students (often alongside community partners) bring real-world projects through to fruition. Although the methodology and projects vary for each studio, all teams in the program are supported through skill-development workshops, close-knit advising, and cultures of peer-to-peer collaboration. Students may participate for up to six semesters.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d010275",
+    "name": "Community Project Studios: Non-credit"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

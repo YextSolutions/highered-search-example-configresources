@@ -1,0 +1,17 @@
+{
+  "$id": "12006015",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ANT 217",
+      "HUM 207"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course focuses on how people wrestle with their relationships to faith, morality, ideas of justice, and conceptions of good life, and how they deal with the emotions that mediate these relationships. Emotions such as anger, happiness, disgust, kindness, and grief play an important role in shaping moral convictions and acts. We will learn some of the theoretical tools, research methods, and analytical practices that help anthropologists discern how morality can both be linked to and be separate from religious considerations, and how emotions can both ground us in a moral order and also make us question our faith and moral orientations.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d015874",
+    "name": "Anthropology of Religion: Identity, Morality, and Emotion"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "12006148",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GER 310G"
+    ],
+    "c_term": "2021 Summer",
+    "description": "While Germany is hardly alone in seeking origins in an imagined past, the realities of its fragmente political history resist unified narratives. In what ways has the question \"\"was ist deutsch?\"\" been shaped by medievalist and antiquarian impulses? How did those historical frameworks inform expressions of Germanness in politics, society, and culture? What ruptures and continuities in these approaches can be located on either side of 1945? This course, taught in German, examines medievalist and antiquarian literary motifs, developments in history and linguistics, artworks, and other materials from the perspectives of identity and culture.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d016013",
+    "name": "Origins of Deutschtum: Antiquarianism, Medievalism, and the Search for German Identity"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

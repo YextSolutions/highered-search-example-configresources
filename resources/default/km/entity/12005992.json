@@ -1,0 +1,17 @@
+{
+  "$id": "12005992",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "MPP 214",
+      "MTD 214"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "In this course we will explore the extraordinary capabilities of the human voice. Using western classical vocal techniques as a starting point we will move into an exploration of extended techniques from both inside and outside of that tradition (including the use of amplification and microphone technique). We will work collaboratively to create new work, culminating in an informal performance. We will be joined by special guests - performers and/or composers - who will share their insights and processes. The course is open to singers, non-singers, composers or non-composers : all are welcome. Be prepared to make some noise!",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d004417",
+    "name": "Projects in Vocal Performance: Voicecraft"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

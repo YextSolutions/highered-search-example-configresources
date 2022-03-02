@@ -1,0 +1,16 @@
+{
+  "$id": "12005943",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 144"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Democracy in the U.S. is in need of repair. Many Americans--fed up with gerrymandering, political extremism, hyper-partisanship, structural racism, and legislative gridlock--are calling for reforms to how we vote, draw districts, and conduct primary elections. If channeled successfully, reforms such as nonpartisan districting and ranked choice voting have the potential to renew democracy in the 21st century, much as the Progressive Era changed our country in the early 20th century. Students will not only learn about these critical issues, but will engage in hands-on work for electoral reform in New Jersey.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016213",
+    "name": "Fixing Bugs in Democracy: U.S. Electoral Reform for the 21st Century"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

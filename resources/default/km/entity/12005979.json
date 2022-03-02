@@ -1,0 +1,17 @@
+{
+  "$id": "12005979",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "DAN 302",
+      "AAS 316"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course explores the politics, aesthetics, and histories of Black American dance from the early 1970s to today. Paying special attention to the politics of circulation and new technologies, we will explore questions around innovation, virality, citation, ownership, and appropriation. Radio, television, YouTube, Instagram, and TikTok will be studied as connected yet discreet technologies of creative dispersal in direct relationship to their capacity for/constraints around creative, economic, and political output.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016318",
+    "name": "#Dancing Black: Black American Dance from 1970 to Today"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

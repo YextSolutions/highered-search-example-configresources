@@ -1,0 +1,18 @@
+{
+  "$id": "12005951",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "POL 491",
+      "CLA 491",
+      "HUM 490"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course will examine the history, contemporary reality, and likely future of higher education, especially in the United States but also abroad. We will consider the changing and often conflicting ideals and aspirations of parents, students, instructors, and administrators from classical Rome to Christian institutions in the European Middle Ages to American athletic powerhouses today, seeking answers to fundamental practical, economic, and political questions that provoke vigorous contemporary debate.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016338",
+    "name": "The Politics of Higher Education: Competing Visions of the University"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

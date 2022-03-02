@@ -1,0 +1,16 @@
+{
+  "$id": "12006003",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GER 302"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The critique of the culture industry is part of a philosophical concern for democracy that is grounded in the diagnosis of a \"\"normative paradox.\"\" A normative paradox arises when a value that initially promised a qualitative gain in freedom tends to become so inverted over time that it opposes such a development. Already early forms of mass culture aroused the suspicion of having realized the egalitarian principle of democracy in a problematic way, namely as homogenization of the masses. The seminar will introduce and discuss the respective tradition of political and aesthetical thought.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d015884",
+    "name": "Topics in Critical Theory: Culture Industry: Paradoxes of Democratic Mass Culture"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

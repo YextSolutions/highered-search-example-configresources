@@ -1,0 +1,18 @@
+{
+  "$id": "12006026",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "POR 261",
+      "ECS 390",
+      "AAS 264"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Short stories and music will serve as vehicles for a deeper understanding of the major political and social shifts that have affected the landscape of the Contemporary Portuguese-speaking world. We will hear an array of voices and delve into a diversity of narratives as we explore the interconnected historical, social, political, and cultural aspects of Angola, Brazil, Cape Verde, Guinea-Bissau, Mozambique, Portugal and Timor-Leste.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016279",
+    "name": "Sounds and Stories: Voices in Portuguese"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

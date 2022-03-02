@@ -1,0 +1,17 @@
+{
+  "$id": "12006061",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ATL 495",
+      "THR 495"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The comedian and storyteller Mike Birbiglia and the director Seth Barrish have collaborated on five shows Off and On Broadway, including Sleepwalk With Me and The New One. Their award-winning work has now been seen around the world. In this unique course, Mike and Seth will share the finer points of their groundbreaking approach to creating compelling long-form monologues. Each student in the class will develop a 6-minute monologue which they will share in an end of the semester presentation.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d010833",
+    "name": "Princeton Atelier: The Old Man and The Pool: Crafting a Long-form Monologue"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

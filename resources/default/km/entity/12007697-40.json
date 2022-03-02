@@ -1,0 +1,57 @@
+{
+  "$id": "12007697-40",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., University of Notre Dame, 2010",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "036 Corwin Hall",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~cmoretti",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Distributed Systems",
+      "Computer Science Education"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/cmoretti",
+      "linkType": "OTHER"
+    },
+    "description": "Distributed systems, computer science education",
+    "emails": [
+      "cmoretti@university.edu"
+    ],
+    "mainPhone": "+16092125388",
+    "name": "Christopher Moretti",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d1062\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/m9SzmyFuAAUTtSvrosZGuwMtDKcQ8l0VZ3An9iEXtAY/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/m9SzmyFuAAUTtSvrosZGuwMtDKcQ8l0VZ3An9iEXtAY/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/m9SzmyFuAAUTtSvrosZGuwMtDKcQ8l0VZ3An9iEXtAY/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Lecturer"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "12006029",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HIS 398"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Albert Einstein is the most renowned, and most recognizable, scientist of the twentieth century - and possibly of all time. (He also bears the even more impressive distinction of being Princeton\u0027s most famous resident.) In addition to covering Einstein\u0027s core scientific and philosophical contributions, this course uses his life as a frame to explore broader historical issues, including war and pacifism, Zionism and Nazism, civil rights, celebrity, gender, and the nuclear arms race.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016260",
+    "name": "The Einstein Era"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

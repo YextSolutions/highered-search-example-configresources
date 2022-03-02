@@ -1,0 +1,16 @@
+{
+  "$id": "12005942",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 140"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course will explore the relationship between social movements and legal/policy reforms. It will critically assess the scope and limits of the 1960s-era civil rights laws through an examination of the following legal and policy issues that Black Lives Matter activists have pushed to the center stage of local and national policy debates: policing; protests and surveillance; mass incarceration; the role of prosecutors; housing segregation and environmental conditions; labor, work, and wealth; educational equity; health care equity and access; and voter suppression and political mobilization.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016212",
+    "name": "Courts, Law, and the Black Lives Matter Movement"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

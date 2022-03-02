@@ -1,0 +1,18 @@
+{
+  "$id": "12005987",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "THR 420",
+      "ARC 420",
+      "VIS 420"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Co-taught by design collective dots, the course aims to explore the world of visual storytelling, with an emphasis on collaboration as an essential part of the process of designing 3-dimensional space for narratives. The course will present narrative design processes as adaptable to many media including theater, film, installation and architecture and hopes to empower students with the ability to recognize their role as the designer of their own stories. Through individual research and a group project, we aim to encourage students to develop unique points of view within the context of a design that is worth more than the sum of its parts.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016306",
+    "name": "Designing Narratives"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

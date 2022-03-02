@@ -1,0 +1,19 @@
+{
+  "$id": "12005960",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SAS 355",
+      "ANT 395",
+      "ENV 381",
+      "URB 355"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This seminar will consider the modern South Asian coastline to understand the past, present, future of coasts in an era of climate change. Historical maritime trade routes, massive development projects, and rising influence of environmental change all shape the South Asian coast as a new frontier of resource control. Students will explore the cultural political desires and discontents that become entangled in coastlines, search for alternative imaginations of life that people mark out on the coastline. In doing so, we move towards an environmental justice perspective of the South Asian coastline.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016323",
+    "name": "Coastal Justice: Ecologies, Societies, Infrastructures in South Asia"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

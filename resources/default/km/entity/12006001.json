@@ -1,0 +1,17 @@
+{
+  "$id": "12006001",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SLA 330",
+      "COM 461"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "What unites the diverse movement of Existentialism is a focus on concrete human existence. While other schools of art and thought often distract one from personal existence, Existentialism forces one to grapple personally with life\u0027s big questions. Franz Kafka puts it well: \u0027A book must be the axe for the frozen sea within us\u0027 Topics include desire, grief, deception, anxiety, despair, nihilism, authenticity, freedom, responsibility, guilt, the leap of faith, the absurd, the problem of evil, death, and the meaningful life. With focus on Kierkegaard and Dostoevsky, readings also include Nietzsche, Tolstoy, Heidegger, Sartre, Camus, and Kafka.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016297",
+    "name": "Existentialism: Kierkegaard, Dostoevsky, and Beyond"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "baa99cd1-bc4a-4795-8a6a-11047b83689e",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what course can i learn about complex numbers",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "enforcedPrediction": {
+      "length": 189,
+      "offset": 151
+    },
+    "predictionType": "SPAN_EXTRACTION",
+    "resultText": "Topics in MAT 104 include techniques and applications of integration including area, length, and volume and an introduction to differential equations. The course also introduces complex numbers and polar coordinates, analysis of convergence of infinite series and improper integrals, and approximation using Taylor\u0027s theorem with remainder. It emphasizes the development of mature problem-solving skills through problems that require sophisticated pattern recognition and the ability to apply and adapt multiple techniques to solve a single problem."
+  }
+}

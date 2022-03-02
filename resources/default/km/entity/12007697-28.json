@@ -1,0 +1,60 @@
+{
+  "$id": "12007697-28",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Princeton University, 1969",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "311 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~bwk",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Application-Specific Languages",
+      "Document Preparation",
+      "User Interfaces",
+      "Software Tools",
+      "Programming Methodology"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/bwk",
+      "linkType": "OTHER"
+    },
+    "description": "Application-specific languages, document preparation, user interfaces, software tools, programming methodology. Member, American Academy of Arts and Sciences, 2019; Member, National Academy of Engineering, 2002; USENIX Association Lifetime Achievement Award, 1997.",
+    "emails": [
+      "bwk@university.edu"
+    ],
+    "mainPhone": "+16092122089",
+    "name": "Brian Kernighan",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d19\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/GewaVjnOg2OysKu0dOEFiMsxQf88N59Rcy1P0u6TRh0/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/GewaVjnOg2OysKu0dOEFiMsxQf88N59Rcy1P0u6TRh0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/GewaVjnOg2OysKu0dOEFiMsxQf88N59Rcy1P0u6TRh0/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Professor, Director of Undergraduate Studies"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

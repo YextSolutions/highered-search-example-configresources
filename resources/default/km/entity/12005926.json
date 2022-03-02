@@ -1,0 +1,18 @@
+{
+  "$id": "12005926",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ART 483",
+      "AAS 483",
+      "HUM 483"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course examines the relationship of art and medicine in the construction and production of race in the British Empire from the early modern period until the beginning of the twentieth century. We will analyze how image-making has been used in the development of medical knowledge and how scientific concepts of vision and natural history have been incorporated into art making. We will then examine how these intersections were deployed to visualize and, sometimes, challenge continually changing meanings about human and geographical difference across Britain and its colonies.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016316",
+    "name": "Pathologies of Difference: Art, Medicine and Race in the British Empire"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

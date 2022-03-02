@@ -1,0 +1,16 @@
+{
+  "$id": "12006120",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "NEU 596"
+    ],
+    "c_term": "2021 Summer",
+    "description": "Full-time research internship at a host institution, to perform scholarly research relevant to student\u0027s dissertation work. Research objectives are determined by advisor in conjunction with outside host. A mid-summer progress review and a final paper are required. Special rules apply to international students regarding CPT/OPT use.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d015992",
+    "name": "Extramural Research Internship"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

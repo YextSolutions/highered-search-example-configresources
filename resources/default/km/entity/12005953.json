@@ -1,0 +1,16 @@
+{
+  "$id": "12005953",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPA 341"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Why write or read novels in the age of hyper-information and immediacy? What can the novel tell us about the present and its conflicts? In this course, we will reflect on different forms of present-day violence through the quiet and careful reading of 5 novels by young Spanish writers. The course will facilitate interaction and collaboration with students at Northwestern University, and during April students from both universities will participate in a virtual encounter with some of the authors, as well as in an online workshop.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016339",
+    "name": "Micro-violence in Contemporary Spanish Novel"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "12006104",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ORF 474"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "An introduction to network games. Topics will include: A crash course on state games, introduction to graph theory and network games, games with incomplete information and auctions, non-atomic games, signals and correlated equilibria.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d008050",
+    "name": "Special Topics in Operations Research and Financial Engineering: Network Game Theory"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

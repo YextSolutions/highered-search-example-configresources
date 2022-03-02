@@ -1,0 +1,16 @@
+{
+  "$id": "12005925",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ENV 327"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Addressing global ecological and societal degradation depends on humanity practicing regenerative, or reciprocal, relationships with nature. Evidence suggests that we are collectively capable of producing restorative technological, behavioral, and social solutions, but they must be applied holistically across all human actions at every scale. We explore sustainability challenges in the context of ethics, justice, and behavioral psychology, including visits with experts, and survey-based investigations on campus. Students will be presented with real-time decision-making needs at Princeton, with an opportunity to influence those decisions.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d013753",
+    "name": "Investigating an Ethos of Sustainability at Princeton"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

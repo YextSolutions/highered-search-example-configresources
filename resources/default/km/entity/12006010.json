@@ -1,0 +1,16 @@
+{
+  "$id": "12006010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SLA 210"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "In this course, we will discuss ghost stories written by prominent Russian writers. We will also discuss various representations of the supernatural phenomena in Western and Russian spirit photography, music, and film. We will consider the concept of the apparition as a cultural myth which tells us about the \"\"hidden side\"\" of the Russian historical imagination and about political and ideological conflicts which have haunted Russian society from the 18th c. to our days. The class is designed as a series of *intellectual seances* focused on a certain work considered within a broad historical context. All readings will be in English translation.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016285",
+    "name": "Haunted Russia: Ghosts and Spirits in Russian Cultural Imagination"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

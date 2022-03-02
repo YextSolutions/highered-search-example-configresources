@@ -1,0 +1,49 @@
+{
+  "$id": "12007697-17",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Stanford University, 1981",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "037 Corwin Hall",
+    "c_researchInterests": [
+      "Networking And Telecommunications",
+      "Computer-Human Interaction",
+      "Online Learning And Moocs",
+      "R\u0026D Innovation Methodologies"
+    ],
+    "description": "Networking and Telecommunications, Computer-Human Interaction, Online Learning and MOOCs, R\u0026D Innovation Methodologies",
+    "emails": [
+      "rfish@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092580839",
+    "name": "Robert Fish",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d3177\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/FsvQDfXxjy5G6ogekYb8j1-gCAYZdLRtZ0XepaqTGAM/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/FsvQDfXxjy5G6ogekYb8j1-gCAYZdLRtZ0XepaqTGAM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/FsvQDfXxjy5G6ogekYb8j1-gCAYZdLRtZ0XepaqTGAM/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Lecturer"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

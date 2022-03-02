@@ -1,0 +1,16 @@
+{
+  "$id": "12006154",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "MAT 104"
+    ],
+    "c_term": "2021 Summer",
+    "description": "Topics in MAT 104 include techniques and applications of integration including area, length, and volume and an introduction to differential equations. The course also introduces complex numbers and polar coordinates, analysis of convergence of infinite series and improper integrals, and approximation using Taylor\u0027s theorem with remainder. It emphasizes the development of mature problem-solving skills through problems that require sophisticated pattern recognition and the ability to apply and adapt multiple techniques to solve a single problem.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d004140",
+    "name": "Calculus II"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

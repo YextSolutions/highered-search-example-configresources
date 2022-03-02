@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "fd0769b2-8bd1-49af-ac74-d9e32ae4634d",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what courses have the nuclear project",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "enforcedPrediction": {
+      "length": 57,
+      "offset": 385
+    },
+    "predictionType": "SPAN_EXTRACTION",
+    "resultText": "University\u0027s past to conduct morally sound research and generate culturally inclusive knowledge? In this course, students will use perspectives from Indigenous studies to critically approach the intersection of Princeton\u0027s history, nuclear science, settler colonialism, and environmental racism to collectively imagine a more holistic approach to studying science and the environment. The course revolves around the Nuclear Princeton project."
+  }
+}

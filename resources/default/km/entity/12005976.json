@@ -1,0 +1,19 @@
+{
+  "$id": "12005976",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ANT 364",
+      "ART 346",
+      "ENV 392",
+      "LAS 328"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This seminar addresses the field of \"\"indigenous art\"\" to unsettle current understandings of self and alter representation. Focusing on South America and drawing parallels with the Americas and Oceania, it investigates studies of material and immaterial culture from the perspective of indigenous world-makings. Attention will be paid to how indigenous arts speak to the dilemmas of self-governance, biocultural diversity, and conservation. We will also address forms of decolonization of Amerindian arts that are at play in museums, festivals, and environmental storytelling, with indigenous artists and intellectuals as their protagonists.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016314",
+    "name": "Insurgent Indigenous Art"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

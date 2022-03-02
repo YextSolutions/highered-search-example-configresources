@@ -1,0 +1,17 @@
+{
+  "$id": "12005904",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "EGR 200",
+      "ENT 200"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The class mission is to give students an understanding of the sources and processes associated with creativity, innovation, and design - three interdependent capabilities essential to our own well being, as well as to the well being of society. We will study the internal and external factors that relate to our own ability to create, innovate, and design. We will also understand the factors that impact a group\u0027s ability to act creatively, to innovate, and to produce practical and appealing designs. The class will consist of readings and case studies as well as individual and group projects.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d012646",
+    "name": "Creativity, Innovation, and Design"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

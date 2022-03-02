@@ -1,0 +1,63 @@
+{
+  "$id": "12007697-15",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Princeton University, 1980",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "1-S-14 Green Hall",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~fellbaum",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Natural Language Processing",
+      "Lexical Semantics",
+      "The Syntax-Semantics Interface",
+      "Syntactic Alternations",
+      "Computational Linguistics",
+      "Large-Scale Lexical Resources",
+      "Idioms",
+      "Ontology"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/fellbaum",
+      "linkType": "OTHER"
+    },
+    "description": "Natural Language Processing, Lexical semantics, the syntax-semantics interface, syntactic alternations, computational linguistics, large-scale lexical resources, idioms, ontology. Humboldt Foundation Wolfgang Paul Award, 2001; LREC Antonio Zampolli Prize, 2006.",
+    "emails": [
+      "fellbaum@university.edu"
+    ],
+    "mainPhone": "+16092122824",
+    "name": "Christiane Fellbaum",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d57\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/L2LV8exf2kf_pipxYLyfWiBtstZHR59HM9q-zJ0V368/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/L2LV8exf2kf_pipxYLyfWiBtstZHR59HM9q-zJ0V368/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/L2LV8exf2kf_pipxYLyfWiBtstZHR59HM9q-zJ0V368/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Lecturer with rank of Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

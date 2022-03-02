@@ -1,0 +1,15 @@
+{
+  "$id": "courses",
+  "$schema": "https://schema.yext.com/config/crawler/site-crawler/v1",
+  "name": "Courses",
+  "enabled": true,
+  "crawlSchedule": "once",
+  "crawlStrategy": "subPages",
+  "domains": [
+    "https://registrar.princeton.edu/"
+  ],
+  "ignoreQueryParameterOption": "none",
+  "subPagesUrlStructures": [
+    "https://registrar.princeton.edu/course-offerings/*"
+  ]
+}

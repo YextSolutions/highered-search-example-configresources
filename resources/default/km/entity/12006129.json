@@ -1,0 +1,16 @@
+{
+  "$id": "12006129",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "JPN 107J"
+    ],
+    "c_term": "2021 Summer",
+    "description": "A four-week intensive language course, equivalent to JPN 107, conducted online via Zoom. A continuation of JPN 105J. This course is designed to further students\u0027 aural-oral skills. Emphasis will be increasingly on readings and writing skills. The course will be comprised of five three-hour classes weekly.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d009063",
+    "name": "Intermediate Japanese II"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

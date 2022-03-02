@@ -1,0 +1,16 @@
+{
+  "$id": "12006000",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SOC 374"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course examines economic phenomena from a sociological perspective. We first consider conceptual tools that sociologists have used to understand economic life and connections between economy and society. We then apply these concepts to an array of topics including labor markets, work, firms, commodification and consumption, credit and finance, social stratification and inequality, and transformations in 21st century capitalism.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016296",
+    "name": "The Sociology of Economic Life and Institutions"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

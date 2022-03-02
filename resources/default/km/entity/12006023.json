@@ -1,0 +1,16 @@
+{
+  "$id": "12006023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "POL 376"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "his course provides a broad exploration about how non-democratic governments throughout the world rule. We examine: the conditions that give rise to authoritarianism; the variety of authoritarian regimes; the strategies authoritarian leaders use to stay in power; the consequences of different types of authoritarianism for outcomes such as economic growth and human development; and the domestic and international sources of authoritarian demise. The course builds knowledge about the governments under which most people in the Global South lived during the 20th century",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016276",
+    "name": "Dictators and Their Demise"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

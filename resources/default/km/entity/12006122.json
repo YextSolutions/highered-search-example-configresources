@@ -1,0 +1,16 @@
+{
+  "$id": "12006122",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "POL 546"
+    ],
+    "c_term": "2021 Summer",
+    "description": "It\u0027s frequently asserted that emergencies are best addressed by powerful executives; there is also the view that executives might suspend normal legal provisions and adhere to special rules designed for an exception or operate in a legal vacuum. Challenges posed by this liberal democracy has been debated extensively with respect to the global war on terror; the 2020 pandemic has prompted new questions as to what happens to the separation of powers and fundamental rights when executives address a health emergency; less obviously, has also been the concern that executive failure might amount to a violation of a fundamental right to health.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d015998",
+    "name": "Executives and Emergencies: Normative, Legal, and Empirical Transatlantic Perspectives (Half-Term)"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

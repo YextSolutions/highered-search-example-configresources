@@ -1,0 +1,16 @@
+{
+  "$id": "12006160",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "POR 208S"
+    ],
+    "c_term": "2021 Summer",
+    "description": "Designed as a journey through the Lusophone world, this course seeks to present the Portuguese language in context by exploring historical, social, political and cultural aspects of Brasil, Portugal, and Lusophone Africa through the media, literature, film, music and other realia. Students will increase their fluency and accuracy in both written and spoken Portuguese, broadening their vocabulary and mastery of syntax through textual analysis, discussions, oral presentations and grammar review. An advanced language course and overview of the Lusophone world, POR 208S seeks to prepare students for further study of literature and culture.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d016005",
+    "name": "Journeys in Portuguese: Studies in Language and Culture"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

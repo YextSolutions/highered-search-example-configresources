@@ -1,0 +1,16 @@
+{
+  "$id": "12005971",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 130"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The word \"\"sick\"\" means many things: \"\"I\u0027m sick,\"\" \"\"Out sick,\"\" \"\"That\u0027s sick,\"\" and \"\"Sick!\"\" What might the alternate connotations of the word \"\"sick\"\"--disturbing or cool--suggest about our relationship with its primary meaning of being ill? Illness narratives have often captivated our cultural imagination, yet these narratives have taken on a new urgency today as we navigate the COVID pandemic. This course will examine illness narratives--literature, films, TV shows--in order to see what it can tell us about our current moment. Our discussions will seek to understand illness with nuance and compassion towards ourselves, others, and our community.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016209",
+    "name": "Sick: Interrogating Illness Narratives"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

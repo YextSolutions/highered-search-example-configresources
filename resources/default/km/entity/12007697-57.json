@@ -1,0 +1,61 @@
+{
+  "$id": "12007697-57",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Stanford University, 1972",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "305 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~ret",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Data Structures",
+      "Graph Algorithms",
+      "Combinational Optimization",
+      "Computational Complexity",
+      "Computational Geometry",
+      "Parallel Algorithms"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/ret",
+      "linkType": "OTHER"
+    },
+    "description": "Data structures; graph algorithms; combinatorial optimization; computational complexity; computational geometry; parallel algorithms. ACM Turing Award, 1986. Fellow Amer. Acad. Arts \u0026 Sci. 1985; Member Nat. Acad. Sci. 1987; Member Nat. Acad. Engineering 1988; Member Amer. Phil. Soc. 1990; ACM Fellow 1994; SIAM Fellow 2009.",
+    "emails": [
+      "ret@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092584797",
+    "name": "Robert Tarjan",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d32\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/j0PK7hEMbiF4lP0gk4TGmZyXJpVbB7Z49ygYMiUukX0/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/j0PK7hEMbiF4lP0gk4TGmZyXJpVbB7Z49ygYMiUukX0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/j0PK7hEMbiF4lP0gk4TGmZyXJpVbB7Z49ygYMiUukX0/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "James S. McDonnell Distinguished University Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

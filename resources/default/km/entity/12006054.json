@@ -1,0 +1,17 @@
+{
+  "$id": "12006054",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRE 367",
+      "ECS 367"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course will investigate the development of Francophone Postcolonial Cinema from the 1950\u0027s to the present. Emphasis will be placed on the development and flourishing of this cinema in the 1950s and 60s in the period of Decolonization. Focus will be on films by directors such as Jean Rouch, Chris Marker, Ousmane Sembene, Assia Djébar and Djibril Diop Mambety. The course will investigate both the specific cinematic languages developed by these various directors, as well as the political and historical context of Decolonization, in which these films developed critical, militant interventions against French and global colonialism and racism.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d002898",
+    "name": "Topics in 19th- and 20th-Century French Literature and Culture: Francophone Postcolonial Cinema"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,59 @@
+{
+  "$id": "12007697-51",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Stanford University, 2001",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "222 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~smr",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Computer Graphics",
+      "Acquisition Of 3D Shape",
+      "Reflectance",
+      "Appearance Of Real-World Objects"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/smr",
+      "linkType": "OTHER"
+    },
+    "description": "Computer graphics; acquisition of 3D shape, reflectance, and appearance of real-world objects.",
+    "emails": [
+      "smr@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092587479",
+    "name": "Szymon Rusinkiewicz",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d26\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/q9_sw45or5pBanFRPZK-5_VYnh_xFK0aDIu6DlHASXc/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/q9_sw45or5pBanFRPZK-5_VYnh_xFK0aDIu6DlHASXc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/q9_sw45or5pBanFRPZK-5_VYnh_xFK0aDIu6DlHASXc/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "David M. Siegel ’83 Professor of Computer Science, Vice Chair"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

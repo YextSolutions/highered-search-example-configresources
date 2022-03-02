@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "288cf691-4878-43f1-a3c9-cfa7337778e1",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what course can i learn about african american studies",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 62,
+      "offset": 166
+    },
+    "resultText": "of capital. In order to examine these processes, this class will use interdisciplinary thematic units across South Asian and Asian American Studies to examine caste, race/racialization, gender/gendering processes and colonialism in the Indian American diaspora"
+  }
+}

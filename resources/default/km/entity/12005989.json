@@ -1,0 +1,16 @@
+{
+  "$id": "12005989",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "VIS 228"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course explores Dance Black America (DBA), a festival program presented in 1983 that featured Black dancers, choreographers, scholars, and dance companies. DBA centered on Blackness and the African Diaspora over the span of 300 years and showcased the richly diverse traditions of African American dance. This course, hybrid in form, will include film presentations, lectures, live filming session, site visits and guest speakers who are featured in the project. We will collectively produce research on dancers, choreographers, and dance companies to work to bring forth names that have been overlooked in the past and present.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016308",
+    "name": "The Trace of An Implied Presence"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

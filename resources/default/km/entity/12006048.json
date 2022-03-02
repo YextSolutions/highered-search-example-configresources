@@ -1,0 +1,18 @@
+{
+  "$id": "12006048",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HIS 294",
+      "ECS 388",
+      "GHP 394"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course explores how new developments in science, medicine, and technology shaped European cultures during three crucial centuries, from 1400-1700. During this period, knowledge of nature was transformed by a host of factors, from the rediscovery of ancient texts to the invention of new technologies and encounters with new lands and peoples. Political upheaval, religious Reformation, and the expansion of global commerce and colonization also affected how science was carried out, and by whom. From medicine and mechanics to alchemy and magic, this course examines the interplay between natural knowledge and human society.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016258",
+    "name": "Science and Medicine in the Early Modern World"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "12006047",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HIS 262"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Capitalism has been the dominant form of social and economic organization since the industrial revolution, defining what we eat, what we wear, and how we work. Since its dawn, capitalism has also fueled discontent and revolution. How does a historical perspective give insights for the future? This course is about the history of economic life around the world, from peasant communities in the nineteenth century to fashionistas and wealth managers in the twenty-first century. It looks especially at the technological, institutional, and intellectual forces governing how people survive, flourish, and struggle.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016257",
+    "name": "Capitalism: Origins, Alternatives, Futures"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

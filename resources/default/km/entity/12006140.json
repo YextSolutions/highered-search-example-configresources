@@ -1,0 +1,16 @@
+{
+  "$id": "12006140",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "PHI 551"
+    ],
+    "c_term": "2021 Summer",
+    "description": "This course focuses on a range of meta-normative issues including, but not restricted to, objectivity of normative claims, nature of normative knowledge, \u0026 relationship between normative reasoning \u0026 normative facts. The focus is the manuscript of Conor McHugh \u0026 Jonathan Way\u0027s Getting Things Right: Reasons, Value, and Fittingness, to be published by Oxford University Press. We work through the manuscript of McHugh \u0026 Way\u0027s book; McHugh \u0026 Way visit some sessions to answer questions; there is a series of informal discussions between participants; we have 4 outside speakers give talks on related topics (speakers tba).",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d014761",
+    "name": "Practical Normativity: Reasons, Value, and Fittingness"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

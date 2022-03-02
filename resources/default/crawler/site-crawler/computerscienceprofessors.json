@@ -1,0 +1,12 @@
+{
+  "$id": "computerscienceprofessors",
+  "$schema": "https://schema.yext.com/config/crawler/site-crawler/v1",
+  "name": "Computer Science Professors",
+  "enabled": true,
+  "crawlSchedule": "once",
+  "crawlStrategy": "specificPages",
+  "domains": [
+    "https://www.cs.princeton.edu/people/faculty?type\u003dall"
+  ],
+  "ignoreQueryParameterOption": "none"
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "12005985",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "THR 230"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course is an exploration of physical performance techniques that place the embodied actor at the center of the process of theatrical creation. In a progressive set of exercises, students investigate movement dynamics, and unlock creative pathways within their bodies, minds and imaginations. Preparatory techniques lay the foundation for improvisations which make use of theatrical masks as tools for deepening play. Through playfulness, students embark on a journey toward the core of their own bodies, in relationship to the movements of the life.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016304",
+    "name": "Introduction to Masked Performance"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "12005980",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPA 322",
+      "COM 225",
+      "ECS 394"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The ways in which individuals and societies define space and place is very revealing. The investigation of space and place-how cultures turn material, racial, and/or metaphysical settings into human landscapes defining home, neighborhood, and nation-is a deeply important optic that dramatizes social, racial, political, and religious factors. At the same time, it can be used to track the changes of these realities over time. Because of its unique mix of Jews, Christians, and Moors, medieval Iberia offers near laboratory conditions for the study of space and place in their racial, ethnic, literary, religious, and political identities.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016300",
+    "name": "Race, Space, and Place in Medieval Iberia"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

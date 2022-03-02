@@ -1,0 +1,19 @@
+{
+  "$id": "12005940",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "LAS 313",
+      "ANT 313",
+      "LAO 313",
+      "AMS 305"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course explores transnational and diasporic formations of race in the Americas. Drawing on Ethnic Studies, Latin American Studies, and anthropological and historical approaches, we explore racial formations in Latin America and its transnational communities. A central goal for this course is to understand race and racial formations as culturally contextualized and situated within the politics of difference. How are U.S. racial-ethnic categories embraced, contested, or reconfigured across the Americas, and vice versa? Topics include multiculturalism, mestizaje, border thinking, transnationalism, and racial democracy among others.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016331",
+    "name": "Race Across the Americas"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "12006075",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CWR 221"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This fiction workshop will look at the ways writers learn from and pay tribute to one another - sometimes intentionally and explicitly, other times tacitly, perhaps even unconsciously. Reading across a range of genres and voices, each week we will discuss a pair of stories revealing writers\u0027 artistic heritage, in some cases clearly identifiable as literary tribute to (or subtle critique of) enduring stories, in other cases, less overt in acknowledgment. Throughout, we will explore fundamental elements of fiction through analysis and discussion of these works and through peer critique of student writing (your own original works).",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016233",
+    "name": "Fiction Workshop: Literary Lineage, Tribute, and Homage"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

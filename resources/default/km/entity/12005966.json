@@ -1,0 +1,17 @@
+{
+  "$id": "12005966",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "POL 476",
+      "CHV 476"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course examines political thinkers who profoundly shaped normative thinking about politics in Indian, Islamic, African and Chinese contexts. The course will examine non-Western ideas of modernity, and justified forms of moral and political order. It will shed new light on key ideas of modern political thought: rights, justice, nationalism, identity, violence, perfectionism, democracy and power. The thinkers in this course such as Gandhi, Iqbal, Ambedkar, Qutub, Fanon, Cesaire, Mao and others, not only contribute to political theory. Their arguments also define fault lines in contemporary politics.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016326",
+    "name": "Global Political Thought"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

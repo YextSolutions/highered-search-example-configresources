@@ -1,0 +1,58 @@
+{
+  "$id": "12007697-19",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., New York University, 2007",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "308 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~mfreed",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Distributed Systems",
+      "Security",
+      "Networking"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/mfreed",
+      "linkType": "OTHER"
+    },
+    "description": "Distributed systems, security, networking. ACM Fellow, 2019; ACM Grace Murray Hopper Award, 2018; Presidental Early Career Award (PECASE), 2011; ONR Young Investigator, 2009.",
+    "emails": [
+      "mfreed@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092589179",
+    "name": "Michael Freedman",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d15\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/C6OOP_ZnoMaU5iolWl5SnI9KwJDvtjGd76lXGFaZU8o/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/C6OOP_ZnoMaU5iolWl5SnI9KwJDvtjGd76lXGFaZU8o/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/C6OOP_ZnoMaU5iolWl5SnI9KwJDvtjGd76lXGFaZU8o/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Robert E. Kahn Professor of Computer Science"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

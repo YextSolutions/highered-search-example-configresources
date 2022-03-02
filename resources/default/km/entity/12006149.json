@@ -1,0 +1,16 @@
+{
+  "$id": "12006149",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CLA 410"
+    ],
+    "c_term": "2021 Summer",
+    "description": "Classical Ethiopic or Ge\u0027ez is a language from the Horn of Africa (modern-day Ethiopia, Eritrea, Somalia, and Djibouti). It is written in a unique, ancient African script called Fidel and has linguistic connections with Greek, Hebrew, Arabic and even Sanskrit. The history of Classical Ethiopic spans over two millennia and its position in East African society is often compared to Latin in Europe. It is the precursor to several modern African languages, including Tigrinya and Amharic, and lives on as the liturgical language of Christian and Jewish communities in the Horn of Africa and in its global diaspora.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d016012",
+    "name": "Introduction to Classical Ethiopic"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

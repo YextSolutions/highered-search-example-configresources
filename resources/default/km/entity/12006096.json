@@ -1,0 +1,16 @@
+{
+  "$id": "12006096",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CHM 251"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The Chemistry Research Experience sequence provide sophomore students with an in lab research experience. The sequence comprises two semesters with CHM 250 as a prerequisite for CHM 251, a credit bearing P/D/F course. Students will gain an introduction to chemical research within the laboratory of a Chemistry faculty mentor. Students are expected to spend 6 hours per week engaged in research and attend weekly meetings as outlined by the mentoring faculty. At the end of the semester, students will present an oral presentation summarizing their results.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016226",
+    "name": "Chemistry Research Experience II"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

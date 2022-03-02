@@ -1,0 +1,16 @@
+{
+  "$id": "12006157",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "AFS 304K"
+    ],
+    "c_term": "2021 Summer",
+    "description": "This seminar will provide an understanding of contemporary Kenya in the context of its historical positioning and modern value to Western political interests, and how this position translates to livelihoods and aspirations of Kenyans. The first part will focus on 3 themes: 1) Kenya as home to earliest human origins; 2) Kenya\u0027s evolution as the \"\"anti-socialism\"\" capital of western capitalism in the region; 3) The country\u0027s central position in the anti-terrorism war between the west and middle east. We will problematize the image of corruption as the explanation to (under) development that the West paints Kenya and \"\"Africa\"\" as suffering from.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d016001",
+    "name": "Kenya: Evolution of the Capital of Western Capitalism in Eastern and Central Africa"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "12006064",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CWR 224"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Poets should come to this class ready to move, yell, play, and discover. Writing and performing our way towards a deeper understanding of ourselves as spoken word poets, we will collaboratively work our way towards a final public performance and, hopefully, the tools to better move the crowds we face, which are the tools to change the world one poem at a time.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016245",
+    "name": "Spoken Word Poetics"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

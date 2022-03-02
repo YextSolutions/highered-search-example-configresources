@@ -1,0 +1,16 @@
+{
+  "$id": "12006034",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ENG 266"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "A poem moves, and sings, and paints pictures; it tells stories, it takes the stage, and it can play like a movie on the inside of the eyelids. This course explores what poetry can do by considering the powers it shares with neighboring kinds of making, both their expressive potentials and their technical resources. In collaboration with a wide variety of guests from Princeton\u0027s arts programs, and by means of a mix of practical and critical exercises, students will rethink the place of poetry in culture and society, historically and into the future.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016265",
+    "name": "Poetry and the Arts"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

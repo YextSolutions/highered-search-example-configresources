@@ -1,0 +1,58 @@
+{
+  "$id": "12007697-33",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Yale University, 1986",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "321 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~li",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Parallel Architectures And Systems",
+      "Distributed Systems",
+      "Operating Systems"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/li",
+      "linkType": "OTHER"
+    },
+    "description": "Parallel architectures and systems; distributed systems; operating systems. Member, National Academy of Engineering, 2012; ACM SIGOPS Hall of Fame, 2012; IEEE Fellow, 2011; ACM Fellow, 1998.",
+    "emails": [
+      "li@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092584637",
+    "name": "Kai Li",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d22\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/GQKBKvTdnoevJoq1_JQtF5jwhTDAulPlHck9gdKfeBs/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/GQKBKvTdnoevJoq1_JQtF5jwhTDAulPlHck9gdKfeBs/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/GQKBKvTdnoevJoq1_JQtF5jwhTDAulPlHck9gdKfeBs/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Paul M. and Marcia R. Wythes Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "12005947",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HUM 475",
+      "ENG 475"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This seminar will explore methods in the sociology of literature and computational literary criticism--two methodologies that approach literary works as part of larger systems of relations between people, texts, technologies, and institutions. We\u0027ll look at the data of literary study--from colonial lending library records to course syllabi--and what such they can tell us about how cultural works are produced, consumed, consecrated, and distributed. We\u0027ll learn advanced techniques in computer-assisted reading and situate them within a longer genealogy that includes book history, critical archival studies, and Marxist literary theory.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016336",
+    "name": "Data and Literary Study: A Research Lab"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

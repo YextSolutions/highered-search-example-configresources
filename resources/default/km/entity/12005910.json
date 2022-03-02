@@ -1,0 +1,16 @@
+{
+  "$id": "12005910",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "JRN 260"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This seminar will explore the challenges and opportunities that today\u0027s rapidly evolving media landscape presents to freedom of the press, and to the democracy that the media serve. Discussion will focus on where news comes from and how citizens can best assess the credibility of individual news reports. Students will evaluate how successful traditional mass-media outlets and emerging digital media have been at accomplishing the lofty goals embodied in the First Amendment. They will craft strategies for determining their own personal media diet and work to develop new models for serious, sustainable news ventures.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d010639",
+    "name": "The Media in America: What to Read and Believe in the Digital Age"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

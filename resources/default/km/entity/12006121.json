@@ -1,0 +1,16 @@
+{
+  "$id": "12006121",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ITA 207I"
+    ],
+    "c_term": "2021 Summer",
+    "description": "The course will meet five days a week: 1.5 hours in the morning with undergraduate students from the Scuola Normale Superiore (SNS) of Pisa and 2 hours in the afternoon with a Princeton faculty member. SNS students will work collaboratively with Princeton students and guide them through the exploration of authentic cultural and literary material, performances, and cultural events.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d009370",
+    "name": "Accelerated Summer Study"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "12006069",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRE 352"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Élisabeth Vigée Le Brun famously said: \"\"Women used to reign; the Revolution dethroned them.\"\" Did women enjoy greater power and agency in an aristocratic society? Did the attempt to install democracy result in a backward slide for women\u0027s rights? This course will examine these questions through one of the most significant cultural expressions in Early modern France: theater. We will study the representation of women on stage in the era from both a historical and a literary perspective, considering for instance the social status of actresses at the time as well as the depth of female roles in the extant repertoire.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d002890",
+    "name": "Topics in 17th- and 18th-Century French Literature: \u0027Women used to reign\u0027: Women on stage in pre-Revolution France"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,63 @@
+{
+  "$id": "organization",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "blackOwnedBusiness": false,
+    "description": "Princeton University is a private Ivy League research university in Princeton, New Jersey. Founded in 1746 in Elizabeth as the College of New Jersey, Princeton is the fourth-oldest institution of higher education in the United States and one of the nine colonial colleges chartered before the American Revolution.",
+    "facebookPageUrl": "https://www.facebook.com/princetonu",
+    "instagramHandle": "princeton",
+    "logo": {
+      "image": {
+        "height": 1373,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Princeton_Tigers_logo.svg/1200px-Princeton_Tigers_logo.svg.png",
+        "thumbnails": [
+          {
+            "height": 1373,
+            "url": "https://a.mktgcdn.com/p-sandbox/LPS2TXYNnu8qrZzakJtFKhK8tdmDbNfSYaKV-UIVP_I/1373x1373.png",
+            "width": 1373
+          },
+          {
+            "height": 619,
+            "url": "https://a.mktgcdn.com/p-sandbox/LPS2TXYNnu8qrZzakJtFKhK8tdmDbNfSYaKV-UIVP_I/619x619.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/LPS2TXYNnu8qrZzakJtFKhK8tdmDbNfSYaKV-UIVP_I/450x450.png",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p-sandbox/LPS2TXYNnu8qrZzakJtFKhK8tdmDbNfSYaKV-UIVP_I/196x196.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/LPS2TXYNnu8qrZzakJtFKhK8tdmDbNfSYaKV-UIVP_I/1373x1373.png",
+        "width": 1373
+      }
+    },
+    "mainPhone": "+16092583000",
+    "name": "Princeton University",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 301,
+          "sourceUrl": "http://assets.stickpng.com/images/5842f732a6515b1e0ad75b23.png",
+          "thumbnails": [
+            {
+              "height": 301,
+              "url": "https://a.mktgcdn.com/p-sandbox/rWPvSQvRyOjAqzYB5B5yQIovHKUb4dSqAb5y858oWu8/902x301.png",
+              "width": 902
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/rWPvSQvRyOjAqzYB5B5yQIovHKUb4dSqAb5y858oWu8/902x301.png",
+          "width": 902
+        }
+      }
+    ],
+    "twitterHandle": "princeton"
+  },
+  "entityType": "organization",
+  "labels": []
+}

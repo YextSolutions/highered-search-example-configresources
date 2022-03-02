@@ -1,0 +1,18 @@
+{
+  "$id": "12006072",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ART 340",
+      "NES 352",
+      "AFS 340"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Around 3000 BCE, the first state in history was formed in the northeastern part of Africa, from the Delta to the first cataract of the Nile. With it came the invention of writing, new ideologies, and monumental forms of art and architecture. In this course we will consider ancient Egyptian material, visual, and textual culture from this early phase (c. 3500-2150 BCE). With a focus on recent fieldwork done across the country, we will consider how the state was formed, the challenges it faced, the way members of the community variously functioned within it, and how it adapted and eventually disintegrated after a long period of stability.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016230",
+    "name": "Egypt in the Pyramid Age"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

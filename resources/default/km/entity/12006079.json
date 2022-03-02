@@ -1,0 +1,18 @@
+{
+  "$id": "12006079",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "LIN 215",
+      "AMS 214",
+      "GHP 315"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course explores the history, culture, and language of the Deaf in the United States. The first part of the course focuses on the history of Deaf people in the United States. The second part discusses various aspects of Deaf culture: language, literature, art, politics, etc. The third part critically examines different issues facing Deaf people here in the United States and around the world. These issues include audism, linguicism, ableism, intersectionality, disability rights, bioethics, and education. No American Sign Language knowledge required.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016358",
+    "name": "American Deaf Culture"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

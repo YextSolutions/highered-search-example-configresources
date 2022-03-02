@@ -1,0 +1,17 @@
+{
+  "$id": "12005919",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ENE 273",
+      "ECE 273"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course explores broadly renewable energy systems and smart grids. Technical and operational principles of the modern electric grids will be introduced, followed by an overview of various energy sources from fossil-fuel generators to photovoltaic systems. The intermittency of renewable energy systems and its impact on the electric grid will be discussed together with its potential solutions: energy storage systems and demand response techniques. This course will also include a few experimental demo sessions in which students will gain hands-on experience in understanding the fundamental principles of power conversion.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d014275",
+    "name": "Renewable Energy and Smart Grids"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

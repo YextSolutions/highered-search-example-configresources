@@ -1,0 +1,17 @@
+{
+  "$id": "12006052",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ATL 499",
+      "VIS 499"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Before the invention of the artist as a solitary genius, all artists, as artisans, had shops in which they had direct contact with their customers. This arrangement held until the Modern era, when the twin ethos of specialization and purity separated artists from the corrupting influence of commerce. This class will begin with critical discussion of the many artists who have reimagined the role of art (and its relationship to commerce) by opening stores, analyzing how the inherent critique and conviviality of the gesture has inspired new art forms. Students will then conceive, make, and launch their very own \"\"Store as Art\"\" in Princeton.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d003865",
+    "name": "Princeton Atelier: The Store as Art"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

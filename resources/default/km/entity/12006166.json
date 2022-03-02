@@ -1,0 +1,18 @@
+{
+  "$id": "12006166",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPA 237S",
+      "LAS 237S",
+      "GSS 237S"
+    ],
+    "c_term": "2021 Summer",
+    "description": "What did it mean to be \"\"wild,\"\" \"\"manly\"\" or \"\"white\"\" in Early Modernity, and how do these categories function today? This course explores films made in the last fifty years, featuring \"\"descents into savagery\"\" and the colonial texts that inspired them. Among other topics, we\u0027ll discuss: coloniality and its effects; primitivism and progress; media and mediation; race and gender; healing practices; intercultural dialogues; and community-based performances.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d016007",
+    "name": "Wildness, Whiteness, and Manliness in Colonial Latin America"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

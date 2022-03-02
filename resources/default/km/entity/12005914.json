@@ -1,0 +1,19 @@
+{
+  "$id": "12005914",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "THR 313",
+      "AAS 312",
+      "AMS 387",
+      "GSS 453"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "In this Princeton Challenge course, students will participate in building a relationship between a historically significant Black theater company, Crossroads Theater in New Brunswick, and the university community. Co-taught by Sydne Mahone, Director of play development at Crossroads 1985-1997, students will research the theater through its people and its art, while making the role of women in Black art-making more visible. Students will consider their own role in movements for change, and the role of storytelling as a call to action. Our work will culminate in creative responses and roadmaps for continuing community relationship.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016327",
+    "name": "Storytellers - Building Community Through Art"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

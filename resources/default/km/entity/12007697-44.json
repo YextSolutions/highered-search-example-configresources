@@ -1,0 +1,58 @@
+{
+  "$id": "12007697-44",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Massachusetts Institute of Technology, 2018",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "322 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~ravian",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Systems",
+      "Networking",
+      "Distributed Systems"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/ravian",
+      "linkType": "OTHER"
+    },
+    "description": "Systems, networking, distributed systems",
+    "emails": [
+      "ravian@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092585964",
+    "name": "Ravi Netravali",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d5582\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/FmqIHj2PhjurvBHL35QtDvQd4E_4PcRySfNoaMkPJQM/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/FmqIHj2PhjurvBHL35QtDvQd4E_4PcRySfNoaMkPJQM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/FmqIHj2PhjurvBHL35QtDvQd4E_4PcRySfNoaMkPJQM/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Assistant Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

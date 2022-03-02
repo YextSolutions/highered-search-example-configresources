@@ -1,0 +1,18 @@
+{
+  "$id": "12006037",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "MAE 418",
+      "ARC 418",
+      "ENE 428"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "VR/AR can enable engineers, scientists, and architects to plan and conduct their work in fundamentally new ways, visualize and communicate their findings more effectively, and work in environments that are otherwise difficult, impossible, or too costly to experience in person. This course explores the basic concepts of effective VR/AR experiences, builds skills needed to develop and support innovative science, engineering, or architecture projects. In the second half of the semester, working in small teams, students develop, implement VR/AR projects of their choice.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016268",
+    "name": "Virtual and Augmented Reality for Engineers, Scientists, and Architects"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

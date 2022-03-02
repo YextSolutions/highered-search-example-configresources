@@ -1,0 +1,17 @@
+{
+  "$id": "12005990",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "VIS 324",
+      "ENV 312"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Students will learn techniques of wildlife surveillance photography using remote cameras to photograph animal populations on and around Princeton\u0027s campus. The photographs and apparatus will be considered as both ecological research and works of art. As such, the methods and results will be critically examined for population index studies as well as philosophical ramifications. A final exhibition of the images will highlight the secret wilderness of the area while posing questions about our relationship to non-human animals and the narrative ramifications of the gaze of surveillance photography.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016309",
+    "name": "The Visible Wild"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

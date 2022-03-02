@@ -1,0 +1,52 @@
+{
+  "$id": "12007697-32",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Yale University, 2014",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "034 Corwin Hall",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~dl9",
+      "linkType": "OTHER"
+    },
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/dl9",
+      "linkType": "OTHER"
+    },
+    "emails": [
+      "dl9@university.edu"
+    ],
+    "mainPhone": "+16092129300",
+    "name": "Daniel Leyzberg",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d2487\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/-D8AfmqpR86ckFnLU1UnCQtyYeNIxHLD6ej2wC1muoE/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/-D8AfmqpR86ckFnLU1UnCQtyYeNIxHLD6ej2wC1muoE/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/-D8AfmqpR86ckFnLU1UnCQtyYeNIxHLD6ej2wC1muoE/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Lecturer"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

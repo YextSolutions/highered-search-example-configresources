@@ -1,0 +1,20 @@
+{
+  "$id": "12006098",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CLA 260",
+      "HLS 260",
+      "COM 252",
+      "HUM 261",
+      "REL 245"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Most often seen in opposition, Greco-Roman Classical culture and Christianity have a long history of reciprocal reliance. Neither would look as it does today without the other. Through readings and discussion of both Classical and Christian texts, as well as art and architecture, this course will inquire into the Classical roots of much Christian theology, ethics, cosmology, and values more broadly, while also considering the effect on Classics as a cultural cornerstone of societies beholden to these twin traditions.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016227",
+    "name": "Christianity and Classical Culture"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

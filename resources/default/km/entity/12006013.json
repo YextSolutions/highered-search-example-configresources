@@ -1,0 +1,16 @@
+{
+  "$id": "12006013",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ART 484"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Armor meant a great deal to the people whose bodies it protected in combat. But the meaning of armor in medieval and Renaissance Europe extended well beyond the utilitarian. Armor transformed the body of the wearer and shaped his image as a person. Armor\u0027s power to forge bonds among people, articulate community, and connect to ideas was reflected across the fine arts. This course, drawing on objects in the Metropolitan Museum of Art, will examine the meaning of armor throughout history, including issues of convention, originality, and quality, as well as the shifting historical circumstances for armor\u0027s appreciation, preservation, and study.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016288",
+    "name": "The Meaning of Armor"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

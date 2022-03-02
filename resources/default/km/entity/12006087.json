@@ -1,0 +1,16 @@
+{
+  "$id": "12006087",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 156"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "In the late eighteenth and early nineteenth centuries, a wave of revolutions reshaped both sides of the Atlantic, soliciting vigorous responses across Europe and the Americas. With particular attention to debates over rights and freedom, this class will explore how the American, French, and Haitian Revolutions fought, often violently, to establish democratic self-determination and challenge entrenched roles and statuses associated with the family, religion, slavery, and government. In addition to gaining a broad understanding of these revolutions, students will closely analyze historical documents, including visual and literary artworks.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016221",
+    "name": "Freedom in the Age of Revolutions"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

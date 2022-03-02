@@ -1,0 +1,24 @@
+{
+  "$id": "video-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "Alumni"
+    ],
+    "c_numberViews": "58592",
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dTYwhIO-OXTs",
+    "datePosted": "2009-11-04",
+    "landingPageUrl": "https://www.youtube.com/watch?v\u003dTYwhIO-OXTs",
+    "name": "Jeff Bezos: Engineering after Princeton",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dTYwhIO-OXTs"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

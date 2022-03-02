@@ -1,0 +1,16 @@
+{
+  "$id": "12005973",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "VIS 440"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This class is equal parts screening, filmmaking, discussion, and artistic critique. We will watch, discuss, and dissect works by artists and filmmakers from across the globe that use personal form and distinct techniques to communicate idiosyncratically. Readings will explore contemporary notions of time and cinema while screenings prioritize nonfiction and fiction works (as well as art pieces) that have mainstream audience potential. Students will use video cameras to complete assignments that will expand their filmic language as they work over the semester toward the completion of a short film that employs a singular structure.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016311",
+    "name": "Other Lives of Time"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

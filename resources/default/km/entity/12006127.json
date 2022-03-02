@@ -1,0 +1,16 @@
+{
+  "$id": "12006127",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "RUS 105R"
+    ],
+    "c_term": "2021 Summer",
+    "description": "RUS 105R will be offered virtually this year. Taken along with RUS 107R, this is a special offering of third- and fourth-semester Russian taught during the summer to include grammar, conversation, and reading. Students take part in a combined eight-week intensive language course offered through the Derzhavin Institute and receive supplemental instruction from Princeton faculty members. Students are chosen by application from 102 in the spring. The two courses must be taken together.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d009647",
+    "name": "Intermediate Russian I"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

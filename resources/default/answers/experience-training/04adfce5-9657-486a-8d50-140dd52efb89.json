@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "04adfce5-9657-486a-8d50-140dd52efb89",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what is the subject associations for global political thought",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 84,
+      "offset": 147
+    },
+    "resultText": "non-Western ideas of modernity, and justified forms of moral and political order. It will shed new light on key ideas of modern political thought: rights, justice, nationalism, identity, violence, perfectionism, democracy and power. The thinkers in this course such as Gandhi, Iqbal, Ambedkar, Qutub, Fanon, Cesaire, Mao and others, not only contribute to political theory. Their arguments also"
+  }
+}

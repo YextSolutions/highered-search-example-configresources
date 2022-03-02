@@ -1,0 +1,16 @@
+{
+  "$id": "12005923",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ENV 316"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Climate scientists have long agreed that climate change is real, potentially dangerous, and caused largely by humans. Despite these warnings, however, policymakers have still not taken significant action to limit greenhouse-gas emissions--in part because scientists talk mostly to each other, in technical terms most of us cannot understand. That is where science communicators come in. This class will give students the basic scientific knowledge; the narrative ability; and the technical skills to translate climate science into compelling stories, largely in video, that can help lead to greater public understanding of this crucial issue.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d011337",
+    "name": "Climate Science and Communications"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

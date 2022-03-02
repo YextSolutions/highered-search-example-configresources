@@ -1,0 +1,58 @@
+{
+  "$id": "12007697-42",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Massachusetts Institute of Technology, 2017",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "422 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~karthikn",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Natural Language Processing",
+      "Reinforcement Learning",
+      "Grounded Language Understanding"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/karthikn",
+      "linkType": "OTHER"
+    },
+    "description": "Natural language processing, Reinforcement learning, Grounded language understanding",
+    "emails": [
+      "karthikn@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092588702",
+    "name": "Karthik Narasimhan",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d4419\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/h0__W1lrFhaOzUqKKG72i_o_LFoJL3I1t6hfesBCag4/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/h0__W1lrFhaOzUqKKG72i_o_LFoJL3I1t6hfesBCag4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/h0__W1lrFhaOzUqKKG72i_o_LFoJL3I1t6hfesBCag4/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Assistant Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

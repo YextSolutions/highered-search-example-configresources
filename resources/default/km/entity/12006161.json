@@ -1,0 +1,16 @@
+{
+  "$id": "12006161",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "POL 566"
+    ],
+    "c_term": "2021 Summer",
+    "description": "Democracies have been under stress worldwide, and some observers are claiming that at least some democracies are in fact dying. We ask what to make of such assessments empirically and conceptually; we also study some of the particular diagnoses of current trends that have been particularly influential (especially the idea that democracies are not officially killed through violent coups, but slowly destroyed from within). At the end of the course, students will be familiar with a range of crucial debates about democratic self-defense at the intersection of law, political and legal theory, and intellectual history.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d015552",
+    "name": "Democratic Resilience: Transatlantic Normative and Empirical Perspectives (Half Term: Berlin)"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

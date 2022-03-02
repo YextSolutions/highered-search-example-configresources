@@ -1,0 +1,17 @@
+{
+  "$id": "12006008",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SAN 304",
+      "TRA 310"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "his course introduces philosophical and intellectual tradition of Classical India through readings selected from Sanskrit texts belonging to different branches of Indian thought. This is primarily a reading course. It covers a wide range of passages excerpted from major works of various schools of Indian philosophy and pre-philosophical reflections. Sanskrit texts are supplemented by a selection of secondary literature to help students situate the works in the intellectual and cultural context of pre-modern South Asia",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016283",
+    "name": "Advanced Philosophical Sanskrit"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

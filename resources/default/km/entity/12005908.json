@@ -1,0 +1,17 @@
+{
+  "$id": "12005908",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GEO 360",
+      "ENV 356"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Humans have profoundly altered the chemistry of Earth\u0027s air, water, and soil. This course explores these changes with an emphasis on the analytical techniques used to measure the human impact. Topics include the accumulation of greenhouse gases (CO2 and CH4) in Earth\u0027s atmosphere and the contamination of drinking water at the tap and in the ground. Students will get hands on training in mass spectrometry and spectroscopy to determine the chemical composition of air, water, and soil and will participate in an outreach project aimed at providing chemical analyses of urban tap waters to residents of Trenton, NJ.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d014062",
+    "name": "Topics in Environmental Justice in the Geosciences"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

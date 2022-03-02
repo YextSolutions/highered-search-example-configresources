@@ -1,0 +1,18 @@
+{
+  "$id": "postnasal-nativity-curry-99eb9",
+  "$schema": "https://schema.yext.com/config/pages/site-config/v1",
+  "siteName": "university-demo",
+  "repoConfig": {
+    "targetRepoName": "${{universityDemo_targetRepo}}",
+    "templateRepo": "github.com/big-ol-sandbox/answers.university.com"
+  },
+  "publishingConfig": {
+    "pinnedStagingBranchName": "refs/heads/master",
+    "pinnedProductionBranchName": "refs/heads/master",
+    "stagingCredentials": {
+      "username": "yext",
+      "password": "sample"
+    }
+  },
+  "features": []
+}

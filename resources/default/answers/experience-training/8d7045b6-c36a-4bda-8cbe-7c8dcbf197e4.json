@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "8d7045b6-c36a-4bda-8cbe-7c8dcbf197e4",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what topics are covered in multivariable calculus",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "enforcedPrediction": {
+      "length": 253,
+      "offset": 0
+    },
+    "predictionType": "SPAN_EXTRACTION",
+    "resultText": "Vectors in the plane and in space, vector functions and motion, surfaces, coordinate systems, functions of two or three variables and their derivatives, maxima and minima and applications, double and triple integrals, vector fields and Stokes\u0027s theorem."
+  }
+}

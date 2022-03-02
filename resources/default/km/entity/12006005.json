@@ -1,0 +1,17 @@
+{
+  "$id": "12006005",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "REL 303",
+      "CHV 305"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The goal of this course is to examine different ways of thinking about God and humanity in the Roman Catholic intellectual tradition, focusing on the Spanish world. We will draw on four figures: St. Theresa of Avila, Francisco Suarez, Jon Sobrino, and Gustavo Guttiérez. We will first examine their views about the nature of humanity, next about the nature of God, and finally about how the two relate, with special attention to the issue of seeming divine indifference to the suffering of the innocent.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016280",
+    "name": "God and Humanity in Catholic Thought"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

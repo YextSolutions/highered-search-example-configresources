@@ -1,0 +1,16 @@
+{
+  "$id": "12006051",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "JRN 441"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "he rise of authoritarianism around the world makes the subject of this seminar both relevant and urgent: how to gather reliable information in countries that restrict freedom of the press or where reporting can put a journalist\u0027s life in danger. The course will explore how governments exert control over media and how journalists avoid being waylaid by disinformation and propaganda. Students will learn foundational reporting skills for international journalists as well as more sophisticated techniques for prying into closed societies -- skills made necessary as technology upgrades the tools of repression",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d003852",
+    "name": "The McGraw Seminar in Writing: Covering Repressive Regimes"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

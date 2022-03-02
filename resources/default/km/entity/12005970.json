@@ -1,0 +1,16 @@
+{
+  "$id": "12005970",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 128"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "What would it mean to program a technology--like a self-driving car or a facial recognition program--to behave ethically? What responsibilities do engineers and entrepreneurs have for the (un)ethical uses of the tech they create? In this course, we will look at major theories of ethics and apply them to practical questions, including programming ethical tech; how tech distorts social networks; the meaning of \"\"free speech\"\" in tech ecosystems; tech that exacerbates racial discrimination; how productivity tech affects workers; and how AI complicates what it means to be an ethical agent.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016208",
+    "name": "Tech/Ethics"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

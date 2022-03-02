@@ -1,0 +1,48 @@
+{
+  "$id": "12007697-62",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Stanford University, 2017",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "310 Computer Science",
+    "c_researchInterests": [
+      "Data Structures",
+      "Streaming Algorithms",
+      "Communication Complexity"
+    ],
+    "description": "Data structures, streaming algorithms, communication complexity",
+    "emails": [
+      "hy2@university.edu"
+    ],
+    "mainPhone": "+16092125962",
+    "name": "Huacheng Yu",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d5209\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/Yaxny7Cw4CC5qVJUUJG9m2lqUTHplSKj-FLcAHJjEWA/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/Yaxny7Cw4CC5qVJUUJG9m2lqUTHplSKj-FLcAHJjEWA/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/Yaxny7Cw4CC5qVJUUJG9m2lqUTHplSKj-FLcAHJjEWA/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Assistant Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

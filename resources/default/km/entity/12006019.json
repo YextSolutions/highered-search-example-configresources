@@ -1,0 +1,18 @@
+{
+  "$id": "12006019",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "NES 316",
+      "HIS 311",
+      "HLS 371"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "To what extent is globalization a new phenomenon? This seminar considers the flow of people (free and enslaved), commodities, and manufactured goods across Europe, Africa and Asia, with a focus on the human and qualitative dimensions. We will touch on the Indian Ocean, the Mediterranean basin, the overland Silk Roads and the Atlantic world; the time-span ranges from the ancient Greeks to the eighteenth century; among the trading diasporas we will consider are Jews and Armenians. Readings include classic and newer studies as well as merchant correspondence and sailors\u0027 logs.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016272",
+    "name": "Global Trade before the Modern Period"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

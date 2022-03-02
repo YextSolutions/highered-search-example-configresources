@@ -1,0 +1,18 @@
+{
+  "$id": "12006042",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ECE 346",
+      "COS 348",
+      "MAE 346"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Robotic systems are quickly becoming more capable and adaptable, entering new domains from transportation to healthcare. To operate in dynamic environments, interact with other agents, and accomplish complex tasks, these systems require sophisticated decision-making. This course delves into the core concepts and techniques underpinning modern autonomous robots, including planning under uncertainty, active perception, learning-based control, and multiagent decision-making. Lectures cover the theoretical foundations and the practical component introduces the Robot Operating System (ROS) framework through hands-on assignments with mobile robots.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016252",
+    "name": "Intelligent Robotic Systems"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

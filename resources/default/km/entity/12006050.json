@@ -1,0 +1,16 @@
+{
+  "$id": "12006050",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "COS 495"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course serves as an introduction to the fast-developing world of Web3, focused on the applications of blockchains, cryptocurrencies, and decentralization through technology. Students will learn about blockchains and the decentralization of trust and power through technology, launch a cryptocurrency token, create non-fungible tokens, and build an application on a blockchain. We will also discuss applications, ethical implications, and policy questions around decentralization. See \"\"Other Information\"\" below.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d002084",
+    "name": "Special Topics in Computer Science: Web3: Blockchains, Cryptocurrencies, and Decentralization"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

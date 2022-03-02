@@ -1,0 +1,19 @@
+{
+  "$id": "12005994",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GEO 376",
+      "ENV 375",
+      "CEE 379",
+      "MAE 376"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Glaciers and ice sheets are important elements of Earth\u0027s global climate system. This course introduces undergraduate and graduate students to the history of ice on Earth, contemporary glaciology, and the interactions between climate, glaciers, landforms, and sea level. Drawing from basic physical concepts, lab experiments, numerical modeling, and geological observations, we tackle important physical processes in glaciology, and equip students with data analysis and modeling skills. Students will gain an appreciation for the importance of ice sheets for the global climate system, and the large gaps that remain in our understanding.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016290",
+    "name": "The Physics of Glaciers"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

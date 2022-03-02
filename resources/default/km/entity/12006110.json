@@ -1,0 +1,16 @@
+{
+  "$id": "12006110",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CHI 405C"
+    ],
+    "c_term": "2021 Summer",
+    "description": "A four-week summer intensive language course, conducted online via Zoom. This course focuses on readings and discussions from Chinese scholarly journals, essays, and newspaper articles. Students are exposed to a variety of modern Chinese literary genres, as well as some of the major substantive issues that modern Chinese intellectuals have faced. Admission by application. Prerequisites: CHI 303-304, 305-306, or equivalent. The course consists of five two-hour synchronous classes and five one-hour individual tutorial sessions weekly.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d015089",
+    "name": "Intensive Fourth-Year Modern Chinese I"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

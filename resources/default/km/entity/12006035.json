@@ -1,0 +1,18 @@
+{
+  "$id": "12006035",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRE 310",
+      "COM 336",
+      "ECS 383"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course interrogates the ways we read now and in the future, along the cultural, social, and cognitive ramifications of our habits of reading. The course is divided into three sections, past, present, and future of reading, investigated through questions such as: Why do we read? How do we read? What does reading do to/for the individual and the community? We approach reading not as a neutral process, but as a basic cognitive function and a life skill that is determined by many factors (material, cultural, social, and psychological), which can have considerable repercussions on the individual and the society at large.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016266",
+    "name": "The Future of Reading"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

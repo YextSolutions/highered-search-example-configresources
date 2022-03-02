@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "41dfc89a-ac2c-4832-bf19-49645f5610fa",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what are alan kaplan\u0027s research interests",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "enforcedPrediction": {
+      "length": 20,
+      "offset": 112
+    },
+    "predictionType": "SPAN_EXTRACTION",
+    "resultText": "Mobile software, middleware and protocols; communication and networking for consumer applications and services, software engineering"
+  }
+}

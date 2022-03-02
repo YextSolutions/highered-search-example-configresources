@@ -1,0 +1,17 @@
+{
+  "$id": "12006105",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "AAS 306",
+      "HIS 312"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The course traces how anti-Black racism shaped the development of western medicine in the Americas. It will examine how ideas of anti-Blackness shaped the work of health practitioners and the experiences of patients. It will engage the emergence of racial science and scientific racism, and how they contributed to the production of medical knowledge. It will also address the enduring legacies of anti-Black racism in medical practice, and its impact on health inequality.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d014970",
+    "name": "Topics in Race and Public Policy: History of Anti-Black Racism in Medicine"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

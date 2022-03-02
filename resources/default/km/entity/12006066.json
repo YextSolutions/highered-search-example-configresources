@@ -1,0 +1,17 @@
+{
+  "$id": "12006066",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ENG 425",
+      "COM 462"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "In conjunction with University College London, this topic course addresses a range of topics, including the role of class, gender, ethnicity, race, and sexuality in the social dynamics of London life. Students will be considering works that represent the city in terms of the longing for kinds of relation that the city promises but may withhold. We will consider London as a city of neighborhoods, a national and imperial metropolis, a postcolonial and global city. By attending to our texts in their historical contexts and in relation to one another, we will be exploring writing about London that is as restless as the city itself.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016367",
+    "name": "Topics in London: Writing, Belonging, Voice"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

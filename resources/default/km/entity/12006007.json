@@ -1,0 +1,18 @@
+{
+  "$id": "12006007",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "REL 393",
+      "CHV 393",
+      "AMS 391"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The course begins with the intertwined history of Muslims in America and America itself. We will then apply that foundation to topics in contemporary Muslim American life - for example, authority in mosques, fashion and coolness, and representation in movies. Students will encounter primary as well as secondary sources. For example, students will read an 1831 autobiography of an enslaved Muslim named Omar ibn Said and analyze a Chicago-based Ahmadi newspaper from the 1920s. We will use a range of media, including film and material culture, to emphasize the varieties of Muslim experience in America.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016282",
+    "name": "Muslim America"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "12005929",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HIS 202",
+      "URB 203",
+      "AMS 202",
+      "AAS 203"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This seminar in history and documentary film explores personal narrative and how individual experience contributes to profound social change. We study 1960s youth through oral history, biography, memoir, ethnography and journalism. Trenton NJ is the case study. Themes include: civil rights \u0026 Black power; immigration \u0026 migration; student uprisings \u0026 policing; gender \u0026 sexuality; high school \u0026 college; churches \u0026 city institutions; sports \u0026 youth culture; labor, class \u0026 neighborhood; politics \u0026 government. Working with documentary narrative, the course asks how a new generation of storytellers will shape public conversations and policy.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016319",
+    "name": "The Sixties: Documentary, Youth and the City"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

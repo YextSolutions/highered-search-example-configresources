@@ -1,0 +1,16 @@
+{
+  "$id": "12005930",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "COS 333"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This is a course about the practice of programming. Programming is more than just writing code. Programmers must also assess tradeoffs, choose among design alternatives, debug and test, improve performance, and maintain software written by themselves \u0026 others. At the same time, they must be concerned with compatibility, robustness, and reliability, while meeting specifications. Students will have the opportunity to develop these skills by working on their own code and in group projects.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d002065",
+    "name": "Advanced Programming Techniques"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

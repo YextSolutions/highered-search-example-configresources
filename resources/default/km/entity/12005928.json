@@ -1,0 +1,16 @@
+{
+  "$id": "12005928",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRE 372"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course explores displacements, identities and representations of the francophone populations around the globe. We will address some key issues including resettlement, global migration, the relationship between language and identity, transnationalism, multilingualism, language maintenance of French-speaking communities, particularly those living in the US and New Jersey, through readings, videos, movies, graphic novels, and documents in French and English. The course will also provide students opportunities to engage in civic service, to interact with local community members and to critically reflect on their experiences.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d015868",
+    "name": "Migration, Diversity, Diaspora: Francophone Community-Engagement"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

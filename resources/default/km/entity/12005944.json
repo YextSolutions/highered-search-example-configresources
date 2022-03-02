@@ -1,0 +1,16 @@
+{
+  "$id": "12005944",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 146"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Despite being a very small Middle Eastern country, Israel has continually attracted the world\u0027s attention since its inception in May 1948 until today. This course focuses on the dilemmas associated with the institutions, wars, peace agreements, conflicts, domestic debates, and international challenges that collectively make Israeli politics so fascinating, important, and relevant. We will explore the politics of Israel through a variety of points of view, aiming to reach a better, richer, and more complex understanding of Israel itself.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016214",
+    "name": "Central Dilemmas of Israeli Politics"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

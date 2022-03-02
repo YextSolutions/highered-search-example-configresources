@@ -1,0 +1,16 @@
+{
+  "$id": "12006155",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "MAT 201"
+    ],
+    "c_term": "2021 Summer",
+    "description": "Vectors in the plane and in space, vector functions and motion, surfaces, coordinate systems, functions of two or three variables and their derivatives, maxima and minima and applications, double and triple integrals, vector fields and Stokes\u0027s theorem.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d004149",
+    "name": "Multivariable Calculus"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

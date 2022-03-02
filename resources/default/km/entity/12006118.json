@@ -1,0 +1,18 @@
+{
+  "$id": "12006118",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GLS 318",
+      "ECS 328",
+      "EPS 338"
+    ],
+    "c_term": "2021 Summer",
+    "description": "Before 1918, Austria-Hungary was a world power that spread from the Mediterranean to Ukraine, and Vienna was one of the world capitals of art, culture, and intellectual life. This seminar will explore the cultural history of psychoanalysis and its relation to Austrian history. It will feature weekly speakers who will lecture on topics as diverse as the history of communism in Vienna, the place of psychoanalysis in today\u0027s world, and the transformation of Austria from a world power into a small landlocked nation that often has thought of itself as a new Switzerland - a neutral country and a buffer between East and West.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d013174",
+    "name": "Vienna: Birthplace of Psychoanalysis, Modernism and World War I"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

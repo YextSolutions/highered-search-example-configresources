@@ -1,0 +1,18 @@
+{
+  "$id": "12006102",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "AMS 351",
+      "GSS 443",
+      "AAS 352"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course is designed to explore how centering Black and Native/Indigenous feminist epistemologies (ways of knowing), theories, methods, themes, cultural production, and decolonial and abolitionist struggle reorient the field of American Studies. If we orient American Studies around and through Black and Native/Indigenous gendered, sexualized, feminist and queer modes of survival and ingenuity; what themes, debates, and questions rise to the surface and become salient?",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016229",
+    "name": "Black and Indigenous Feminist Survival and Experimentation in the Americas"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

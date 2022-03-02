@@ -1,0 +1,24 @@
+{
+  "$id": "video-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "Lessons"
+    ],
+    "c_numberViews": "6866",
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dxLsIco77HrY\u0026list\u003dPLlGXNwjYhXYyEReAh8M4vIGNulIzNHzMY",
+    "datePosted": "2021-07-29",
+    "landingPageUrl": "https://www.youtube.com/watch?v\u003dxLsIco77HrY\u0026list\u003dPLlGXNwjYhXYyEReAh8M4vIGNulIzNHzMY",
+    "name": "Computer Science: An Interdisciplinary Approach - Part 1",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dxLsIco77HrY"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

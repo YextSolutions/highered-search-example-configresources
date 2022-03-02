@@ -1,0 +1,16 @@
+{
+  "$id": "12006006",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "REL 307"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course is an in-depth examination of the authorship of Søren Kierkegaard and his call for an existential revision of religious, theological, and philosophical inquiry. With focus on the dynamic, but complex relation between religion and philosophy in his writings, we will consider topics such as the relationship of ethics and religion; paradox and the limits of philosophy; the task of selfhood; faith and reason; subjective vs. objective thought; the concept of existence; the religious individual in society and culture; neighbour love; freedom, sin, and despair, and critique of state religion.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016281",
+    "name": "Kierkegaard: Religion, Philosophy, and Existence"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

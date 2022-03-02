@@ -1,0 +1,16 @@
+{
+  "$id": "12006139",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPI 593C"
+    ],
+    "c_term": "2021 Summer",
+    "description": "This course provides the intellectual foundations for policy students to understand race, power, and inequality issues in the United States, with some comparative international perspectives. We examine these and other issues of identity and inequities through various disciplines, including history, politics, psychology, sociology, economics, and natural sciences. We hope to highlight some possible solutions to the persistent problems of inequality and racial injustice in the U.S. and abroad.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d006989",
+    "name": "Topics in Policy Analysis (Half-Term): Race, Power and Inequality"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

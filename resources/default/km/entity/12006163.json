@@ -1,0 +1,18 @@
+{
+  "$id": "12006163",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GLS 336",
+      "POL 439",
+      "SAS 336"
+    ],
+    "c_term": "2021 Summer",
+    "description": "India has been described as an \"\"unlikely democracy.\"\" As Tocqueville argued, democracy, in principle transforms all the other social forms it touches, from religion to intermediate associations. This seminar will examine the ways in which the Indian democratic experience is unsettling identities, unleashing new forms of mobilization and in the process transforming the meaning of citizenship as Indians experience it. We will ask: Is Indian Democracy moving in a more illiberal and authoritarian direction? If so, what explains this transformation? How does this transformation look in comparative perspective?",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d016003",
+    "name": "Indian Democracy: From Liberal Democracy to Ethnic Majoritarianism"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

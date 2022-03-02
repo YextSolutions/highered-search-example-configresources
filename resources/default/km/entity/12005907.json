@@ -1,0 +1,16 @@
+{
+  "$id": "12005907",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "POL 210"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course explores ideas of individual ethics and political community, the ethics of political rule, freedom and slavery, democracy and representation, and equality and inequality in political thought. Readings will be drawn from both canonical and contemporary authors, including Sophocles, Douglass, Machiavelli, Locke, Rousseau, and Tocqueville. This is an introductory course, which emphasizes both thematic and historical approaches to political theory, and its role in informing contemporary civic engagement.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d005277",
+    "name": "Political Theory"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

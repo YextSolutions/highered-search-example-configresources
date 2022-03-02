@@ -1,0 +1,54 @@
+{
+  "$id": "12007697-48",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., University of California, San Diego, 2002",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "309 Computer Science",
+    "c_researchInterests": [
+      "Computational And Mathematical Methods",
+      "Molecular And Cellular Biology",
+      "Human And Cancer Genomics",
+      "Tumor Evolution",
+      "Novel Therapeutic Innovation",
+      "Comparative Genomics",
+      "Genome Rearrangements In Evolution",
+      "Algorithms For Analysis",
+      "Proteomics Technologies"
+    ],
+    "description": "Developing and applying computational and mathematical methods to address biological questions at the molecular and cellular level. Human and cancer genomics, including algorithmic approaches to identify and interpret genomic alterations in genomes, reconstruct tumor evolution, and discover novel therapeutic interventions. Comparative genomics, particularly analysis of genome rearrangements in evolution. Algorithms for analysis of data from high-throughput genomics and proteomics technologies.",
+    "emails": [
+      "braphael@university.edu"
+    ],
+    "mainPhone": "+16092126314",
+    "name": "Ben Raphael (on leave)",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d3893\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/wEgPRJnI6FO7GCfH_zpEh2mTL3c9H6-nOwD4W_M171Y/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/wEgPRJnI6FO7GCfH_zpEh2mTL3c9H6-nOwD4W_M171Y/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/wEgPRJnI6FO7GCfH_zpEh2mTL3c9H6-nOwD4W_M171Y/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

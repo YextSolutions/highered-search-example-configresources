@@ -1,0 +1,59 @@
+{
+  "$id": "12007697-43",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., University of Texas, Austin, 2009",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "308 Sherrerd Hall",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~arvindn",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Information Privacy",
+      "Fairness In Machine Learning",
+      "Cryptocurrencies",
+      "Tech Policy"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/arvindn",
+      "linkType": "OTHER"
+    },
+    "description": "Information privacy, fairness in machine learning, cryptocurrencies, tech policy",
+    "emails": [
+      "arvindn@university.edu"
+    ],
+    "mainPhone": "+16092129302",
+    "name": "Arvind Narayanan",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d1653\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/BhE1UJJu-fBRosSMsdA1eaVycePGJORLfLK31JmjEvs/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/BhE1UJJu-fBRosSMsdA1eaVycePGJORLfLK31JmjEvs/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/BhE1UJJu-fBRosSMsdA1eaVycePGJORLfLK31JmjEvs/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Associate Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

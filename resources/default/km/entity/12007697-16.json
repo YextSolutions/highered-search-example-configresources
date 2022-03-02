@@ -1,0 +1,57 @@
+{
+  "$id": "12007697-16",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., University of Washington, 1996",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "424 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~af",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Computer Graphics",
+      "Animation"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/af",
+      "linkType": "OTHER"
+    },
+    "description": "Computer graphics, animation. ACM Fellow, 2014.",
+    "emails": [
+      "af@university.edu"
+    ],
+    "mainPhone": "+16092125756",
+    "name": "Adam Finkelstein",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d14\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/3G9V7NmXmdjB8uQ16A8UrhP_I2DYF7ruFRnKXcRF7Ik/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/3G9V7NmXmdjB8uQ16A8UrhP_I2DYF7ruFRnKXcRF7Ik/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/3G9V7NmXmdjB8uQ16A8UrhP_I2DYF7ruFRnKXcRF7Ik/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Professor, Associate Chair"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

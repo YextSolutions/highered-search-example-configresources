@@ -1,0 +1,18 @@
+{
+  "$id": "12006174",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GLS 315",
+      "HLS 360",
+      "TRA 315"
+    ],
+    "c_term": "2021 Summer",
+    "description": "This course treats the language politics of Cyprus--a divided island since 1974, split by a UN buffer zone--as a way into broader discussions of borders, conflict, translation, and intercultural communication. We will read, watch, and explore literary, historical, anthropological, sociological, and other materials dealing with the island\u0027s linguistic and social makeup, its present and its past. We will also meet virtually with individuals living and working on the island, including writers, artists, anthropologists, politicians, activists and translators engaged in multicommunal efforts to forge connections across Cyprus\u0027s many divides.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d015535",
+    "name": "Conflict, Borders, Multilingualism, Translation"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "12006016",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "MOL 445"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Many organisms are agents of disease in humans, but few can cause a pandemic. This course will survey where pandemic pathogens come from, how they replicate and cause disease, and what technologies have been invented to combat them or predict where they may emerge next.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016270",
+    "name": "Pathogens, Pandemics, and Technologies"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

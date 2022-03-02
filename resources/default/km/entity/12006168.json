@@ -1,0 +1,16 @@
+{
+  "$id": "12006168",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "PHY 110"
+    ],
+    "c_term": "2021 Summer",
+    "description": "The content covered in this course is the same as that covered in PHY104, but compressed into 8 summer weeks, and with the assumption of proficiency in problem solving methods covered in PHY109. This calculus-based course is primarily geared to students majoring in engineering and physics, but is also well suited to majors in other sciences. The goal of the course is to develop an understanding of the fundamental laws of physics, in particular electricity and magnetism, with applications to electronics, optics, and quantum computing.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d015544",
+    "name": "General Physics II Summer Offering (Electricity and Magnetism)"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

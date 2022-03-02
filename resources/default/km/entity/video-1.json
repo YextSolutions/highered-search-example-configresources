@@ -1,0 +1,24 @@
+{
+  "$id": "video-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "Alumni"
+    ],
+    "c_numberViews": "12505",
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dCVw1j6pFQ5o",
+    "datePosted": "2021-05-03",
+    "landingPageUrl": "https://www.youtube.com/watch?v\u003dCVw1j6pFQ5o",
+    "name": "Alan Turing\u0027s legacy and computer science at Princeton",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dCVw1j6pFQ5o"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

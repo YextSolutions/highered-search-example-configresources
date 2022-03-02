@@ -1,0 +1,24 @@
+{
+  "$id": "video-12",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "Distinguished Colloquium"
+    ],
+    "c_numberViews": "375",
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dioBiZtUpJj8",
+    "datePosted": "2021-02-22",
+    "landingPageUrl": "https://www.youtube.com/watch?v\u003dioBiZtUpJj8",
+    "name": "Distinguished Colloquium: Christos Papadimitriou, Feb 19, 2021",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dioBiZtUpJj8"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

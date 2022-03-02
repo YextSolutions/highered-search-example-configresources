@@ -1,0 +1,17 @@
+{
+  "$id": "12005903",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ANT 240",
+      "HUM 240"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Medical Anthropology explores how structural violence and the social markers of difference impact life chances in our worlds on edge. While addressing biosocial and therapeutic realities and probing the tenets of medical capitalism, the course articulates theoretical and practical contributions to apprehending health as both a struggle against death and a human right. We will learn ethnographic methods, engage in critical ethical debates, and experiment with modes of expression. Students will develop community-engaged and artistic projects and consider alternative forms of solidarity and care emerging alongside newfangled scales of harm.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d000180",
+    "name": "Medical Anthropology"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

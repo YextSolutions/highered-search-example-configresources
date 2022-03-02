@@ -1,0 +1,18 @@
+{
+  "$id": "12005921",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "EGR 277",
+      "SOC 277",
+      "HIS 277"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Technology and society are unthinkable without each other, each provides the means and framework in which the other develops. To explore this dynamic, this course investigates a wide array of questions on the interaction between technology, society, politics, and economics, emphasizing the themes such as innovation and regulation, risk and failure, ethics and expertise. Specific topics covered include nuclear power and disasters, green energy, the development and regulation of the Internet, medical expertise and controversy, intellectual property, the financial crisis, and the electric power grid.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d011280",
+    "name": "Technology and Society"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

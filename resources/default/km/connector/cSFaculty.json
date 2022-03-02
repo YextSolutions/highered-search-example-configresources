@@ -1,0 +1,443 @@
+{
+  "$id": "cSFaculty",
+  "$schema": "https://schema.yext.com/config/km/connector/v3",
+  "displayName": "CS Faculty",
+  "entityType": "ce_faculty",
+  "source": {
+    "sourceConfig": {
+      "crawlerConfig": {
+        "crawler": "computerscienceprofessors",
+        "urlPatterns": []
+      }
+    },
+    "baseSelector": {
+      "type": "CSS",
+      "header": "Item Container",
+      "path": "div.person.clearfix",
+      "mode": "ALL_TEXT"
+    },
+    "selectors": [
+      {
+        "type": "ITEM_ID",
+        "header": "Item ID"
+      },
+      {
+        "type": "PAGE_URL",
+        "header": "Page URL"
+      },
+      {
+        "type": "CSS",
+        "header": "Name",
+        "path": "h2.person-name",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Title",
+        "path": "div.person-title",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Degree",
+        "path": "div.person-degree",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Contact Details",
+        "path": "div.person-address",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Research Interests",
+        "path": "p.person-research-interests",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Photo",
+        "path": "div.person-photo",
+        "mode": "INNER_HTML"
+      },
+      {
+        "type": "CSS",
+        "header": "Links",
+        "path": "div.person-links",
+        "mode": "INNER_HTML"
+      },
+      {
+        "type": "CSS",
+        "header": "Links Words",
+        "path": "div.person-links",
+        "mode": "ALL_TEXT"
+      }
+    ]
+  },
+  "transforms": [
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Title",
+            "Degree",
+            "Contact Details",
+            "Research Interests"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": "\"",
+            "ignoreCase": false
+          }
+        },
+        "replacement": ""
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Research Interests",
+        "newColumnHeader": "Description",
+        "extractOperation": "ALL_TEXT_AFTER",
+        "extractFrom": "OFFSET_FROM_BEGINNING",
+        "offsetLength": 20
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Contact Details",
+        "newColumnHeader": "Email Start",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": " (",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "addColumn": {
+        "newColumnHeader": "Email End",
+        "columnValue": "@cs.princeton.edu"
+      }
+    },
+    {
+      "mergeColumns": {
+        "inputHeaders": [
+          "Email Start",
+          "Email End"
+        ],
+        "newColumnHeader": "Email Address",
+        "delimiter": ""
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Contact Details",
+        "newColumnHeader": "No Email",
+        "extractOperation": "ALL_TEXT_AFTER",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": ") ",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "No Email",
+        "newColumnHeader": "Phone Number",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "OFFSET_FROM_BEGINNING",
+        "offsetLength": 14
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "No Email",
+        "newColumnHeader": "Address Start",
+        "extractOperation": "ALL_TEXT_AFTER",
+        "extractFrom": "OFFSET_FROM_BEGINNING",
+        "offsetLength": 15
+      }
+    },
+    {
+      "filterRows": {
+        "action": "REMOVE",
+        "combinator": "AND",
+        "rules": [
+          {
+            "columnHeader": "Phone Number",
+            "conditional": "DOES_NOT_CONTAIN",
+            "conditionalInput": "("
+          }
+        ]
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Photo",
+        "newColumnHeader": "Photo End",
+        "extractOperation": "ALL_TEXT_AFTER",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": "src\u003d\"\"",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Photo End",
+        "newColumnHeader": "Photo End 2",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": "\"",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "addColumn": {
+        "newColumnHeader": "Photo Start",
+        "columnValue": "https://www.cs.princeton.edu"
+      }
+    },
+    {
+      "mergeColumns": {
+        "inputHeaders": [
+          "Photo Start",
+          "Photo End 2"
+        ],
+        "newColumnHeader": "Photo Gallery \u003e URL",
+        "delimiter": ""
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Links",
+        "newColumnHeader": "Homepage",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": "class",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "filterRows": {
+        "action": "REMOVE",
+        "combinator": "OR",
+        "rules": [
+          {
+            "columnHeader": "Links Words",
+            "conditional": "DOES_NOT_CONTAIN",
+            "conditionalInput": "Homepage"
+          },
+          {
+            "columnHeader": "Links Words",
+            "conditional": "DOES_NOT_CONTAIN",
+            "conditionalInput": "Profile"
+          }
+        ]
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Links",
+        "newColumnHeader": "Profile",
+        "extractOperation": "ALL_TEXT_AFTER",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": "Homepage",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Homepage",
+        "newColumnHeader": "Homepage 2",
+        "extractOperation": "ALL_TEXT_AFTER",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": "\"\"",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Homepage 2"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": "\"\"",
+            "ignoreCase": false
+          }
+        },
+        "replacement": ""
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Profile",
+        "newColumnHeader": "Profile 2",
+        "extractOperation": "ALL_TEXT_AFTER",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": "\"\"",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Profile 2",
+        "newColumnHeader": "Profile 3",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": "\"\"",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "mergeColumns": {
+        "inputHeaders": [
+          "Photo Start",
+          "Profile 3"
+        ],
+        "newColumnHeader": "Profile Link",
+        "delimiter": ""
+      }
+    },
+    {
+      "addColumn": {
+        "newColumnHeader": "Primary CTA Label",
+        "columnValue": "Homepage"
+      }
+    },
+    {
+      "addColumn": {
+        "newColumnHeader": "Secondary CTA Label",
+        "columnValue": "Profile"
+      }
+    }
+  ],
+  "mappings": [
+    {
+      "field": "entityId",
+      "header": "Item ID",
+      "subfieldPath": []
+    },
+    {
+      "field": "description",
+      "header": "Description",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_degree",
+      "header": "Degree",
+      "subfieldPath": []
+    },
+    {
+      "field": "title",
+      "header": "Title",
+      "subfieldPath": []
+    },
+    {
+      "field": "photoGallery",
+      "header": "Photo Gallery \u003e URL",
+      "subfieldPath": [
+        {
+          "name": "image"
+        },
+        {
+          "name": "url"
+        }
+      ]
+    },
+    {
+      "field": "mainPhone",
+      "header": "Phone Number",
+      "subfieldPath": []
+    },
+    {
+      "field": "name",
+      "header": "Name",
+      "subfieldPath": []
+    },
+    {
+      "field": "emails",
+      "header": "Email Address",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_office",
+      "header": "Address Start",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_primaryCTA",
+      "header": "Primary CTA Label",
+      "subfieldPath": [
+        {
+          "name": "label"
+        }
+      ]
+    },
+    {
+      "field": "c_primaryCTA",
+      "header": "Homepage 2",
+      "subfieldPath": [
+        {
+          "name": "link"
+        }
+      ]
+    },
+    {
+      "field": "c_secondaryCTA",
+      "header": "Secondary CTA Label",
+      "subfieldPath": [
+        {
+          "name": "label"
+        }
+      ]
+    },
+    {
+      "field": "c_secondaryCTA",
+      "header": "Profile Link",
+      "subfieldPath": [
+        {
+          "name": "link"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "12006060",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ART 489",
+      "HUM 489"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The 19th century in Europe and America saw the rise and fall of empires and unprecedented innovation in industry, technology, science, and the arts. Through a series of topics, including history, science, medicine, perception, and time, this course considers how intellectual revolutions in diverse disciplines, such as biology and philosophy, and the invention of new fields of knowledge, such as ethnography and psychology, shaped art-making. The work of David, Cole, Church, Eakins, Manet, Courbet, Tanner, Inness, Van Gogh, and Cézanne will offer unique perspectives onto the modes of seeing and knowing that defined 19th-century culture.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016242",
+    "name": "Art and Knowledge in the Nineteenth Century"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

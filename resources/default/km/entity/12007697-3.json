@@ -1,0 +1,56 @@
+{
+  "$id": "12007697-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., University of Illinois, Urbana/Champaign, 2000",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "221 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~august",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Computer Architecture And Compilers"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/august",
+      "linkType": "OTHER"
+    },
+    "description": "Computer Architecture and Compilers",
+    "emails": [
+      "august@university.edu"
+    ],
+    "mainPhone": "+16092122085",
+    "name": "David August",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d5\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/L4ZNJpHzzWHNJIxkSz2WWnk6vbmHK_YDZV_FZWuJ2rY/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/L4ZNJpHzzWHNJIxkSz2WWnk6vbmHK_YDZV_FZWuJ2rY/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/L4ZNJpHzzWHNJIxkSz2WWnk6vbmHK_YDZV_FZWuJ2rY/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

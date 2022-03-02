@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "6a34e1db-52af-4e82-bf5e-f0d427a78927",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what course can i learn about econometrics",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 25,
+      "offset": 184
+    },
+    "resultText": "nuclear science, settler colonialism, and environmental racism to collectively imagine a more holistic approach to studying science and the environment. The course revolves around the Nuclear Princeton project"
+  }
+}

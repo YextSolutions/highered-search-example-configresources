@@ -1,0 +1,18 @@
+{
+  "$id": "12006077",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CWR 312",
+      "GSS 452",
+      "HUM 319"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The Body: we all have one and inhabit it in a myriad of ways, as a source of joy, a contradiction to be reckoned with, a failed experiment, an inadequate container for all that we are, and an unending mystery. In traditional workshops we don\u0027t discuss what we are writing about and why; content and context come second to craft. In Vital Signs we will explore narratives of the body, beginning by reading material illustrative of a wide-range of expression and experience while working toward finding language for our individual physical and emotional experience.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016236",
+    "name": "Vital Signs: Writing On and About the Body"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

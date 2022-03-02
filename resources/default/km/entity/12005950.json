@@ -1,0 +1,16 @@
+{
+  "$id": "12005950",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 152"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "How do we grapple with the lasting, unintended impacts of conducting science, engineering, and medicine in \"\"the nation\u0027s service and service of humanity\"\"? What lessons can we learn from the University\u0027s past to conduct morally sound research and generate culturally inclusive knowledge? In this course, students will use perspectives from Indigenous studies to critically approach the intersection of Princeton\u0027s history, nuclear science, settler colonialism, and environmental racism to collectively imagine a more holistic approach to studying science and the environment. The course revolves around the Nuclear Princeton project.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016217",
+    "name": "Nuclear Princeton: An Indigenous Approach to Science and the Environment"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

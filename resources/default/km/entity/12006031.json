@@ -1,0 +1,19 @@
+{
+  "$id": "12006031",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HUM 230",
+      "CGS 230",
+      "PSY 209",
+      "MUS 229"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Music and language offer unique pathways into studying the human mind. This interdisciplinary course explores the parallels and differences between music and language by investigating their functions and structures, as well as the variety found in each across the globe. We will examine how both past experiences and cognitive processes shape perception in real time. Through a variety of interdisciplinary readings, guest lecturers, and hands-on activities, the course aims to highlight current lively debates and provide students with the background and tools needed to study the relationship between music and language from multiple perspectives.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016262",
+    "name": "Music and Language"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

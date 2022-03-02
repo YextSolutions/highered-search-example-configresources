@@ -1,0 +1,16 @@
+{
+  "$id": "12006095",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "PSY 341"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Adversity is a powerful force in the human experience. From scarcity, to disasters, to marginalization, experiences of adversity play a pivotal role in how people think, feel, and act. This seminar will explore the psychological consequences of adversity, including its effects on beliefs, attitudes, decision-making, morality, self and identity, health and well-being, close relationships, and communities. We will consider not only the deleterious effects of adversity, but also how it can foster resilience, strengthen ties, and spark creativity. The course will balance psychological theories and research with personal and historic narratives.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016346",
+    "name": "The Psychology of Adversity"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

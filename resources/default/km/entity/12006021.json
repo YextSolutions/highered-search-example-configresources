@@ -1,0 +1,17 @@
+{
+  "$id": "12006021",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "NEU 499",
+      "PSY 499"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Computers now exceed humans in many complex, real-world tasks. However, humans remain unique in the range of tasks they can perform, and the ability to generalize their knowledge to new ones. This course will consider the components and characteristics of a computational architecture needed to achieve these capabilities. Topics will span work in cognitive, brain, and computer science. Students will come away with a broad view of how these fields are informing each other, and how together they are beginning to provide an outline of the computational architecture responsible for the (still) uniquely human form of intelligence.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016274",
+    "name": "The Computational Basis of Natural Intelligence in the Human Brain"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

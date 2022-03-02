@@ -1,0 +1,17 @@
+{
+  "$id": "12006025",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "POL 490",
+      "ECO 489"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Academics and policymakers increasingly recognize that political factors can affect economic performance in developing countries. This seminar covers recent scholarship pertaining to the politics of economic underdevelopment from an international relations perspective. We will focus on how political processes affect economic performance from both a \"\"macro\"\" and \"\"micro\"\" perspective, including such factors as: institutions, historical legacies, colonialism, political regimes, sources of poor governance (e.g., corruption, ethnicity, civil conflict, religion), and the role of geopolitics, foreign aid, and international trade.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016278",
+    "name": "Politics of Economic Under-Development"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

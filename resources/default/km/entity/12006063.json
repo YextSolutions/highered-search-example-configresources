@@ -1,0 +1,16 @@
+{
+  "$id": "12006063",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CWR 222"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This is a multi-genre writing class that explores daily creative practice. This semester, you\u0027ll be challenged to push your creative limits and to take risks in your work. Together we\u0027ll explore how we can become more alert to the world and how, through language, we can respond in fresh ways to the events of our lives. As we imagine other experiences and engage in a conversation with the long tradition of writing, we\u0027ll practice thinking flexibly and seeing opportunity in failure. In this class, you will be a member of a community of writers prepared to challenge and support each other as we navigate the process of creation.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016244",
+    "name": "Spark! Sparking Creativity in Writing"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

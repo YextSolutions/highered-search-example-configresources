@@ -1,0 +1,16 @@
+{
+  "$id": "12005952",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 158"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course will provide an overview of the scientific study of gemstones. Topics covered will include crystallography, crystal structures, and optical properties of gems. Diamonds and gems will be used to illustrate geological concepts such as plate tectonics and our planet\u0027s deep interior. The course will also examine recent analytical advances for constraining the provenance of historical gems as well as new applications of gemstones in modern technology. The course will make use of Princeton\u0027s large gem collection for hands-on demonstrations and activities and will include a field trip to the American Museum of Natural History.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016218",
+    "name": "All That Glitters: The Science of Diamond and Gemstones"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

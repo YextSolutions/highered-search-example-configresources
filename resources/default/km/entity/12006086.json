@@ -1,0 +1,19 @@
+{
+  "$id": "12006086",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ART 403",
+      "NES 403",
+      "ARC 402",
+      "HLS 404"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course examines the role of the senses in art and architecture to move beyond conceptions of art history that prioritize vision. While the experience of art is often framed in terms of seeing, the other senses were crucially involved in the creation of buildings and objects. Textiles and ceramic vessels invite touch, gardens involve the smell of flowers, sacred spaces were built to amplify the sound of prayers and chants. The focus will be on the medieval and early modern Mediterranean. Readings will range from medieval poetry and multisensory art histories to contemporary discussions of the senses in design and anthropology.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016342",
+    "name": "Sensory Spaces, Tactile Objects: The Senses in Art And Architecture"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "12006067",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "EAS 253",
+      "HIS 253",
+      "MED 253"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This seminar explores law in Japan, and the social, administrative, and judicial functions of law across different premodern societies. It uses centuries-old records of divorces, inheritance conflicts, and even murders as case studies mainly from precedent-based legal systems in the twelfth through fourteenth centuries. The chief focus is medieval Japan, seen in comparison to medieval England, whose 1215 Magna Carta inspires analogies to Japan\u0027s classic 1232 code (The Joei Formulary), and to the Mongol Yuan legal system in China.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016247",
+    "name": "The Law in Action in Premodern Japan: A Comparative Perspective"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

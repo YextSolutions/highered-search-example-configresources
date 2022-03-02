@@ -1,0 +1,16 @@
+{
+  "$id": "12005918",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 154"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Qué es una frontera? How has the US-Mexico border been configured and imagined since colonial times? What does it mean to live in-between nations, languages and worldviews? This seminar will explore the concept of the border and borderland spaces from a humanistic and historical perspective. We will reflect on the border as a geographical space but also as a discursive site where authors reflect on dreams, (land) struggles, trans-nationalism, language, identity, race, gender, and human rights. Some reading knowledge of Spanish is desirable but not required.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d015836",
+    "name": "Before and After the Wall: US-Mexico Border Fictions"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

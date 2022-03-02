@@ -1,0 +1,18 @@
+{
+  "$id": "12006058",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ART 106",
+      "VIS 106",
+      "ENT 106"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "It can be remarkably easy to take the process of looking for granted. Each day, humans contend with an onslaught of visual information. Education primarily focuses on teaching people how to read, write, and deal with numbers. But what about learning how to look closely and critically at images, at the world around us, and at ourselves? In this transdisciplinary course, we will question common assumptions and our own about looking; interrogate the anatomy and physiology of vision; develop our looking muscles; practice visual problem-solving strategies; and together design new tools to help people engage with the visual world.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016241",
+    "name": "Looking Lab: Experiments in Visual Thinking and Thinking about Visuals"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

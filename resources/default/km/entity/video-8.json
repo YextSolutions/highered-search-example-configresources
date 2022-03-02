@@ -1,0 +1,24 @@
+{
+  "$id": "video-8",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "Faculty Interviews"
+    ],
+    "c_numberViews": "609",
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dIMw8evNEKYQ",
+    "datePosted": "2015-11-30",
+    "landingPageUrl": "https://www.youtube.com/watch?v\u003dIMw8evNEKYQ",
+    "name": "Inteview with Robert Sedgewick, Princeton Computer Science Professor",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dIMw8evNEKYQ"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

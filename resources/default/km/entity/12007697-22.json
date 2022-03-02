@@ -1,0 +1,42 @@
+{
+  "$id": "12007697-22",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Stanford University, 2005",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "417 Computer Science",
+    "emails": [
+      "tomg@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092584285",
+    "name": "Tom Griffiths",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d4404\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/FzQ5-HVCVnHdO6Hg1JJvadCF_0d5i85enazg2sTcAB4/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/FzQ5-HVCVnHdO6Hg1JJvadCF_0d5i85enazg2sTcAB4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/FzQ5-HVCVnHdO6Hg1JJvadCF_0d5i85enazg2sTcAB4/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Henry R. Luce Professor of Information Technology, Consciousness and Culture"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

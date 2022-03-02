@@ -1,0 +1,16 @@
+{
+  "$id": "12005909",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "TPP 301"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "A study of essential methods of learning and teaching, including learner characteristics and needs, organization and structure of educational institutions, development of curriculum and instructional goals, preparation of evaluation and assessment, and design of subject/level specific methodologies and classroom management techniques. Required course work includes 22 hours of site-based field experience and evening laboratory sessions. Students should have one morning of unscheduled time available each week to allow for school visits. The course is open to any student who has an interest in teaching.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d007931",
+    "name": "Seminar on Student Learning and Methods for Teaching"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

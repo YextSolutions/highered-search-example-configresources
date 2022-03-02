@@ -1,0 +1,56 @@
+{
+  "$id": "12007697-37",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Stanford, 1994",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "208 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~mrm",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Computer Architecture In Classical And Quantum Systems"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/mrm",
+      "linkType": "OTHER"
+    },
+    "description": "Computer Architecture in Classical and Quantum Systems. IEEE Computer Society Technical Achievement Award, 2018; Anita Borg Institute Technical Leadership Award, 2013; ACM Fellow, 2009; IEEE Fellow, 2010. American Academy of Arts and Sciences, 2019.",
+    "emails": [
+      "mrm@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092581912",
+    "name": "Margaret Martonosi (on leave)",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d847\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/LbI2M_QGGmCwngX-XljhkoURqUQzdiquIFIsFiv4qYU/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/LbI2M_QGGmCwngX-XljhkoURqUQzdiquIFIsFiv4qYU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/LbI2M_QGGmCwngX-XljhkoURqUQzdiquIFIsFiv4qYU/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Hugh Trumbull Adams \u002735 Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

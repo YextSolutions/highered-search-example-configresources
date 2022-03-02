@@ -1,0 +1,16 @@
+{
+  "$id": "12006156",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GER 102G"
+    ],
+    "c_term": "2021 Summer",
+    "description": "Continues the goals of GER 101, focusing on increased communicative proficiency (oral and written), effective reading strategies, and listening skills. Emphasis on vocabulary acquisition and functional language tasks: learning to request, persuade, ask for help, express opinions, agree and disagree, negotiate conversations, and gain perspective on German culture through readings, discussion, and film.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d016002",
+    "name": "Beginner\u0027s German II"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

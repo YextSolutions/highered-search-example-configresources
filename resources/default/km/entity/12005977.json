@@ -1,0 +1,17 @@
+{
+  "$id": "12005977",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ANT 440",
+      "GSS 456"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This seminar focuses on the social institutions and symbolic meanings of gender, sexuality, family, and the household through the lenses of race, culture, and historical contexts. We will study how understandings of masculinity and femininity, the orientation of desire, sexual acts, and sexual identities impact gender roles in the household across various cultural and social contexts. We will ground our work in historical and ethnographic research on the connections between colonialism, chattel slavery, capitalism, and gender, sexual relations, and the family.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016315",
+    "name": "Gender and the Household"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "12006159",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HUM 250",
+      "STC 250",
+      "WRI 250"
+    ],
+    "c_term": "2021 Summer",
+    "description": "Ways of Knowing empowers students to become active producers of knowledge by introducing them to scholarly ways of thinking, reading, and writing across the University. Students analyze a variety of multidisciplinary texts that raise questions about power, institutions, and identity. In Summer 2021, Ways of Knowing will focus on the ways knowledge is produced, manipulated, disseminated, and consumed. Students gain an understanding of the diverse--and intersecting--ways that scholars ask questions and generate knowledge. Most importantly, students will use this understanding to make their own contribution to this scholarly conversation.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d011196",
+    "name": "Ways of Knowing"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

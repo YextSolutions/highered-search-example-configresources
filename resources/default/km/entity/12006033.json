@@ -1,0 +1,18 @@
+{
+  "$id": "12006033",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "GEO 369",
+      "MSE 369",
+      "ENV 388"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The course covers concepts related to the chemistry of inorganic and organic materials found in the pristine and contaminated settings in the Earth surface environments, with an introduction to the modern field sampling techniques and advanced laboratory analytical and imaging tools. Different materials characterization methods, such as optical, infrared, and synchrotron X-ray spectroscopy and microscopy, will also be introduced. Field sampling and analysis of materials from diverse soil and coastal marine environments will be the focus during the second half of the semester.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016264",
+    "name": "Environmental Materials Chemistry: Researching in Field and Laboratory"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

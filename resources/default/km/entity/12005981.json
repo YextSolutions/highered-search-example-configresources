@@ -1,0 +1,16 @@
+{
+  "$id": "12005981",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPI 299"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course introduces students to basic concepts from the study of public policy. It will serve as an introduction into SPIA and the many disciplines that make up its faculty. The course is designed to familiarize students with the broader issues involved in analyzing, designing, and implementing public polity. The course will a) introduce students to three approaches that policy makers use to design and evaluate policy; and b) allow students to apply these abstract notions to a variety of policy debates.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016301",
+    "name": "Policy: Authority, Incentive, Persuasion"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

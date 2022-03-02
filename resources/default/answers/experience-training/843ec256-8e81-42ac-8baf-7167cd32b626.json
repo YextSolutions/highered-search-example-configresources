@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "843ec256-8e81-42ac-8baf-7167cd32b626",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what courses can i take in summer 2021",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 34,
+      "offset": 149
+    },
+    "resultText": "virtually this year. Taken along with RUS 105R, this is a special offering of third- and fourth-semester Russian taught during the summer to include grammar, conversation, and reading. Students take part in a combined eight-week intensive language course offered through the Derzhavin Institute and receive supplemental instruction from Princeton faculty members. Students"
+  }
+}

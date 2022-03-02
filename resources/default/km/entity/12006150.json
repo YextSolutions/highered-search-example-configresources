@@ -1,0 +1,17 @@
+{
+  "$id": "12006150",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "NEU 501B",
+      "MOL 501B"
+    ],
+    "c_term": "2021 Summer",
+    "description": "This laboratory course complements NEU 501A and introduces students to the variety of techniques and concepts used in modern neuroscience, from the point of view of experimental and computational/quantitative approaches. Topics include synaptic transmission and plasticity, two-photon imaging, central neuron activity patterns, optogenetic methods to control neural activity and student-designed special projects. In-lab lectures give students the background necessary to understand the scientific content of the labs but the emphasis is on the laboratory work. Second half of a double-credit core course required of all NEU Ph.D. students.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d011368",
+    "name": "Neuroscience: From Molecules to Systems to Behavior"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

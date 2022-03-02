@@ -1,0 +1,18 @@
+{
+  "$id": "12006004",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_defaultOnInitialSearch": true,
+    "c_subjectAssociations": [
+      "AMS 403",
+      "SOC 403"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The aim of this course is to provide you with the tools to think about elites within democratic societies. The course is divided into four modular units: (1) The Decline of Aristocracy, (2) Creating an American Elite, (3) Elites and Power, and (4) A New Elite. For each of these units we will spend one week reading a theoretical approach to understanding the theme, one week on an empirical case to put this theory in context, and one week reading a novel that works with the themes of the theory and research we have read.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d014668",
+    "name": "Advanced Seminar in American Studies: Elites in Democratic America"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

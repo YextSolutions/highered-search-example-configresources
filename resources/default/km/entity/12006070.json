@@ -1,0 +1,17 @@
+{
+  "$id": "12006070",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ATL 497",
+      "MTD 497"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Ever thought of writing a rock musical? Or, having written one, staging it? If you\u0027re a writer, composer, musician, singer or director you might consider joining the Tony Award winning composer Stew (Passing Strange) and book and lyrics writer Paul Muldoon as they develop their new piece commissioned by the Public Theater in New York. Athens, Georgia is based on the Frogs of Aristophanes but set squarely in the America of the 2020s. This up-to-date version combines slapstick and social justice and features appearances by the rock god Dionysus, the guitar hero Hercules, Chuck Berry, Little Richard and, of course, the Real Housewives of Hades.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d003863",
+    "name": "Princeton Atelier: Athens, Georgia"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

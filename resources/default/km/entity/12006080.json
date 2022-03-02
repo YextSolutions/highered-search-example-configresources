@@ -1,0 +1,17 @@
+{
+  "$id": "12006080",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "THR 350",
+      "ENG 450"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "What happens when there is a dead body on stage? Why do corpses star in so many movies? Reverence for the dead is one of the markers of humanity, bound up with the development of societies and cultures. But we also play with dead bodies, spinning stories around them that can be austere or grotesque, tragic or farcical, haunting or hilarious. Dramas and films use dead bodies to explore fear, sex, greed, guilt, innocence and grief. In this course, we contemplate corpses from Antigone to Alfred Hitchcock and from Shakespeare\u0027s tragedies to Stand By Me and Weekend at Bernie\u0027s and bring the dead to life.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016238",
+    "name": "Playing Dead: Corpses in Theater and Cinema"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

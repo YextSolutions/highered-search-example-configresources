@@ -1,0 +1,18 @@
+{
+  "$id": "12006173",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "PHI 367",
+      "REL 392",
+      "HUM 367"
+    ],
+    "c_term": "2021 Summer",
+    "description": "We will study the life and work of Soren Kierkegaard (1813-1855). His mission as an author begins with a journal entry he wrote while overlooking the sea north of Copenhagen: \"\"What I really need is to get clear about what I must do, not what I must know, except insofar as knowledge must precede every act. What matters is to find a purpose.\"\" We will follow in Kierkegaard\u0027s footsteps, both literally and figuratively.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d015093",
+    "name": "Kierkegaard Everywhere"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

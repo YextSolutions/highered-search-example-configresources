@@ -1,0 +1,52 @@
+{
+  "$id": "12007697-52",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Stanford University, 2015",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "408 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~olgarus",
+      "linkType": "OTHER"
+    },
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/olgarus",
+      "linkType": "OTHER"
+    },
+    "emails": [
+      "olgarus@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092588118",
+    "name": "Olga Russakovsky",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d4110\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/a8RN1yd7rLUsm-l_1Fb4qSTmsUtVSmBxeLIjW0Ac1E4/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/a8RN1yd7rLUsm-l_1Fb4qSTmsUtVSmBxeLIjW0Ac1E4/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/a8RN1yd7rLUsm-l_1Fb4qSTmsUtVSmBxeLIjW0Ac1E4/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Assistant Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

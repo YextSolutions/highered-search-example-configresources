@@ -1,0 +1,16 @@
+{
+  "$id": "12006012",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SOC 373"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This seminar focuses on the structural and institutional foundations of racial discrimination in the United States. It emphasizes the contributions of sociologists, some of whom will participate as invited guests. The course gives a historical overview followed by an investigation of key legislative actions and economic factors inhibiting racial equality. Subsequent topics include migration and immigration; urban development; and residential segregation. The end of the course reviews resistance movements and policies aimed at addressing systemic racism, including restorative justice and reparations.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016287",
+    "name": "Systemic Racism: Myths and Realities"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "12006091",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "LAS 234",
+      "ANT 333"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "In this class we will trouble the idea of \"\"The Northern Triangle\"\" by prying apart that grouping, examining each country\u0027s unique stories, and taking a nuanced look at shared phenomena. We will cover: the history and legacy of US intervention, the evolution of state and criminal violence, resistance struggles and Indigenous movements, and the varied and complex reality of drug cartels and street gangs. The course will touch on themes of transparency, impunity, and corruption in the democratic, post-war present and also focus on the emergence of and challenges to attempts to hold the post-dictatorial governments to account.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016344",
+    "name": "Rethinking the Northern Triangle: Violence, Intervention, and Resistance in Central America"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

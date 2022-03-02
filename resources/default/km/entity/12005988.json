@@ -1,0 +1,16 @@
+{
+  "$id": "12005988",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "VIS 208"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "In this introductory studio course, participants explore the world wide web as an opportunity for self-publishing. We\u0027ll understand the web\u0027s history and original design as a decentralized system for publishing on one\u0027s own terms. But it\u0027s easy to forget this, as today the corporate and platformed web captures and sells our data and attention. Through hands-on exercises and projects, this course aims to demystify the web, removing barriers to basic web coding and publishing by focusing on the foundational skills in making websites with HTML and CSS. We\u0027ll remember what makes a web a web: links made by humans.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016307",
+    "name": "Graphic Design: Link"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

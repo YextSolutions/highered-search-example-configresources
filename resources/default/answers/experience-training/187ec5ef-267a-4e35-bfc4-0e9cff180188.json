@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "187ec5ef-267a-4e35-bfc4-0e9cff180188",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what are alan kaplan\u0027s research interests",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "predictionType": "SPAN_EXTRACTION",
+    "rejectedPrediction": {
+      "length": 27,
+      "offset": 104
+    },
+    "resultText": "Excavate/Illuminate will guide students\u0027 archival research and collaborative exploration of US history, journalism, and performance, focusing on the pivotal Tulsa Race Massacre (1921) as a case study. We will read several examples of documentary theater to see how artists create theater from the raw materials of history. For the first half"
+  }
+}

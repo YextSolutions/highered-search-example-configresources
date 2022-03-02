@@ -1,0 +1,42 @@
+{
+  "$id": "12007697-49",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Hebrew University, 1992",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "421 Computer Science",
+    "emails": [
+      "ranr@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092582086",
+    "name": "Ran Raz",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d4003\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/PzcfVgwKfyAqZPW7YOI1A6600Z_pz2R5TuS7b7UJCF8/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/PzcfVgwKfyAqZPW7YOI1A6600Z_pz2R5TuS7b7UJCF8/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/PzcfVgwKfyAqZPW7YOI1A6600Z_pz2R5TuS7b7UJCF8/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

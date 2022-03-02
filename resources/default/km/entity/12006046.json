@@ -1,0 +1,16 @@
+{
+  "$id": "12006046",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ENG 290"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The Undead are everywhere: on movie and television screens, in books, even in the academy. This seminar will explore the literature of the undead beyond the commercially successful franchises like True Blood or The Walking Dead, from the 19th C. to the present day. Many questions are raised by these literary revenants: What do the undead do for us? What can they express or represent? How do these texts use the supernatural to address very human (political, historical, social) issues and desires, particularly in regards to postcolonial and minority discourses? Why are the undead so compelling to contemporary writers and readers?",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016256",
+    "name": "The Undead"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

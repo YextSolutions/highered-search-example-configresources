@@ -1,0 +1,16 @@
+{
+  "$id": "12006132",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CHI 305C"
+    ],
+    "c_term": "2021 Summer",
+    "description": "A four-week summer intensive language course, conducted online via Zoom. This course is designed for students who are interested in current political and social issues in China and Taiwan. Reading materials will be selected from newspapers of the People\u0027s Republic of China. Admission by application. Prerequisites: CHI 103-108, 105-107, or equivalent. The course consists of five two-hour synchronous classes and five one-hour individual tutorial sessions weekly.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d012354",
+    "name": "Intensive Third-year Modern Chinese I"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

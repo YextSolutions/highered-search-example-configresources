@@ -1,0 +1,16 @@
+{
+  "$id": "12006089",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ECO 201"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course covers the main tools used in a mathematical approach to economic analysis, for example in ECO 310/311/312. Topics include multivariable calculus and optimization, linear algebra, basic probability theory and stochastic processes, and an introduction to real analysis and dynamic programming. The course provides a more economics-relevant alternative to MAT 175.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016222",
+    "name": "Mathematical Methods for Economists"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

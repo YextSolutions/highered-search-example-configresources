@@ -1,0 +1,19 @@
+{
+  "$id": "12005920",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HUM 352",
+      "ENG 252",
+      "URB 352",
+      "THR 360"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course will study the role that the arts can and do play in Trenton: a so-called invisible city, one of the poorest parts of the state, but intimately connected to Princeton. Examining the historical and contemporary racisms that have shaped Trenton, we will hear from activists, policy makers, artistic directors, politicians, and artists. Readings will include texts about urban invisibility, race, community theater, and public arts policy. The course will follow the development of a new play by Trenton\u0027s Passage Theater about desegregation in Trenton; students can also choose to assist in curating a show featuring Trenton artists.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d015916",
+    "name": "Arts in the Invisible City: Race, Policy, Performance"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

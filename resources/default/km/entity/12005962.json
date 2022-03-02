@@ -1,0 +1,18 @@
+{
+  "$id": "12005962",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPA 408",
+      "LAS 418",
+      "MUS 338"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This seminar relates Caribbean music to historical and contemporary migratory issues. It examines questions of listening, memory, joy, diaspora, and the Anthropocene through genres like: son, bolero, calypso, salsa, reggae, merengue, bomba, and reggaeton. Attention to gender, sexual and racial inequities in portrayals of migrant cultures as symbolic of multiculturalism, while migrants are stigmatized as risks to security. Seminar speaks to current global context of displacement with focus on climate change\u0027s impact on the Caribbean. We study music, sound, performance, literary, ethnographic and historical texts, visual arts, and journalism.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016324",
+    "name": "Music and Migration in the Caribbean"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

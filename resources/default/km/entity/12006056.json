@@ -1,0 +1,19 @@
+{
+  "$id": "12006056",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ENG 317",
+      "MED 318",
+      "HUM 314",
+      "COM 396"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Feeling lost? This course links two key forms that shape the spaces we dwell in, cross through, and imagine: medieval maps and travel narratives. These strange artifacts also index familiar categories like difference, identity, and control. We\u0027ll query what these epistemes make happen, including cultural diffusion and definitionally transgressive tales of travel. Along with critical and cognate works, these texts will expose worlds in which space wavers and dislocates where we\u0027re mapped.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016361",
+    "name": "Where are we? Maps, Travel, and Wonder"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

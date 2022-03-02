@@ -1,0 +1,17 @@
+{
+  "$id": "12006022",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "PHI 351",
+      "CHV 351"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course examines ethical tradeoffs that arise in environmental policy making. We begin by discussing various aspects of the environment that could give it value: abiotic features, non-sentient organisms, animals, species, biodiversity, ecosystems, existing humans, and future humans. The second half of the course explores how individuals and groups should go about protecting the most valuable aspects of the environment. Particular topics include: geoengineering, genetic engineering, family planning, carbon offsetting, global climate policy and inequality, endangered species, invasive species, land restoration, and space exploration.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016275",
+    "name": "Enviromental Ethics"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

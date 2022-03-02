@@ -1,0 +1,15 @@
+{
+  "$id": "computersciencecourses",
+  "$schema": "https://schema.yext.com/config/crawler/site-crawler/v1",
+  "name": "Computer Science Courses",
+  "enabled": true,
+  "crawlSchedule": "once",
+  "crawlStrategy": "subPages",
+  "domains": [
+    "https://www.cs.princeton.edu"
+  ],
+  "ignoreQueryParameterOption": "none",
+  "subPagesUrlStructures": [
+    "https://www.cs.princeton.edu/courses/*"
+  ]
+}

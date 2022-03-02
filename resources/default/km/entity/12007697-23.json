@@ -1,0 +1,58 @@
+{
+  "$id": "12007697-23",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Carnegie Mellon University, 1994",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "220 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~aartig",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Formal Verification",
+      "Program Analysis",
+      "Logic Decision Procedures"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/aartig",
+      "linkType": "OTHER"
+    },
+    "description": "Formal verification, program analysis, logic decision procedures. ACM Fellow, 2017.",
+    "emails": [
+      "aartig@university.edu"
+    ],
+    "mainPhone": "+16092128017",
+    "name": "Aarti Gupta",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d2813\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/n-J6Kfn-6Q6hhXwXkt7y4rLdJC4BcqDEHJWUBXKXT_g/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/n-J6Kfn-6Q6hhXwXkt7y4rLdJC4BcqDEHJWUBXKXT_g/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/n-J6Kfn-6Q6hhXwXkt7y4rLdJC4BcqDEHJWUBXKXT_g/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

@@ -1,0 +1,58 @@
+{
+  "$id": "12007697-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., University of California, Berkeley, 1994",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "407 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~arora",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Use Of Randomness In Complexity Theory And Algorithms",
+      "Efficient Algorithms For Finding Approximate Solutions To Np-Hard Problems",
+      "Cryptography"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/arora",
+      "linkType": "OTHER"
+    },
+    "description": "Uses of randomness in complexity theory and algorithms; Efficient algorithms for finding approximate solutions to NP-hard problems (or proving that they don\u0027t exist); Cryptography. Member, National Academy of Sciences (2018); Member, American Academy of Arts and Sciences (2015); Fulkerson Prize, (2012); Goedel Prize, (2010 and 2010); ACM Fellow, (2009)",
+    "emails": [
+      "arora@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092583869",
+    "name": "Sanjeev Arora",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d4\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/pBMBinmdaJogYaDvdm_ReDf2BJfsslvquhf8l9At-0w/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/pBMBinmdaJogYaDvdm_ReDf2BJfsslvquhf8l9At-0w/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/pBMBinmdaJogYaDvdm_ReDf2BJfsslvquhf8l9At-0w/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Charles C. Fitzmorris Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

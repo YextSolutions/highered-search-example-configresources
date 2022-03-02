@@ -1,0 +1,61 @@
+{
+  "$id": "12007697-38",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., J.D., Stanford University,",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "307 Sherrerd Hall",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~jrmayer",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Technology Law And Policy",
+      "National Security",
+      "Criminal Procedure",
+      "Consumer Privacy",
+      "Networking Management",
+      "Online Speech"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/jrmayer",
+      "linkType": "OTHER"
+    },
+    "description": "Technology law and policy, with emphasis on national security, criminal procedure, consumer privacy, network management, and online speech.",
+    "emails": [
+      "jrmayer@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092582175",
+    "name": "Jonathan Mayer",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d551\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/U4Q1ui3VKv_RB711Blo2CUUgEROEhVg-qk3xI27Pck0/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/U4Q1ui3VKv_RB711Blo2CUUgEROEhVg-qk3xI27Pck0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/U4Q1ui3VKv_RB711Blo2CUUgEROEhVg-qk3xI27Pck0/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Assistant Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

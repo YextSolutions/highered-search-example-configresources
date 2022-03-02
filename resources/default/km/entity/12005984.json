@@ -1,0 +1,18 @@
+{
+  "$id": "12005984",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "AAS 303",
+      "HIS 300",
+      "LAS 363"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "\u0027Revolution knows no compromise,\u0027 Malcolm X said in a 1963 speech. \u0027You haven\u0027t got a revolution that doesn\u0027t involve bloodshed.\u0027 This course investigates the concepts of revolution and counterrevolution by centering the race question. We will explore the strategies that liberation movements used to achieve revolution and conversely, how imperial states aimed to subvert these movements through counterrevolutionary warfare. Our class will highlight Black, Indigenous, and Third World liberation struggles, and we will look at cases in Haiti, the U.S., Russia, Algeria, Cuba, and Iran.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d014930",
+    "name": "Topics in Global Race and Ethnicity: Race, Revolution, and Counterrevolution"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

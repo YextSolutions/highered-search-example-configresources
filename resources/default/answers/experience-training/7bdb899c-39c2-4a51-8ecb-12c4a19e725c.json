@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "7bdb899c-39c2-4a51-8ecb-12c4a19e725c",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what are mark braverman\u0027s research interests",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "enforcedPrediction": {
+      "length": 204,
+      "offset": 0
+    },
+    "predictionType": "SPAN_EXTRACTION",
+    "resultText": "Complexity theory, algorithms, game theory, machine learning, and applications of computer science in healthcare and medicine. Presburger Award, 2016. SFCM Stephen Smale Prize, 2014; Packard Fellow, 2013."
+  }
+}

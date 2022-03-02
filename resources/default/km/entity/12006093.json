@@ -1,0 +1,18 @@
+{
+  "$id": "12006093",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "LAS 308",
+      "GEO 309",
+      "ENV 330"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The forests of the tropics, especially of Latin America, are the areas of the world that gain the most attention from the land change science community. This class will examine the global-level forces that lead to changes in land-use and land-cover in Latin America\u0027s forested landscapes. Using images obtained of swidden landscapes, we will examine how changes in Latin America\u0027s forest cover are used to perpetuate the myth that the region\u0027s poor are responsible for observed changes. Drone-derived data and indicators of people\u0027s perceptions of wildlife will help us examine the drivers of change in the region.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016345",
+    "name": "Earth Change and Latin American Natures"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "12006092",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ANT 408",
+      "ECS 409"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Things are the staple of our lives, but they are also objects of our studies and products of our activities. We depend on things, but things also depend us. In this course, we will explore convoluted networks of relations that bring together humans, non-humans and things. Looking at things and thinking about things differently, we will try to understand why they are so irresistible to have, to use, to make, to keep, and to exchange. During the course, we will approach things as signs (semiotics), as material entities (new materialisms), as objects of affection (new materialisms), and as key agents of influence (actor-network theory).",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016224",
+    "name": "The Anthropology of Things"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

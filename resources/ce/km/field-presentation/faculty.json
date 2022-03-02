@@ -1,0 +1,93 @@
+{
+  "$id": "ce_faculty",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_faculty",
+  "displayName": "Faculty",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_degree"
+        },
+        {
+          "id": "title"
+        },
+        {
+          "id": "description"
+        },
+        {
+          "id": "c_department"
+        },
+        {
+          "id": "c_researchInterests"
+        }
+      ]
+    },
+    {
+      "displayName": "Website Links",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "c_primaryCTA"
+        },
+        {
+          "id": "c_secondaryCTA"
+        }
+      ]
+    },
+    {
+      "displayName": "Contact Details",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "emails"
+        },
+        {
+          "id": "mainPhone"
+        },
+        {
+          "id": "c_office"
+        }
+      ]
+    },
+    {
+      "displayName": "Photos",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "photoGallery"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

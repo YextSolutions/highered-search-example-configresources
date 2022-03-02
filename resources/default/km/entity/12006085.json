@@ -1,0 +1,17 @@
+{
+  "$id": "12006085",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "VIS 424",
+      "ART 479"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This seminar examines the radical possibilities of collaboration as fundamentally a process of radical composition through which collaborators bridge different modalities of creative expression - textual composition, artistic composition, speculative composition, among others - that span multiple media, forms and practices. By modeling and exploring collaboration as radical composition, this course seeks to reframe it as more that a dynamic of participation and coordination, and to recognize it as a generative methodology for producing critical scholarly and creative work.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016341",
+    "name": "Radical Composition"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

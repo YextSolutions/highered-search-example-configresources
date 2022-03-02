@@ -1,0 +1,18 @@
+{
+  "$id": "12006020",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_defaultOnInitialSearch": true,
+    "c_subjectAssociations": [
+      "NES 330",
+      "POL 460"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course will discuss how civil war has transformed the states and societies of the modern Middle East and North Africa. Drawing on rich historical literature, theoretical perspectives, and empirical analysis, the course will give students an understanding of the context in which civil wars occur, the forms of order that emerge when states break down, and the long-term consequences of violence and its aftermath.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016273",
+    "name": "Civil War and State Transformation in the Modern Middle East"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

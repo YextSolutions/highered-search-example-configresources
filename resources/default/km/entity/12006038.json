@@ -1,0 +1,16 @@
+{
+  "$id": "12006038",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "MOL 405"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The ultimate goal of every species is the successful contribution of an individual\u0027s genes to the next generation, leading to the evolution of diverse strategies to maximize reproductive success. First, we discuss various reproductive tactics employed in the animal kingdom, examining topics such as asexual and sexual reproduction, extent of parental investment, and maximizing reproductive lifespan. We then focus on human reproductive biology, highlighting age and environment-induced fertility issues, as well as cutting edge research into fertility treatments and assisted reproductive technologies employed in clinics which combat these issues.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016269",
+    "name": "The Biology of Reproduction"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

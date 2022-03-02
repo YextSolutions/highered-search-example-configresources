@@ -1,0 +1,17 @@
+{
+  "$id": "12005949",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "MAE 416",
+      "EEB 416"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "The bioinspired design course offers interdisciplinary, advanced design and critical thinking experience. Students will work in teams to integrate biological knowledge into the engineering design process. The course uses case studies to show how biological solutions can be transferred into engineering design. The case studies will include themes such as locomotion, materials, and sensing. By the end of the course, students will be able to use analogical design concepts to engineer a prototype based on biological function.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016337",
+    "name": "Bioinspired Design"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,60 @@
+{
+  "$id": "12007697-6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., University of Toronto, 2008",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "304 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~mbraverm",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Complexity Theory",
+      "Algorithms",
+      "Game Theory",
+      "Machine Learning",
+      "Healthcare And Medicine"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/mbraverm",
+      "linkType": "OTHER"
+    },
+    "description": "Complexity theory, algorithms, game theory, machine learning, and applications of computer science in healthcare and medicine. Presburger Award, 2016. SFCM Stephen Smale Prize, 2014; Packard Fellow, 2013.",
+    "emails": [
+      "mbraverm@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092588130",
+    "name": "Mark Braverman",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d1314\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/ayX_9Z1bSCJwTqTMBLnwgKPE3vQu7EZU-7Ruyu1VFTc/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/ayX_9Z1bSCJwTqTMBLnwgKPE3vQu7EZU-7Ruyu1VFTc/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/ayX_9Z1bSCJwTqTMBLnwgKPE3vQu7EZU-7Ruyu1VFTc/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

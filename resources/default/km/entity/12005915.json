@@ -1,0 +1,16 @@
+{
+  "$id": "12005915",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 112"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "An introduction to religious studies and history of philosophy using classic works produced by imprisoned authors. Readings span the world\u0027s major religious and philosophical traditions and include works by Plato, Boethius, Marguerite Porete, Gandhi, Levinas, Martin Luther King, Jr., JP Sartre, and detainees at Guantanamo Bay. Works will be exegeted according to their contexts of origination while also asking what they have to teach us in an era of rising nationalism and mass incarceration.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016207",
+    "name": "Imprisoned Minds: Religion and Philosophy from Jail"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

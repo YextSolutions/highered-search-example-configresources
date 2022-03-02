@@ -1,0 +1,16 @@
+{
+  "$id": "12006142",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "CHI 107C"
+    ],
+    "c_term": "2021 Summer",
+    "description": "A four-week summer intensive language course, which is a continuation of CHI 105C, conducted online via Zoom. This course continues the intensive study of modern spoken and written Chinese and includes the survey of modern cultural and social issues. Admission by application. Prerequisite: CHI 105C or equivalent. The course consists of five two-hour synchronous classes and five one-hour individual tutorial sessions weekly.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d009067",
+    "name": "Intermediate Chinese II"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

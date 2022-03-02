@@ -1,0 +1,30 @@
+{
+  "$id": "ce_course.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Course-default",
+  "entityType": "ce_course",
+  "fields": [
+    "c_assignments",
+    "c_classNumber",
+    "c_defaultOnInitialSearch",
+    "c_department",
+    "c_distributionArea",
+    "c_enrollment",
+    "c_gradingBasis",
+    "c_instructors",
+    "c_links",
+    "c_meetings",
+    "c_otherInformation",
+    "c_permissionRequired",
+    "c_prerequisites",
+    "c_requirementsGrading",
+    "c_reservedSeats",
+    "c_sampleReadingList",
+    "c_section",
+    "c_subjectAssociations",
+    "c_term",
+    "description",
+    "landingPageUrl"
+  ],
+  "required": []
+}

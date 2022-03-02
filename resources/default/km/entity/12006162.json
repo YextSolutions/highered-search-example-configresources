@@ -1,0 +1,17 @@
+{
+  "$id": "12006162",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HIS 503",
+      "HOS 503"
+    ],
+    "c_term": "2021 Summer",
+    "description": "The course includes an intensive two-day, 12-hour training program in eight sessions designed to introduce post-generals students in History and History of Science to key issues of responsibility in research, including: problems in sources, data collection and processing; responsible authorship and peer review; human subjects, oral history, and intellectual property; collaborative research; research misconduct; and history in society. Each session is introduced by one or more faculty members. Students are assigned readings as well as on line resources. The dissertation prospectus part of the course includes eight additional 3-hour sessions.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d011474",
+    "name": "Research Ethics and the Dissertation Prospectus"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

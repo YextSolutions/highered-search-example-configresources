@@ -1,0 +1,18 @@
+{
+  "$id": "12006044",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_defaultOnInitialSearch": true,
+    "c_subjectAssociations": [
+      "EGR 371",
+      "ENT 371"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Students will design and develop novel public-internet technologies that reimagine the future of gig work. They will work with cooperatives of workers and drivers that envision a world where community-owned and open source alternatives are part of the gig work ecosystem. These new platforms aim to be more equitable for couriers, local merchants, and the communities around them by opening up the algorithmic decision-making processes to be defined by all stakeholders. Students will engage in hands-on design and implementation of components of an open-source ecosystem to enable co-ops to take local control of the digital infrastructure.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016254",
+    "name": "Designing the Future of Work: Public Interest Technology Development"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

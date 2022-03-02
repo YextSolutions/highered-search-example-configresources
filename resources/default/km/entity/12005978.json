@@ -1,0 +1,19 @@
+{
+  "$id": "12005978",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "COM 322",
+      "ECS 372",
+      "ENG 282",
+      "ITA 324"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Exploring literary texts and films that foreground the benefits, but also the ordeals of transnational migration and the traffic in peoples, goods, and ideas throughout the Mediterranean region, with particular stress on contemporary works and issues. Particular attention will be paid to women\u0027s experience of the Mediterranean as a realm of adventure as well as the subjection imposed by patriarchal customs, war, and colonization.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016317",
+    "name": "Imagining the Mediterranean In Literature and Film: Itineraries Traditions Ordeals"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

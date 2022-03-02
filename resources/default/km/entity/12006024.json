@@ -1,0 +1,16 @@
+{
+  "$id": "12006024",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "POL 456"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This seminar examines how long-run structural changes have shaped political conflict. We will consider economic, social and demographic transformations and study the ways in which they influence voter preferences, party strategies, government policies and electoral outcomes. Questions include: How do voters prioritize economic interests vs. cultural concerns? When does deindustrialization benefit populist politicians? Why have politicians failed to prevent affordable housing crises? What factors promote or prevent the advancement of women in politics? Why are social democratic parties declining in much of Europe?",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016277",
+    "name": "Social Divides and Political Conflict in the U.S. and Europe"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

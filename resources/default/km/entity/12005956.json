@@ -1,0 +1,17 @@
+{
+  "$id": "12005956",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HIS 341",
+      "SAS 341"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Who is a minority? In contemporary South Asia, \"\"minority\"\" often defined by religion, linguistic identity, caste, ethnicity, or other social markers. But the category of \"\"minority\"\" is not static. It has been constructed, remade, and enforced through both colonial and post-colonial legal and political projects. In this course, we study the ways that minorities have been defined in South Asia over the last two centuries. We historicize the fraught categorization of religious, linguistic, caste, and other minority groups, and we ask how minoritized people have attempted to avert or contest forms of majoritarian rule.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016320",
+    "name": "Making Minorities: Modern South Asian Histories"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

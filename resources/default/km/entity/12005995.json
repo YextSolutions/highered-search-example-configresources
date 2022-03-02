@@ -1,0 +1,18 @@
+{
+  "$id": "12005995",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "MTD 417",
+      "MUS 267",
+      "THR 417"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This upper level musical theater writing course will delve into the creation of new musical works for the stage, with an emphasis on music as an essential dramatic language. In the first half of the course, students will explore the fundamentals of music composition, including song structure, melody, harmony, and vocal writing. In the second, students will create and workshop 15-minute musicals, harnessing music as a tool to tell stories, illuminate character, and express ideas with impact and resonance. The workshop will culminate in a presentation of these short musicals-in-progress.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016291",
+    "name": "Musical Theater Writing II"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

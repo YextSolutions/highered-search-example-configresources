@@ -1,0 +1,17 @@
+{
+  "$id": "12006053",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ATL 498",
+      "THR 498"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Dan Rothenberg and Josephine Decker team up to explore original fables for children, devised for theater and film. We will look at multiple versions of folktales familiar to American children such as Little Red Riding Hood; international folklore; 20th century masters such as Hiyao Miyazaki and Maurice Sendak; and contemporary storytellers such as Kelly Link and Sylvia V. Linsteadt. The class invites musicians, dancers, writers, and performers to \"\"devise\"\" short original creations inspired by the beating heart of fables but updated for our contemporary world of urban migration, technological change, and climate peril.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d003864",
+    "name": "Princeton Atelier: Fables of Our Time"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "12006153",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "MOL 152",
+      "STC 152"
+    ],
+    "c_term": "2021 Summer",
+    "description": "This course will introduce students to laboratory research through a 6-week original research investigation. Although lecture and discussion will be incorporated as needed, by far the largest part of the course will consist of authentic hands-on research. Students will learn how to perform essential laboratory techniques, to design experiments, and to analyze and interpret experimental data. Students will gain experience in both written and oral presentation of scientific results. Students will use synthetic biology tools to conduct original promoter analysis research.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d013307",
+    "name": "Laboratory Research in the Life Sciences"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

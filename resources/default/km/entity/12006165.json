@@ -1,0 +1,16 @@
+{
+  "$id": "12006165",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "JRN 461"
+    ],
+    "c_term": "2021 Summer",
+    "description": "In 2015 more than a million refugees crossed into Europe, sparking a \u0027crisis\u0027 that continues to this day. A new chapter of this story is unfolding in European courtrooms, where survivors, lawyers and human rights activists are pursuing justice through universal jurisdiction, which allows the prosecution of war crimes regardless of the nationality or country of residence of the accused. This course will introduce students to the challenges and opportunities involved in covering the quest for post-war accountability in Europe. Students will learn reporting and analytic skills, and use them to produce their own original works of journalism.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d016008",
+    "name": "Reporting on Post-War Accountability and Human Rights in Europe"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

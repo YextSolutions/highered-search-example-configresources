@@ -1,0 +1,24 @@
+{
+  "$id": "video-3",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_category": [
+      "Life at Princeton"
+    ],
+    "c_numberViews": "118673",
+    "c_youTubeURL": "https://www.youtube.com/watch?v\u003dSNipTn0tr2s",
+    "datePosted": "2017-12-06",
+    "landingPageUrl": "https://www.youtube.com/watch?v\u003dSNipTn0tr2s",
+    "name": "A Day in the Life: Princeton Student",
+    "videos": [
+      {
+        "video": {
+          "url": "https://www.youtube.com/watch?v\u003dSNipTn0tr2s"
+        }
+      }
+    ]
+  },
+  "entityType": "ce_video",
+  "labels": []
+}

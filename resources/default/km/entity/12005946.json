@@ -1,0 +1,16 @@
+{
+  "$id": "12005946",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 148"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This is a reading-and-writing-intensive course focused on short stories that play with conventions of fantastical fiction as commentary on our psychological, sociopolitical, and cultural realities. Critical works provide theoretical background. Each week we will read two uncanny stories exploring the essential mystery of being human in the world through such topics as our relationships to technology, climate change, illness and addiction, and the social contracts that sustain, link, or imprison us. Assignments will include creative writing prompts, response papers, a presentation, and a final essay/short story.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016215",
+    "name": "Exploring the Uncanny through Short Fiction"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

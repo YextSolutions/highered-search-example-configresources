@@ -1,0 +1,16 @@
+{
+  "$id": "12005993",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "ARA 404"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course will explore the accounts of Arab intellectuals, political activists and journalists who spent time in prison for the political views. Drawn from a diverse group, these authors include men and women; secularists and religious thinkers; and they are drawn from a variety of Arab countries. We will read and discuss these narratives entirely in Arabic; students will offer weekly responses to the text as well as producing one for the midterm and a longer final project in lieu of an exam.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d013486",
+    "name": "Topics in Arabic Language and Culture: Texts from Arabic Prison Literature"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

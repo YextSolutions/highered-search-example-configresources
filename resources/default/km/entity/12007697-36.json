@@ -1,0 +1,50 @@
+{
+  "$id": "12007697-36",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., Université Pierre et Marie Curie, 2012",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "035 Corwin Hall",
+    "c_researchInterests": [
+      "Probabilistic Algorithms",
+      "Data Streaming",
+      "Data Structures",
+      "Analysis Of Algorithms",
+      "Analytic Combinatorics"
+    ],
+    "description": "Probabilistic algorithms, data streaming, data structures, analysis of algorithms, analytic combinatorics.",
+    "emails": [
+      "lumbroso@cs.princeton.edu"
+    ],
+    "mainPhone": "+16092585379",
+    "name": "Jérémie Lumbroso",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d2488\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/MVr9Mt58EU5s04BCq2PltfL701Aly734fb8WFXQXFC0/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/MVr9Mt58EU5s04BCq2PltfL701Aly734fb8WFXQXFC0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/MVr9Mt58EU5s04BCq2PltfL701Aly734fb8WFXQXFC0/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Lecturer"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

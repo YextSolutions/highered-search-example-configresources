@@ -1,0 +1,16 @@
+{
+  "$id": "12005963",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "FRS 108"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "There are certain years that define our history more than others. 1964 was one of those years. These twelve months were a tipping point after which the nation took a deep dive into the tumult of this fractious decade. The year began with Lyndon Johnson in the Oval Office after he had taken over the office following the tragic assassination of John F. Kennedy. The year would end with Johnson\u0027s resounding reelection victory against the right-wing conservative Barry Goldwater, a landslide that opened the doors to what the president called a \u0027Great Society.\u0027 This seminar takes a deep dive into the year.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016204",
+    "name": "1964: Tipping Point"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

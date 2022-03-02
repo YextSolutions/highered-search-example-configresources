@@ -1,0 +1,55 @@
+{
+  "$id": "12055018-21",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., University of Washington, 1993",
+    "c_office": "302 Sherrerd Hall",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~felten",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Computer Security",
+      "Network Software",
+      "Technology Law And Policy"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/felten",
+      "linkType": "OTHER"
+    },
+    "description": "Computer security; network software; technology law and policy. Member, National Academy of Engineering, 2013; Member, American Academy of Arts and Sciences, 2011; ACM Fellow, 2007; EFF Pioneer Award, 2005.",
+    "emails": [
+      "felten@university.edu"
+    ],
+    "mainPhone": "+16092125906",
+    "name": "Edward Felten",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d13\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/dcbYEpM7JwRb1NU5xzVe69fDXbpZJxgJb4zMjmA7tuM/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/dcbYEpM7JwRb1NU5xzVe69fDXbpZJxgJb4zMjmA7tuM/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/dcbYEpM7JwRb1NU5xzVe69fDXbpZJxgJb4zMjmA7tuM/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Robert E. Kahn Professor of Computer Science and Public Affairs"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

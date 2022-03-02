@@ -1,0 +1,16 @@
+{
+  "$id": "12006169",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPI 500"
+    ],
+    "c_term": "2021 Summer",
+    "description": "This course is limited to students participating in the Scholars in the Nation\u0027s Service Initiative (SINSI), the Richard H. Ullman Fellowship, or an approved MPA middle year out. Enrolled students participate in one or more internships with a federal, state, or local government agency, non-governmental organization, or multilateral institution in the U.S. or overseas. The purpose is to provide a learning environment for students to use/develop quantitative and qualitative analytical skills in an active public policy setting, with oversight from Princeton University faculty and staff.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1221\u0026courseid\u003d013407",
+    "name": "Extramural Public Policy Fellowship"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

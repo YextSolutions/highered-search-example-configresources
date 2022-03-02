@@ -1,0 +1,18 @@
+{
+  "$id": "12006099",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "POR 407",
+      "LAS 427",
+      "ENV 408"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Do plants think? Do forests have a language? Are our bodies separate from the environment? Are we substantially different from what we once called \"\"nature\"\"? Such questions have been emerging in philosophy and literature, bringing to light new forms of knowledge that are both integrative and holistic. This seminar will discuss the visual arts, literature and musical experiments produced by thinkers (Indigenous or otherwise) who can help us imagine a planet where, differently from our current world, we may still be able to survive.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016348",
+    "name": "Environmental Literature: Thinking Through Plants"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

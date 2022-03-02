@@ -1,0 +1,18 @@
+{
+  "$id": "12005957",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HIS 462",
+      "HUM 462",
+      "MED 462"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This seminar course examines how people during the early Middle Ages defined their existence through negotiated boundaries of gender, class, ethnicity, race, religion, and the human condition. Our work will curate the contributions of marginalized groups to decenter traditional narratives. Students will leave this course with a broad understanding of early medieval history, an appreciation of historical work done by people often omitted from our histories, and a mastery of historical and interdisciplinary tools for promoting awareness and understanding marginalized groups.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016321",
+    "name": "Difference and Deviance in the Early Middle Ages"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

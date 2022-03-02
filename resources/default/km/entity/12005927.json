@@ -1,0 +1,17 @@
+{
+  "$id": "12005927",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "SPA 304",
+      "LAO 304"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "This course examines the paradoxical position of Spanish in the United States. The course aims to place the issues and controversies related to linguistic subordination and the maintenance of Spanish and in the broader context of Latino communities and their social and historical position in the United States. In addition, it tries to equip students with critical resources to address topics such as the relationship between language and identity, political debates around Spanish and English, and bilingualism and the processes of racialization of linguistic minorities.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d013597",
+    "name": "Spanish in the Community"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "668c0a9c-f759-45d7-9af3-802a5bdc9fdc",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what course can i learn about settler colonialism and environmental racism",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "enforcedPrediction": {
+      "length": 287,
+      "offset": 289
+    },
+    "predictionType": "SPAN_EXTRACTION",
+    "resultText": "How do we grapple with the lasting, unintended impacts of conducting science, engineering, and medicine in \"\"the nation\u0027s service and service of humanity\"\"? What lessons can we learn from the University\u0027s past to conduct morally sound research and generate culturally inclusive knowledge? In this course, students will use perspectives from Indigenous studies to critically approach the intersection of Princeton\u0027s history, nuclear science, settler colonialism, and environmental racism to collectively imagine a more holistic approach to studying science and the environment. The course revolves around the Nuclear Princeton project."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "12006065",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "DAN 303",
+      "AAS 329",
+      "MTD 303",
+      "MUS 268"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Enrolled students will engage with this course as workshop cast members of a new interdisciplinary piece by Princeton Arts Fellow Michael J. Love and explore methods of rhythm tap dance performance, live electronic music composition, and practice-based research on Black American music (genres such as jazz, funk, soul, hip hop, techno, and house). In-studio class meetings, structured as rehearsals, will be augmented with weekly listening, viewing, and reading assignments. There may also be opportunities for guest artists and respondents. The course will culminate in a work-in-progress showing during the final weeks of the semester.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d016246",
+    "name": "Rhythm Tap Dance Lab: Explorations in Black Embodied and Electronic Music"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

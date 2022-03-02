@@ -1,0 +1,60 @@
+{
+  "$id": "12007697-14",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_degree": "Ph.D., University of California, Berkeley, 2007",
+    "c_department": [
+      "Computer Science"
+    ],
+    "c_office": "414 Computer Science",
+    "c_primaryCTA": {
+      "label": "Homepage",
+      "link": "https://www.cs.princeton.edu/~bee",
+      "linkType": "OTHER"
+    },
+    "c_researchInterests": [
+      "Machine Learning",
+      "Bayesian Statistics",
+      "Statistical Genetics",
+      "Computational Biology",
+      "Quantitative Genetics"
+    ],
+    "c_secondaryCTA": {
+      "label": "Profile",
+      "link": "https://www.cs.princeton.edu/people/profile/bee",
+      "linkType": "OTHER"
+    },
+    "description": "Machine learning, Bayesian statistics, statistical genetics, computational biology, quantitative genetics. Alfred P. Sloan Research Fellowship, 2016",
+    "emails": [
+      "bee@university.edu"
+    ],
+    "mainPhone": "+16092120933",
+    "name": "Barbara Engelhardt (on leave)",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 300,
+          "sourceUrl": "https://www.cs.princeton.edu/sites/all/modules/custom/cs_people/generate_thumbnail.php?id\u003d2486\u0026amp;thumb\u003d",
+          "thumbnails": [
+            {
+              "height": 300,
+              "url": "http://a.mktgcdn.com/p-sandbox/Z_XznpFLNJpJZMKUpTGHegFaZuJQZbKpHmVHz7e0LE0/200x300.jpg",
+              "width": 200
+            },
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/Z_XznpFLNJpJZMKUpTGHegFaZuJQZbKpHmVHz7e0LE0/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/Z_XznpFLNJpJZMKUpTGHegFaZuJQZbKpHmVHz7e0LE0/200x300.jpg",
+          "width": 200
+        }
+      }
+    ],
+    "title": "Professor"
+  },
+  "entityType": "ce_faculty",
+  "labels": []
+}

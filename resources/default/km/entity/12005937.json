@@ -1,0 +1,18 @@
+{
+  "$id": "12005937",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subjectAssociations": [
+      "HIS 465",
+      "LAO 465",
+      "AMS 465"
+    ],
+    "c_term": "2021-2022 Spring",
+    "description": "Using cities like Los Angeles, Chicago, New York, and Miami as case studies, this course seeks to understand the history of Latinos in urban places. Casting a geographically broad net and focusing largely on the 20th century, this course will comparatively analyze Latinos of different national origins (e.g. Mexican Americans, Cuban Americans, Puerto Ricans, Dominican Americans). In addition, the course will look at a broad cross-section of the Latino community to get at changing understandings of gender, class, race, and immigration status. This course will include readings from traditional historical monographs and autobiographies.",
+    "landingPageUrl": "https://registrar.princeton.edu/course-offerings/course-details?term\u003d1224\u0026courseid\u003d013765",
+    "name": "Latino Urban History"
+  },
+  "entityType": "ce_course",
+  "labels": []
+}

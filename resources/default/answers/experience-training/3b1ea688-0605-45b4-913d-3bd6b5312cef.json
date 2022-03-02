@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/experience-training/v1",
+  "$id": "3b1ea688-0605-45b4-913d-3bd6b5312cef",
+  "experienceKey": "university-demo",
+  "locale": "en",
+  "searchTerm": "what topics are covered in multivariable calclus",
+  "triggerType": "query",
+  "type": "featuredSnippet",
+  "details": {
+    "enforcedPrediction": {
+      "length": 374,
+      "offset": 0
+    },
+    "predictionType": "SPAN_EXTRACTION",
+    "resultText": "This course covers the main tools used in a mathematical approach to economic analysis, for example in ECO 310/311/312. Topics include multivariable calculus and optimization, linear algebra, basic probability theory and stochastic processes, and an introduction to real analysis and dynamic programming. The course provides a more economics-relevant alternative to MAT 175."
+  }
+}
